@@ -3,7 +3,7 @@ Hi there! Welcome to NcaamGNN.
 
 NcaamGNN is a proprietary edge-weighted link prediction GNN model used for margin of victory for college basketball games.
 
-Currently, the project is in the data-cleansing stage. All data has been soruced, cleaned, and it is being translated into a PyTorch Geometric graph dataset.
+Currently, the project is in the data-cleansing stage. All data has been sourced and cleaned, and it is being translated into a PyTorch Geometric graph dataset.
 
 ## Technologies Used
 1. Selenium
