@@ -1,0 +1,3971 @@
+DATE,TEAM,OPP.,VENUE,RESULT
+20231106,Rhode Island,Central Connecticut,H,11
+20231106,Howard,Hampton,H,12
+20231106,Delaware,Bucknell,A,21
+20231106,Siena,Holy Cross,H,2
+20231106,Campbell,Navy,H,11
+20231106,Northeastern,Boston University,H,9
+20231106,Wisconsin,Arkansas St.,H,29
+20231106,UMBC,Louisville,A,-1
+20231106,Saint Peter's,Seton Hall,A,-11
+20231106,Maryland Eastern Sho,Temple,A,-20
+20231106,Elon,Wake Forest,A,-23
+20231106,Tennessee Tech,Tennessee,A,-38
+20231106,Colorado St.,Louisiana Tech,H,8
+20231106,Providence,Columbia,H,19
+20231106,Oakland,Ohio St.,A,-6
+20231106,Seton Hall,Saint Peter's,H,11
+20231106,Nebraska,Lindenwood,H,32
+20231106,North Carolina,Radford,H,16
+20231106,Virginia,Tarleton St.,H,30
+20231106,Rutgers,Princeton,N,-7
+20231106,Duquesne,Cleveland St.,H,2
+20231106,Purdue,Samford,H,53
+20231106,Monmouth,George Mason,A,-11
+20231106,Little Rock,Texas St.,H,5
+20231106,Alabama St.,Mississippi,A,-10
+20231106,Detroit,Toledo,A,-34
+20231106,Bellarmine,Washington,A,-34
+20231106,Southern Indiana,Saint Louis,A,-12
+20231106,Coppin St.,Virginia Tech,A,-45
+20231106,Morgan St.,Arizona,A,-63
+20231106,Green Bay,Iowa St.,A,-41
+20231106,TCU,Southern,H,33
+20231106,UTSA,Western Illinois,H,10
+20231106,Louisville,UMBC,H,1
+20231106,George Mason,Monmouth,H,11
+20231106,SIU Edwardsville,Dayton,A,-16
+20231106,Memphis,Jackson St.,H,17
+20231106,Virginia Tech,Coppin St.,H,45
+20231106,Pittsburgh,North Carolina A&T,H,48
+20231106,Marist,Army,A,16
+20231106,Northern Kentucky,Middle Tennessee,A,-17
+20231106,Wake Forest,Elon,H,23
+20231106,Saint Joseph's,Lafayette,H,21
+20231106,Southeast Missouri S,Grand Canyon,A,-21
+20231106,Northern Arizona,Connecticut,A,-43
+20231106,Iona,College of Charlesto,A,-2
+20231106,Air Force,Portland St.,H,-7
+20231106,Manhattan,Bryant,A,2
+20231106,Fairfield,Boston College,A,-19
+20231106,North Carolina A&T,Pittsburgh,A,-48
+20231106,Western Illinois,UTSA,A,-10
+20231106,Marquette,Northern Illinois,H,22
+20231106,Boston College,Fairfield,H,19
+20231106,Syracuse,New Hampshire,H,11
+20231106,North Carolina Centr,Kansas,A,-43
+20231106,New Mexico,Texas Southern,H,37
+20231106,Towson,Colorado,A,-18
+20231106,The Citadel,North Carolina St.,A,-13
+20231106,Longwood,St. Bonaventure,A,-4
+20231106,Alcorn St.,Arkansas,A,-34
+20231106,Texas Southern,New Mexico,A,-37
+20231106,Mississippi Valley S,LSU,A,-46
+20231106,Jackson St.,Memphis,A,-17
+20231106,Bethune Cookman,Minnesota,A,-20
+20231106,Arkansas Pine Bluff,Missouri,A,-22
+20231106,VMI,Richmond,A,-18
+20231106,Southern,TCU,A,-33
+20231106,Radford,North Carolina,A,-16
+20231106,St. Bonaventure,Longwood,H,4
+20231106,Bucknell,Delaware,H,-21
+20231106,Holy Cross,Siena,A,-2
+20231106,Denver,UC San Diego,A,-8
+20231106,North Dakota St.,Western Michigan,A,4
+20231106,Oral Roberts,UT Arlington,A,-4
+20231106,St. Thomas,California,A,-5
+20231106,Lindenwood,Nebraska,A,-32
+20231106,Cleveland St.,Duquesne,A,-2
+20231106,San Diego St.,Cal St. Fullerton,H,26
+20231106,Lafayette,Saint Joseph's,A,-21
+20231106,Portland,Long Beach St.,H,5
+20231106,Pacific,Sam Houston St.,H,-7
+20231106,South Dakota St.,Akron,H,-6
+20231106,Eastern Illinois,Illinois,A,-28
+20231106,Samford,Purdue,A,-53
+20231106,Colgate,Brown,H,2
+20231106,Iowa St.,Green Bay,H,41
+20231106,Illinois,Eastern Illinois,H,28
+20231106,American,Villanova,A,-27
+20231106,Robert Morris,Xavier,A,-14
+20231106,Oklahoma St.,Abilene Christian,H,-5
+20231106,College of Charlesto,Iona,H,2
+20231106,Vermont,Merrimack,H,12
+20231106,Michigan St.,James Madison,H,-3
+20231106,New Hampshire,Syracuse,A,-11
+20231106,Youngstown St.,Louisiana Lafayette,A,-10
+20231106,Connecticut,Northern Arizona,H,43
+20231106,Army,Marist,H,-16
+20231106,Lehigh,Cornell,H,-6
+20231106,Niagara,Notre Dame,A,-7
+20231106,Notre Dame,Niagara,H,7
+20231106,Western Michigan,North Dakota St.,H,-4
+20231106,Binghamton,Northwestern,A,-11
+20231106,Boston University,Northeastern,A,-9
+20231106,Morehead St.,Alabama,A,-32
+20231106,Navy,Campbell,A,-11
+20231106,Ohio St.,Oakland,H,6
+20231106,Winthrop,Clemson,A,-22
+20231106,Loyola MD,Florida,A,-20
+20231106,Xavier,Robert Morris,H,14
+20231106,Delaware St.,Penn St.,A,-34
+20231106,Hampton,Howard,A,-12
+20231106,North Carolina St.,The Citadel,H,13
+20231106,Duke,Dartmouth,H,38
+20231106,Oklahoma,Central Michigan,H,30
+20231106,Sam Houston St.,Pacific,A,7
+20231106,Charlotte,Maine,H,17
+20231106,Maine,Charlotte,A,-17
+20231106,Villanova,American,H,27
+20231106,George Washington,Stonehill,H,45
+20231106,Evansville,Miami OH,H,8
+20231106,Saint Louis,Southern Indiana,H,12
+20231106,Portland St.,Air Force,A,7
+20231106,Lipscomb,Wichita St.,A,-17
+20231106,Queens,Marshall,A,-16
+20231106,USC Upstate,South Carolina,A,-29
+20231106,Princeton,Rutgers,N,7
+20231106,Middle Tennessee,Northern Kentucky,H,17
+20231106,Cal St. Fullerton,San Diego St.,A,-26
+20231106,Columbia,Providence,A,-19
+20231106,UC San Diego,Denver,H,8
+20231106,BYU,Houston Christian,H,47
+20231106,Cincinnati,Illinois Chicago,H,11
+20231106,Tulane,Nicholls St.,H,10
+20231106,Butler,Eastern Michigan,H,39
+20231106,Kansas St.,USC,N,-13
+20231106,Wichita St.,Lipscomb,H,17
+20231106,Buffalo,Fairleigh Dickinson,H,-6
+20231106,Miami FL,NJIT,H,41
+20231106,Akron,South Dakota St.,A,6
+20231106,Bryant,Manhattan,H,-2
+20231106,St. Francis PA,UCLA,A,-31
+20231106,FIU,UCF,A,-23
+20231106,Idaho,Washington St.,A,-25
+20231106,Central Michigan,Oklahoma,A,-30
+20231106,Central Arkansas,Tulsa,A,-17
+20231106,Temple,Maryland Eastern Sho,H,20
+20231106,Brown,Colgate,A,-2
+20231106,West Virginia,Missouri St.,H,8
+20231106,Minnesota,Bethune Cookman,H,20
+20231106,Eastern Michigan,Butler,A,-39
+20231106,Tulsa,Central Arkansas,H,17
+20231106,Fordham,Wagner,H,4
+20231106,Eastern Washington,Utah,A,-35
+20231106,Northwestern,Binghamton,H,11
+20231106,UCF,FIU,H,23
+20231106,Illinois Chicago,Cincinnati,A,-11
+20231106,Toledo,Detroit,H,34
+20231106,Cornell,Lehigh,A,6
+20231106,Georgia St.,Belmont,A,-2
+20231106,Wagner,Fordham,A,-4
+20231106,Missouri St.,West Virginia,A,-8
+20231106,Washington St.,Idaho,H,25
+20231106,New Mexico St.,Kentucky,A,-40
+20231106,Clemson,Winthrop,H,22
+20231106,Texas St.,Little Rock,A,-5
+20231106,Louisiana Tech,Colorado St.,A,-8
+20231106,Bowling Green,Chicago St.,H,29
+20231106,VCU,McNeese St.,H,-11
+20231106,Kansas,North Carolina Centr,H,43
+20231106,Northern Illinois,Marquette,A,-22
+20231106,Louisiana Monroe,Houston,A,-53
+20231106,Georgia Southern,Georgia Tech,A,-22
+20231106,California,St. Thomas,H,5
+20231106,Cal St. Northridge,Stanford,A,-9
+20231106,Washington,Bellarmine,H,34
+20231106,Central Connecticut,Rhode Island,A,-11
+20231106,Cal St. Bakersfield,Southern Utah,H,1
+20231106,Texas,Incarnate Word,H,32
+20231106,Louisiana Lafayette,Youngstown St.,H,10
+20231106,UAB,Bradley,H,-2
+20231106,Arkansas,Alcorn St.,H,34
+20231106,Belmont,Georgia St.,H,2
+20231106,Arizona,Morgan St.,H,63
+20231106,UCLA,St. Francis PA,H,31
+20231106,Arkansas St.,Wisconsin,A,-29
+20231106,Georgia Tech,Georgia Southern,H,22
+20231106,Houston Christian,BYU,A,-47
+20231106,Richmond,VMI,H,18
+20231106,Stonehill,George Washington,A,-45
+20231106,Long Beach St.,Portland,A,-5
+20231106,Dayton,SIU Edwardsville,H,16
+20231106,Bradley,UAB,A,2
+20231106,Georgia,Oregon,N,-11
+20231106,Penn St.,Delaware St.,H,34
+20231106,Colorado,Towson,H,18
+20231106,Miami OH,Evansville,A,-8
+20231106,Stanford,Cal St. Northridge,H,9
+20231106,Merrimack,Vermont,A,-12
+20231106,Mississippi,Alabama St.,H,10
+20231106,Missouri,Arkansas Pine Bluff,H,22
+20231106,Florida,Loyola MD,H,20
+20231106,Fairleigh Dickinson,Buffalo,A,6
+20231106,South Carolina,USC Upstate,H,29
+20231106,Texas A&M,Texas A&M Commerce,H,32
+20231106,Dartmouth,Duke,A,-38
+20231106,Utah,Eastern Washington,H,35
+20231106,USC,Kansas St.,N,13
+20231106,Oregon,Georgia,N,11
+20231106,Marshall,Queens,H,16
+20231106,McNeese St.,VCU,A,11
+20231106,Texas A&M Commerce,Texas A&M,A,-32
+20231106,Kentucky,New Mexico St.,H,40
+20231106,Tennessee,Tennessee Tech,H,38
+20231106,NJIT,Miami FL,A,-41
+20231106,Nicholls St.,Tulane,A,-10
+20231106,Tarleton St.,Virginia,A,-30
+20231106,Southern Utah,Cal St. Bakersfield,A,-1
+20231106,UT Arlington,Oral Roberts,H,4
+20231106,Grand Canyon,Southeast Missouri S,H,21
+20231106,Abilene Christian,Oklahoma St.,A,5
+20231106,LSU,Mississippi Valley S,H,46
+20231106,Incarnate Word,Texas,A,-32
+20231106,James Madison,Michigan St.,A,3
+20231106,Alabama,Morehead St.,H,32
+20231106,Houston,Louisiana Monroe,H,53
+20231107,Nevada,Sacramento St.,H,14
+20231107,Albany,Massachusetts,A,-21
+20231107,Stony Brook,St. John's,A,-16
+20231107,DePaul,Fort Wayne,H,-8
+20231107,UC Irvine,San Jose St.,A,-8
+20231107,Sacramento St.,Nevada,A,-14
+20231107,Baylor,Auburn,N,6
+20231107,St. John's,Stony Brook,H,16
+20231107,Florida Gulf Coast,Indiana,A,-6
+20231107,Le Moyne,Georgetown,A,-37
+20231107,San Jose St.,UC Irvine,H,8
+20231107,Presbyterian,Vanderbilt,A,6
+20231107,Florida A&M,Creighton,A,-51
+20231107,UNC Asheville,Michigan,A,-25
+20231107,Indiana,Florida Gulf Coast,H,6
+20231107,Northern Iowa,North Texas,A,-6
+20231107,Georgetown,Le Moyne,H,37
+20231107,North Dakota,Iowa,A,-42
+20231107,Auburn,Baylor,N,-6
+20231107,Massachusetts,Albany,H,21
+20231107,Mount St. Mary's,Maryland,A,-15
+20231107,Fort Wayne,DePaul,A,8
+20231107,Creighton,Florida A&M,H,51
+20231107,Maryland,Mount St. Mary's,H,15
+20231107,Drexel,La Salle,A,-6
+20231107,La Salle,Drexel,H,6
+20231107,North Texas,Northern Iowa,H,6
+20231107,Iowa,North Dakota,H,42
+20231107,Vanderbilt,Presbyterian,H,-6
+20231107,Michigan,UNC Asheville,H,25
+20231108,Jackson St.,San Diego,A,-26
+20231108,Syracuse,Canisius,H,12
+20231108,Florida Atlantic,Loyola Chicago,N,13
+20231108,Western Illinois,SMU,A,-37
+20231108,Santa Clara,Utah Tech,H,8
+20231108,SMU,Western Illinois,H,37
+20231108,Troy,Ohio,A,-18
+20231108,San Diego,Jackson St.,H,26
+20231108,Arizona St.,Mississippi St.,N,-15
+20231108,Ohio,Troy,H,18
+20231108,Prairie View A&M,Seattle,A,-11
+20231108,Texas Tech,Texas A&M Commerce,H,27
+20231108,Drake,Lipscomb,H,15
+20231108,Seattle,Prairie View A&M,H,11
+20231108,Utah Tech,Santa Clara,A,-8
+20231108,Penn,Bucknell,H,19
+20231108,Canisius,Syracuse,A,-12
+20231108,UNLV,Southern,H,-14
+20231108,Southern,UNLV,A,14
+20231108,Bucknell,Penn,A,-19
+20231108,Texas A&M Commerce,Texas Tech,A,-27
+20231108,Loyola Chicago,Florida Atlantic,N,-13
+20231108,Mississippi St.,Arizona St.,N,15
+20231108,Lipscomb,Drake,A,-15
+20231109,Portland St.,UC Santa Barbara,A,6
+20231109,South Carolina St.,South Florida,A,-44
+20231109,St. Francis PA,San Francisco,A,-32
+20231109,Florida A&M,Nebraska,A,-27
+20231109,Sam Houston St.,Utah Valley,H,-6
+20231109,Fairfield,Rhode Island,A,-13
+20231109,Alabama A&M,North Alabama,A,-16
+20231109,Western Kentucky,Wichita St.,A,-10
+20231109,Nebraska,Florida A&M,H,27
+20231109,Coppin St.,Towson,H,-21
+20231109,Rhode Island,Fairfield,H,13
+20231109,Michigan St.,Southern Indiana,H,23
+20231109,Denver,Cal Poly,H,21
+20231109,Stonehill,Army,H,13
+20231109,Howard,Georgia Tech,A,-3
+20231109,Army,Stonehill,A,-13
+20231109,Nebraska Omaha,TCU,A,-22
+20231109,Elon,East Tennessee St.,H,3
+20231109,New Mexico,Saint Mary's,A,-14
+20231109,SMU,Lamar,H,11
+20231109,North Alabama,Alabama A&M,H,16
+20231109,Saint Mary's,New Mexico,H,14
+20231109,Pepperdine,UC Davis,A,-1
+20231109,San Francisco,St. Francis PA,H,32
+20231109,USC,Cal St. Bakersfield,H,26
+20231109,South Florida,South Carolina St.,H,44
+20231109,American,William & Mary,A,-19
+20231109,Middle Tennessee,Stephen F. Austin,H,5
+20231109,William & Mary,American,H,19
+20231109,Mercer,Chicago St.,A,5
+20231109,Georgia Tech,Howard,H,3
+20231109,Lindenwood,Iowa St.,A,-55
+20231109,Northern Kentucky,Washington,A,-8
+20231109,Kent St.,James Madison,H,-5
+20231109,TCU,Nebraska Omaha,H,22
+20231109,Charleston Southern,North Florida,H,-11
+20231109,FIU,Tarleton St.,H,-17
+20231109,UC Davis,Pepperdine,H,1
+20231109,Washington,Northern Kentucky,H,8
+20231109,Towson,Coppin St.,A,21
+20231109,Cal St. Bakersfield,USC,A,-26
+20231109,Lamar,SMU,A,-11
+20231109,Iowa St.,Lindenwood,H,55
+20231109,UC Santa Barbara,Portland St.,H,-6
+20231109,Cal St. Northridge,Idaho,A,3
+20231109,Northwestern St.,Tulane,A,-17
+20231109,Cal Poly,Denver,A,-21
+20231109,Wichita St.,Western Kentucky,H,10
+20231109,Southern Indiana,Michigan St.,A,-23
+20231109,Tulane,Northwestern St.,H,17
+20231109,North Florida,Charleston Southern,A,11
+20231109,Tarleton St.,FIU,A,17
+20231109,Stephen F. Austin,Middle Tennessee,A,-5
+20231109,Idaho,Cal St. Northridge,H,-3
+20231109,James Madison,Kent St.,A,5
+20231109,Utah Valley,Sam Houston St.,A,6
+20231109,East Tennessee St.,Elon,A,-3
+20231110,UCF,Miami FL,A,-16
+20231110,Marshall,Radford,N,-4
+20231110,UC Riverside,Utah,A,-29
+20231110,Oregon,Montana,H,14
+20231110,Murray St.,Tennessee Tech,H,6
+20231110,Sacramento St.,Stanford,A,-18
+20231110,Michigan,Youngstown St.,H,30
+20231110,Mississippi Valley S,Oklahoma,A,-39
+20231110,Duquesne,College of Charlesto,N,18
+20231110,Florida St.,Kennesaw St.,H,27
+20231110,Prairie View A&M,Washington St.,A,-18
+20231110,Morehead St.,Purdue,A,-30
+20231110,Memphis,Missouri,A,15
+20231110,Austin Peay,George Mason,A,-22
+20231110,South Dakota,UT Rio Grande Valley,H,21
+20231110,Monmouth,West Virginia,A,8
+20231110,Jacksonville,Xavier,A,-23
+20231110,UCLA,Lafayette,H,18
+20231110,West Virginia,Monmouth,H,-8
+20231110,Queens,Southern Illinois,A,-23
+20231110,Boston University,Rutgers,A,-24
+20231110,St. Thomas,Idaho St.,H,1
+20231110,Bellarmine,Kansas St.,A,-8
+20231110,George Mason,Austin Peay,H,22
+20231110,Rutgers,Boston University,H,24
+20231110,Northwestern,Dayton,H,5
+20231110,Little Rock,Illinois Chicago,A,-15
+20231110,BYU,San Diego St.,H,9
+20231110,Binghamton,Pittsburgh,A,-29
+20231110,Youngstown St.,Michigan,A,-30
+20231110,Samford,VCU,A,-10
+20231110,Alabama,Indiana St.,H,22
+20231110,UNC Greensboro,North Carolina A&T,H,16
+20231110,Gonzaga,Yale,H,15
+20231110,Penn St.,Lehigh,H,9
+20231110,Yale,Gonzaga,A,-15
+20231110,Oakland,Illinois,A,-11
+20231110,Louisville,Chattanooga,H,-10
+20231110,North Carolina St.,Abilene Christian,H,20
+20231110,IUPUI,Valparaiso,A,10
+20231110,Cincinnati,Detroit,H,32
+20231110,North Carolina A&T,UNC Greensboro,A,-16
+20231110,LIU Brooklyn,Air Force,H,-15
+20231110,Boston College,The Citadel,A,4
+20231110,Liberty,Charlotte,N,12
+20231110,Stanford,Sacramento St.,H,18
+20231110,Central Connecticut,Quinnipiac,A,-4
+20231110,Indiana St.,Alabama,A,-22
+20231110,Pacific,California,A,8
+20231110,Detroit,Cincinnati,A,-32
+20231110,Virginia,Florida,N,3
+20231110,Pittsburgh,Binghamton,H,29
+20231110,Arizona,Duke,A,5
+20231110,Tennessee Tech,Murray St.,A,-6
+20231110,Troy,Oregon St.,A,-1
+20231110,Ohio St.,Texas A&M,H,-7
+20231110,Dayton,Northwestern,A,-5
+20231110,Butler,Southeast Missouri S,H,35
+20231110,Miami FL,UCF,H,16
+20231110,VCU,Samford,H,10
+20231110,LSU,Nicholls St.,H,-2
+20231110,Washington St.,Prairie View A&M,H,18
+20231110,Iona,Sacred Heart,H,7
+20231110,Maryland,Davidson,N,-3
+20231110,Idaho St.,St. Thomas,A,-1
+20231110,Navy,Temple,H,-7
+20231110,Clemson,UAB,N,1
+20231110,Southeast Missouri S,Butler,A,-35
+20231110,Radford,Marshall,N,4
+20231110,Sacred Heart,Iona,A,-7
+20231110,Arkansas,Gardner Webb,H,18
+20231110,Illinois,Oakland,H,11
+20231110,Illinois Chicago,Little Rock,H,15
+20231110,Akron,Southern Miss,H,18
+20231110,Penn,Saint Joseph's,A,-8
+20231110,Lehigh,Penn St.,A,-9
+20231110,Southeastern Louisia,Auburn,A,-15
+20231110,Gardner Webb,Arkansas,A,-18
+20231110,Nicholls St.,LSU,A,2
+20231110,Villanova,Le Moyne,H,26
+20231110,College of Charlesto,Duquesne,N,-18
+20231110,Kentucky,Texas A&M Commerce,H,20
+20231110,Tennessee,Wisconsin,A,10
+20231110,Vanderbilt,USC Upstate,H,7
+20231110,Cal Baptist,Jackson St.,H,14
+20231110,Duke,Arizona,H,-5
+20231110,Texas A&M,Ohio St.,A,7
+20231110,Charlotte,Liberty,N,-12
+20231110,Minnesota,UTSA,H,26
+20231110,California,Pacific,H,-8
+20231110,Jackson St.,Cal Baptist,A,-14
+20231110,Lafayette,UCLA,A,-18
+20231110,Southern Miss,Akron,A,-18
+20231110,Rice,Harvard,H,-13
+20231110,UAB,Clemson,N,-1
+20231110,South Carolina,Virginia Tech,N,2
+20231110,Oklahoma,Mississippi Valley S,H,39
+20231110,Virginia Tech,South Carolina,N,-2
+20231110,Auburn,Southeastern Louisia,H,15
+20231110,Texas A&M Commerce,Kentucky,A,-20
+20231110,Texas,Delaware St.,H,27
+20231110,Dartmouth,UMass Lowell,H,-33
+20231110,Valparaiso,IUPUI,H,-10
+20231110,Florida,Virginia,N,-3
+20231110,Xavier,Jacksonville,H,23
+20231110,Harvard,Rice,A,13
+20231110,Wisconsin,Tennessee,H,-10
+20231110,Kansas,Manhattan,H,38
+20231110,USC Upstate,Vanderbilt,A,-7
+20231110,Hofstra,Princeton,H,-7
+20231110,Eastern Washington,Mississippi,A,-11
+20231110,Quinnipiac,Central Connecticut,H,4
+20231110,Chattanooga,Louisville,A,10
+20231110,Belmont,Furman,A,-23
+20231110,The Citadel,Boston College,H,-4
+20231110,Furman,Belmont,H,23
+20231110,Marquette,Rider,H,30
+20231110,Kansas St.,Bellarmine,H,8
+20231110,San Diego St.,BYU,A,-9
+20231110,Kennesaw St.,Florida St.,A,-27
+20231110,Iowa,Alabama St.,H,31
+20231110,Princeton,Hofstra,A,7
+20231110,Manhattan,Kansas,A,-38
+20231110,Grambling St.,Colorado,A,-32
+20231110,Wright St.,Colorado St.,A,-28
+20231110,Alabama St.,Iowa,A,-31
+20231110,Oregon St.,Troy,H,1
+20231110,Missouri,Memphis,H,-15
+20231110,Temple,Navy,A,7
+20231110,Utah,UC Riverside,H,29
+20231110,Saint Joseph's,Penn,H,8
+20231110,Georgia,Wake Forest,H,3
+20231110,Purdue,Morehead St.,H,30
+20231110,Colorado St.,Wright St.,H,28
+20231110,Rider,Marquette,A,-30
+20231110,Colorado,Grambling St.,H,32
+20231110,Davidson,Maryland,N,3
+20231110,UT Rio Grande Valley,South Dakota,A,-21
+20231110,Montana,Oregon,A,-14
+20231110,Abilene Christian,North Carolina St.,A,-20
+20231110,Wake Forest,Georgia,A,-3
+20231110,Le Moyne,Villanova,A,-26
+20231110,Air Force,LIU Brooklyn,A,15
+20231110,UMass Lowell,Dartmouth,A,33
+20231110,UTSA,Minnesota,A,-26
+20231110,Delaware St.,Texas,A,-27
+20231110,Mississippi,Eastern Washington,H,11
+20231110,Southern Illinois,Queens,H,23
+20231111,Texas St.,Miami OH,A,10
+20231111,Mississippi St.,Tennessee Martin,H,24
+20231111,Kent St.,Fresno St.,H,10
+20231111,Holy Cross,Georgetown,A,1
+20231111,North Texas,Nebraska Omaha,H,11
+20231111,St. Bonaventure,Canisius,H,-3
+20231111,Illinois St.,Saint Louis,A,-9
+20231111,DePaul,Long Beach St.,H,-4
+20231111,South Alabama,Buffalo,A,14
+20231111,Canisius,St. Bonaventure,A,3
+20231111,High Point,Wofford,A,-1
+20231111,Arizona St.,Texas Southern,H,11
+20231111,Ohio,Cleveland St.,A,-4
+20231111,Brown,Loyola MD,H,-2
+20231111,Houston,Texas A&M Corpus Chr,H,32
+20231111,Central Michigan,Louisiana Monroe,H,-10
+20231111,UC San Diego,San Diego,H,6
+20231111,Northern Illinois,Appalachian St.,H,13
+20231111,Cornell,Fordham,A,5
+20231111,Stonehill,Connecticut,A,-40
+20231111,Siena,Richmond,A,-42
+20231111,Incarnate Word,Tulsa,A,-14
+20231111,Santa Clara,St. Francis PA,H,23
+20231111,San Diego,UC San Diego,A,-6
+20231111,UNC Wilmington,UNC Asheville,A,17
+20231111,Tulsa,Incarnate Word,H,14
+20231111,Appalachian St.,Northern Illinois,A,-13
+20231111,Fordham,Cornell,H,-5
+20231111,Cleveland St.,Ohio,H,4
+20231111,Bowling Green,Arkansas St.,H,6
+20231111,Saint Louis,Illinois St.,H,9
+20231111,Providence,Milwaukee,H,10
+20231111,Old Dominion,Ball St.,A,-5
+20231111,Tennessee Martin,Mississippi St.,A,-24
+20231111,Georgia Southern,Eastern Michigan,A,-10
+20231111,Texas A&M Corpus Chr,Houston,A,-32
+20231111,East Carolina,Campbell,H,14
+20231111,Wyoming,Cal Poly,H,14
+20231111,Toledo,Louisiana Lafayette,H,9
+20231111,UNLV,Stetson,H,16
+20231111,William & Mary,George Washington,A,-6
+20231111,Fairleigh Dickinson,Seton Hall,A,-30
+20231111,Cal Poly,Wyoming,A,-14
+20231111,Loyola Chicago,Eastern Illinois,H,24
+20231111,Louisiana Lafayette,Toledo,A,-9
+20231111,Loyola MD,Brown,A,2
+20231111,Seattle,Montana St.,H,3
+20231111,Utah Tech,Jacksonville St.,A,2
+20231111,Columbia,Albany,H,-3
+20231111,Eastern Illinois,Loyola Chicago,A,-24
+20231111,Wofford,High Point,H,1
+20231111,Utah St.,Bradley,A,-6
+20231111,Saint Peter's,NJIT,A,27
+20231111,UNC Asheville,UNC Wilmington,H,-17
+20231111,Western Michigan,Georgia St.,H,-7
+20231111,Montana St.,Seattle,A,-3
+20231111,Buffalo,South Alabama,H,-14
+20231111,Texas Southern,Arizona St.,A,-11
+20231111,St. Francis PA,Santa Clara,A,-23
+20231111,George Washington,William & Mary,H,6
+20231111,UC Irvine,New Mexico St.,H,17
+20231111,Creighton,North Dakota St.,H,29
+20231111,La Salle,Northeastern,H,5
+20231111,Western Carolina,Notre Dame,A,10
+20231111,Marist,UMBC,A,6
+20231111,Eastern Michigan,Georgia Southern,H,10
+20231111,Bucknell,Niagara,A,9
+20231111,Northeastern,La Salle,A,-5
+20231111,Bradley,Utah St.,H,6
+20231111,NJIT,Saint Peter's,H,-27
+20231111,Fresno St.,Kent St.,A,-10
+20231111,Mount St. Mary's,Coppin St.,H,14
+20231111,Georgia St.,Western Michigan,A,7
+20231111,Albany,Columbia,A,3
+20231111,Arkansas St.,Bowling Green,A,-6
+20231111,Jacksonville St.,Utah Tech,H,-2
+20231111,Campbell,East Carolina,A,-14
+20231111,Georgetown,Holy Cross,H,-1
+20231111,North Dakota St.,Creighton,A,-29
+20231111,Winthrop,Drexel,H,-2
+20231111,Ball St.,Old Dominion,H,5
+20231111,Long Beach St.,DePaul,A,4
+20231111,Coppin St.,Mount St. Mary's,A,-14
+20231111,Milwaukee,Providence,A,-10
+20231111,Nebraska Omaha,North Texas,A,-11
+20231111,Miami OH,Texas St.,H,-10
+20231111,Louisiana Monroe,Central Michigan,A,10
+20231111,Seton Hall,Fairleigh Dickinson,H,30
+20231111,Connecticut,Stonehill,H,40
+20231111,Stetson,UNLV,A,-16
+20231111,UMBC,Marist,H,-6
+20231111,Notre Dame,Western Carolina,H,-10
+20231111,New Mexico St.,UC Irvine,A,-17
+20231111,Richmond,Siena,H,42
+20231111,Niagara,Bucknell,H,-9
+20231111,Drexel,Winthrop,A,2
+20231112,Iowa St.,Idaho St.,H,31
+20231112,UC Davis,Montana,A,-13
+20231112,Maryland,UAB,N,-3
+20231112,San Jose St.,Texas Tech,A,-14
+20231112,Texas A&M Commerce,Fort Wayne,A,-22
+20231112,Indiana,Army,H,8
+20231112,Towson,Robert Morris,H,4
+20231112,Robert Morris,Towson,A,-4
+20231112,Idaho St.,Iowa St.,A,-31
+20231112,Loyola Marymount,Yale,H,-3
+20231112,James Madison,Howard,H,21
+20231112,Clemson,Davidson,N,3
+20231112,Delaware,Air Force,H,8
+20231112,Texas Tech,San Jose St.,H,14
+20231112,Pepperdine,Lafayette,H,23
+20231112,San Francisco,Boise St.,A,-5
+20231112,Portland,UC Riverside,H,11
+20231112,Saint Mary's,Weber St.,H,-4
+20231112,Air Force,Delaware,A,-8
+20231112,Bryant,Rutgers,A,-9
+20231112,North Carolina,Lehigh,H,22
+20231112,Montana,UC Davis,H,13
+20231112,Oklahoma St.,Sam Houston St.,H,15
+20231112,Sam Houston St.,Oklahoma St.,A,-15
+20231112,Howard,James Madison,A,-21
+20231112,UC Riverside,Portland,A,-11
+20231112,Boise St.,San Francisco,H,5
+20231112,Southern Indiana,Chicago St.,H,-11
+20231112,Northern Arizona,Grand Canyon,A,-34
+20231112,Baylor,Gardner Webb,H,15
+20231112,North Carolina Centr,Georgia,A,-10
+20231112,Washington,Nevada,H,-7
+20231112,Rutgers,Bryant,H,9
+20231112,Lehigh,North Carolina,A,-22
+20231112,Grand Canyon,Northern Arizona,H,34
+20231112,Merrimack,Maine,A,6
+20231112,Nevada,Washington,A,7
+20231112,Lafayette,Pepperdine,A,-23
+20231112,Gardner Webb,Baylor,A,-15
+20231112,North Dakota,Elon,H,17
+20231112,Elon,North Dakota,A,-17
+20231112,Davidson,Clemson,N,-3
+20231112,Army,Indiana,A,-8
+20231112,Weber St.,Saint Mary's,A,4
+20231112,UAB,Maryland,N,3
+20231112,Maine,Merrimack,H,-6
+20231112,Cincinnati,Eastern Washington,H,12
+20231112,Fort Wayne,Texas A&M Commerce,H,22
+20231112,Yale,Loyola Marymount,A,3
+20231112,Eastern Washington,Cincinnati,A,-12
+20231112,Georgia,North Carolina Centr,H,10
+20231113,Norfolk St.,Hampton,H,7
+20231113,Duquesne,Stony Brook,H,22
+20231113,St. John's,Michigan,H,-16
+20231113,Central Arkansas,Arkansas Pine Bluff,H,-2
+20231113,Arizona,Southern,H,38
+20231113,Rider,Nebraska,A,-14
+20231113,Cal St. Bakersfield,California,A,-20
+20231113,UTEP,UC Santa Barbara,H,13
+20231113,Purdue,Xavier,H,12
+20231113,Quinnipiac,Massachusetts,A,-21
+20231113,Florida St.,Central Michigan,H,27
+20231113,LIU Brooklyn,Pepperdine,A,-35
+20231113,FIU,Miami FL,A,-6
+20231113,Northwestern St.,Stephen F. Austin,H,-26
+20231113,Pittsburgh,Florida Gulf Coast,H,12
+20231113,Pepperdine,LIU Brooklyn,H,35
+20231113,Hampton,Norfolk St.,A,-7
+20231113,UC Santa Barbara,UTEP,A,-13
+20231113,Oral Roberts,Missouri St.,A,-15
+20231113,VMI,South Carolina,A,-10
+20231113,Villanova,Penn,A,-4
+20231113,American,Siena,H,20
+20231113,Southern,Arizona,A,-38
+20231113,Penn,Villanova,H,4
+20231113,Western Carolina,Middle Tennessee,A,2
+20231113,Nebraska,Rider,H,14
+20231113,Butler,East Tennessee St.,H,34
+20231113,Stephen F. Austin,Northwestern St.,A,26
+20231113,SIU Edwardsville,Missouri,A,-18
+20231113,Stony Brook,Duquesne,A,-22
+20231113,Miami FL,FIU,H,6
+20231113,Siena,American,A,-20
+20231113,Massachusetts,Quinnipiac,H,21
+20231113,South Carolina St.,North Florida,H,10
+20231113,Missouri St.,Oral Roberts,H,15
+20231113,Stetson,Houston,A,-31
+20231113,North Florida,South Carolina St.,A,-10
+20231113,California,Cal St. Bakersfield,H,20
+20231113,Middle Tennessee,Western Carolina,H,-2
+20231113,Arkansas,Old Dominion,H,9
+20231113,Houston,Stetson,H,31
+20231113,Missouri,SIU Edwardsville,H,18
+20231113,South Carolina,VMI,H,10
+20231113,Presbyterian,The Citadel,H,7
+20231113,South Dakota St.,Kansas St.,A,-23
+20231113,Old Dominion,Arkansas,A,-9
+20231113,Central Michigan,Florida St.,A,-27
+20231113,Michigan,St. John's,A,16
+20231113,East Tennessee St.,Butler,A,-34
+20231113,The Citadel,Presbyterian,A,-7
+20231113,Xavier,Purdue,A,-12
+20231113,Kansas St.,South Dakota St.,H,23
+20231113,Arkansas Pine Bluff,Central Arkansas,A,2
+20231113,Florida Gulf Coast,Pittsburgh,A,-12
+20231114,Providence,Wisconsin,H,13
+20231114,Stonehill,Saint Joseph's,A,-44
+20231114,IUPUI,Indiana St.,A,-39
+20231114,Howard,Boston University,H,11
+20231114,West Virginia,Jacksonville St.,H,13
+20231114,Kansas,Kentucky,N,5
+20231114,Long Beach St.,San Diego St.,A,-12
+20231114,Utah St.,Southern Utah,H,9
+20231114,Western Kentucky,Murray St.,A,5
+20231114,Virginia,North Carolina A&T,H,29
+20231114,George Washington,Hofstra,H,11
+20231114,Western Michigan,Northwestern,A,-4
+20231114,DePaul,South Dakota,H,12
+20231114,New Hampshire,Brown,H,18
+20231114,Illinois,Marquette,H,-7
+20231114,Northwestern,Western Michigan,H,4
+20231114,Bradley,Tarleton St.,H,23
+20231114,Mississippi,Detroit,H,1
+20231114,Morehead St.,Mercer,H,8
+20231114,Florida Atlantic,Eastern Michigan,H,43
+20231114,UC Davis,North Dakota St.,N,15
+20231114,Indiana St.,IUPUI,H,39
+20231114,Santa Clara,Stanford,A,12
+20231114,Vanderbilt,UNC Greensboro,H,4
+20231114,Queens,High Point,H,2
+20231114,Loyola Marymount,Jackson St.,H,22
+20231114,TCU,UT Rio Grande Valley,H,33
+20231114,Florida,Florida A&M,H,21
+20231114,UMass Lowell,Georgia Tech,A,3
+20231114,Brown,New Hampshire,A,-18
+20231114,Texas A&M,SMU,A,13
+20231114,Texas St.,Oklahoma,A,-39
+20231114,Bucknell,La Salle,A,-12
+20231114,Boston University,Howard,A,-11
+20231114,North Alabama,Mississippi St.,A,-27
+20231114,Valparaiso,Green Bay,H,5
+20231114,Tennessee Tech,Lipscomb,H,-31
+20231114,Wisconsin,Providence,A,-13
+20231114,Alabama,South Alabama,H,56
+20231114,Detroit,Mississippi,A,-1
+20231114,Mississippi St.,North Alabama,H,27
+20231114,Stanford,Santa Clara,H,-12
+20231114,Chattanooga,Bellarmine,H,8
+20231114,Mercer,Morehead St.,A,-8
+20231114,Northeastern,Harvard,A,-24
+20231114,Lamar,UTSA,H,8
+20231114,Sacred Heart,Holy Cross,A,7
+20231114,Georgia Tech,UMass Lowell,H,-3
+20231114,Wright St.,Toledo,H,-1
+20231114,Colorado St.,Northern Colorado,A,19
+20231114,Eastern Michigan,Florida Atlantic,A,-43
+20231114,Cal St. Northridge,Chicago St.,A,10
+20231114,Colgate,Syracuse,A,-4
+20231114,Abilene Christian,Prairie View A&M,H,-5
+20231114,Southern Utah,Utah St.,A,-9
+20231114,Tarleton St.,Bradley,A,-23
+20231114,Jackson St.,Loyola Marymount,A,-22
+20231114,Tennessee,Wofford,H,21
+20231114,Iowa,Creighton,A,-8
+20231114,Murray St.,Western Kentucky,H,-5
+20231114,Drexel,Temple,H,-2
+20231114,Colorado,Milwaukee,H,27
+20231114,Alcorn St.,Arkansas St.,A,-14
+20231114,Lipscomb,Tennessee Tech,A,31
+20231114,Milwaukee,Colorado,A,-27
+20231114,Wagner,Rhode Island,A,-16
+20231114,UTSA,Lamar,A,-8
+20231114,St. Francis PA,Penn St.,A,-30
+20231114,Green Bay,Valparaiso,A,-5
+20231114,Bowling Green,Oakland,A,-19
+20231114,Illinois Chicago,Loyola Chicago,A,5
+20231114,Northern Colorado,Colorado St.,H,-19
+20231114,Hofstra,George Washington,A,-11
+20231114,North Carolina A&T,Virginia,A,-29
+20231114,Oregon St.,Appalachian St.,H,10
+20231114,SMU,Texas A&M,H,-13
+20231114,Jacksonville St.,West Virginia,A,-13
+20231114,Loyola Chicago,Illinois Chicago,H,-5
+20231114,UC Irvine,USC,A,10
+20231114,Jacksonville,Georgia Southern,H,17
+20231114,Appalachian St.,Oregon St.,A,-10
+20231114,Marquette,Illinois,A,7
+20231114,Duke,Michigan St.,N,9
+20231114,Wofford,Tennessee,A,-21
+20231114,USC,UC Irvine,H,-10
+20231114,Harvard,Northeastern,H,24
+20231114,Connecticut,Mississippi Valley S,H,34
+20231114,Kentucky,Kansas,N,-5
+20231114,Syracuse,Colgate,H,4
+20231114,Oakland,Bowling Green,H,19
+20231114,Toledo,Wright St.,A,1
+20231114,San Diego St.,Long Beach St.,H,12
+20231114,UMKC,Baylor,A,-38
+20231114,Michigan St.,Duke,N,-9
+20231114,South Dakota,DePaul,A,-12
+20231114,North Dakota St.,UC Davis,N,-15
+20231114,La Salle,Bucknell,H,12
+20231114,South Alabama,Alabama,A,-56
+20231114,Oklahoma,Texas St.,H,39
+20231114,Penn St.,St. Francis PA,H,30
+20231114,Florida A&M,Florida,A,-21
+20231114,Bellarmine,Chattanooga,A,-8
+20231114,UNC Greensboro,Vanderbilt,A,-4
+20231114,Arkansas St.,Alcorn St.,H,14
+20231114,Georgia Southern,Jacksonville,A,-17
+20231114,Creighton,Iowa,H,8
+20231114,Holy Cross,Sacred Heart,H,-7
+20231114,Saint Joseph's,Stonehill,H,44
+20231114,High Point,Queens,A,-2
+20231114,Baylor,UMKC,H,38
+20231114,Temple,Drexel,A,2
+20231114,Prairie View A&M,Abilene Christian,A,5
+20231114,Mississippi Valley S,Connecticut,A,-34
+20231114,UT Rio Grande Valley,TCU,A,-33
+20231114,Rhode Island,Wagner,H,16
+20231115,Cleveland St.,Canisius,H,10
+20231115,Seton Hall,Albany,H,25
+20231115,Princeton,Duquesne,A,3
+20231115,Longwood,Maryland Eastern Sho,A,19
+20231115,VCU,Radford,H,23
+20231115,Virginia Tech,Campbell,H,16
+20231115,Charlotte,Utah Valley,H,17
+20231115,Rice,Texas,A,-16
+20231115,Portland,Tennessee St.,H,-10
+20231115,Merrimack,Ohio St.,A,-24
+20231115,Eastern Illinois,Illinois St.,A,-8
+20231115,Richmond,Boston College,A,-7
+20231115,Southeastern Louisia,BYU,A,-57
+20231115,Houston Christian,FIU,H,-9
+20231115,Ohio St.,Merrimack,H,24
+20231115,Pacific,Nevada,A,-47
+20231115,Cornell,George Mason,A,-7
+20231115,Northern Arizona,Seattle,A,2
+20231115,Nicholls St.,Denver,N,-6
+20231115,Saint Peter's,Fairleigh Dickinson,A,-1
+20231115,Texas,Rice,H,16
+20231115,Morgan St.,Fresno St.,A,-19
+20231115,FIU,Houston Christian,A,9
+20231115,Utah Valley,Charlotte,A,-17
+20231115,Tennessee St.,Portland,A,10
+20231115,UCLA,LIU Brooklyn,H,20
+20231115,Georgetown,Rutgers,A,-11
+20231115,Southeast Missouri S,Evansville,H,-19
+20231115,Nevada,Pacific,H,47
+20231115,Binghamton,Loyola MD,A,6
+20231115,Radford,VCU,A,-23
+20231115,Louisville,Coppin St.,H,20
+20231115,Illinois St.,Eastern Illinois,H,8
+20231115,USC Upstate,East Carolina,A,2
+20231115,BYU,Southeastern Louisia,H,57
+20231115,LIU Brooklyn,UCLA,A,-20
+20231115,South Florida,Central Michigan,H,-5
+20231115,Seattle,Northern Arizona,H,-2
+20231115,Duquesne,Princeton,H,-3
+20231115,Campbell,Virginia Tech,A,-16
+20231115,Boston College,Richmond,H,7
+20231115,George Mason,Cornell,H,7
+20231115,Fairleigh Dickinson,Saint Peter's,H,1
+20231115,Coppin St.,Louisville,A,-20
+20231115,Delaware St.,Delaware,H,-11
+20231115,Canisius,Cleveland St.,A,-10
+20231115,Fresno St.,Morgan St.,H,19
+20231115,Maryland Eastern Sho,Longwood,H,-19
+20231115,Rutgers,Georgetown,H,11
+20231115,Delaware,Delaware St.,A,11
+20231115,Albany,Seton Hall,A,-25
+20231115,Nebraska,Stony Brook,H,21
+20231115,Evansville,Southeast Missouri S,A,19
+20231115,East Carolina,USC Upstate,H,-2
+20231115,Loyola MD,Binghamton,H,-6
+20231115,Central Michigan,South Florida,A,5
+20231115,Denver,Nicholls St.,N,6
+20231115,Stony Brook,Nebraska,A,-21
+20231116,UAB,Alcorn St.,H,3
+20231116,Nicholls St.,South Alabama,A,5
+20231116,Texas A&M Corpus Chr,Texas Tech,A,-9
+20231116,William & Mary,Nebraska Omaha,N,-6
+20231116,Furman,Liberty,N,-14
+20231116,Vermont,College of Charlesto,N,9
+20231116,South Alabama,Nicholls St.,H,-5
+20231116,St. Bonaventure,Oklahoma St.,N,2
+20231116,College of Charlesto,Vermont,N,-9
+20231116,Presbyterian,North Florida,A,12
+20231116,Virginia,Texas Southern,H,29
+20231116,Texas Tech,Texas A&M Corpus Chr,H,9
+20231116,Wright St.,Indiana,A,-9
+20231116,Notre Dame,Auburn,N,-24
+20231116,Northwestern St.,Maine,N,-13
+20231116,Dayton,LSU,N,3
+20231116,Minnesota,Missouri,H,-2
+20231116,Lindenwood,Air Force,A,-18
+20231116,SIU Edwardsville,Denver,N,3
+20231116,UMass Lowell,Arizona St.,A,-2
+20231116,Niagara,Hawaii,A,-19
+20231116,Tulsa,Jackson St.,H,20
+20231116,California,Montana St.,H,-3
+20231116,Arizona St.,UMass Lowell,H,2
+20231116,Houston,Towson,N,16
+20231116,Liberty,Furman,N,14
+20231116,Auburn,Notre Dame,N,24
+20231116,NJIT,American,A,-14
+20231116,Texas Southern,Virginia,A,-29
+20231116,Jackson St.,Tulsa,A,-20
+20231116,Southern Illinois,Chicago St.,H,16
+20231116,American,NJIT,H,14
+20231116,Saint Louis,Wyoming,N,10
+20231116,LSU,Dayton,N,-3
+20231116,Missouri,Minnesota,A,2
+20231116,Cal St. Fullerton,UCF,A,-28
+20231116,North Texas,St. John's,N,-1
+20231116,Utah,Wake Forest,N,7
+20231116,Coastal Carolina,Wichita St.,H,-9
+20231116,Wyoming,Saint Louis,N,-10
+20231116,UT Arlington,New Mexico,A,-2
+20231116,Alcorn St.,UAB,A,-3
+20231116,Wichita St.,Coastal Carolina,A,9
+20231116,Montana St.,California,A,3
+20231116,UCF,Cal St. Fullerton,H,28
+20231116,New Mexico,UT Arlington,H,2
+20231116,Montana,North Dakota St.,H,-9
+20231116,Louisiana Tech,Louisiana Monroe,A,10
+20231116,Denver,SIU Edwardsville,N,-3
+20231116,Hawaii,Niagara,H,19
+20231116,St. John's,North Texas,N,1
+20231116,Boston University,Bryant,H,16
+20231116,Maine,Northwestern St.,N,13
+20231116,Oklahoma St.,St. Bonaventure,N,-2
+20231116,North Florida,Presbyterian,H,-12
+20231116,Wake Forest,Utah,N,-7
+20231116,Louisiana Monroe,Louisiana Tech,H,-10
+20231116,Bryant,Boston University,A,-16
+20231116,Indiana,Wright St.,H,9
+20231116,North Dakota St.,Montana,A,9
+20231116,Towson,Houston,N,-16
+20231116,Nebraska Omaha,William & Mary,N,6
+20231116,Air Force,Lindenwood,H,18
+20231117,Bucknell,Duke,A,-30
+20231117,Michigan,Long Beach St.,H,-8
+20231117,Wyoming,College of Charlesto,N,7
+20231117,Tulane,Sacramento St.,H,35
+20231117,Saint Louis,Vermont,N,-10
+20231117,Winthrop,Holy Cross,H,38
+20231117,Vanderbilt,Central Arkansas,H,4
+20231117,SIU Edwardsville,Nicholls St.,N,9
+20231117,UNLV,Pepperdine,A,14
+20231117,Missouri St.,Florida Gulf Coast,N,9
+20231117,Nicholls St.,SIU Edwardsville,N,-9
+20231117,Texas A&M Commerce,Saint Joseph's,A,3
+20231117,Florida St.,Florida,A,-21
+20231117,Wichita St.,Liberty,N,-17
+20231117,Coastal Carolina,Furman,H,-9
+20231117,UMBC,Sacred Heart,H,5
+20231117,Sam Houston St.,Mississippi,A,-3
+20231117,Xavier,Washington,N,-3
+20231117,North Carolina St.,Charleston Southern,H,34
+20231117,Mississippi,Sam Houston St.,H,3
+20231117,Fairfield,Drexel,A,-18
+20231117,Arkansas,UNC Greensboro,H,-6
+20231117,Miami FL,Georgia,N,12
+20231117,Towson,Wake Forest,N,-10
+20231117,Sacred Heart,UMBC,A,-5
+20231117,Houston,Utah,N,10
+20231117,Kentucky,Stonehill,H,34
+20231117,Yale,Colgate,N,18
+20231117,South Carolina St.,Samford,A,-17
+20231117,Butler,Michigan St.,A,-20
+20231117,Penn St.,Morehead St.,H,23
+20231117,Holy Cross,Winthrop,A,-38
+20231117,UNC Greensboro,Arkansas,A,6
+20231117,Oklahoma,UT Rio Grande Valley,H,24
+20231117,Samford,South Carolina St.,H,17
+20231117,Miami OH,Coppin St.,H,28
+20231117,Colgate,Yale,N,-18
+20231117,Notre Dame,Oklahoma St.,N,2
+20231117,Portland St.,Cal Baptist,A,3
+20231117,Alabama,Mercer,H,31
+20231117,Harvard,Massachusetts,A,3
+20231117,William & Mary,Air Force,A,-9
+20231117,Utah,Houston,N,-10
+20231117,Army,Quinnipiac,H,-9
+20231117,Pepperdine,UNLV,H,-14
+20231117,Saint Mary's,San Diego St.,N,-25
+20231117,San Diego,Le Moyne,H,9
+20231117,San Francisco,Grand Canyon,N,-4
+20231117,Norfolk St.,Fordham,N,-13
+20231117,Quinnipiac,Army,A,9
+20231117,VMI,South Dakota,N,-4
+20231117,Central Arkansas,Vanderbilt,A,-4
+20231117,Oklahoma St.,Notre Dame,N,-2
+20231117,Mercer,Alabama,A,-31
+20231117,Northwestern St.,North Florida,A,-6
+20231117,Furman,Coastal Carolina,A,9
+20231117,Stonehill,Kentucky,A,-34
+20231117,Fort Wayne,Northern Arizona,N,10
+20231117,Pittsburgh,Jacksonville,H,51
+20231117,Drexel,Fairfield,H,18
+20231117,Auburn,St. Bonaventure,N,17
+20231117,Georgia,Miami FL,N,-12
+20231117,Hampton,Kent St.,N,-38
+20231117,Massachusetts,Harvard,H,-3
+20231117,Wake Forest,Towson,N,10
+20231117,Eastern Washington,Stanford,A,-25
+20231117,Coppin St.,Miami OH,A,-28
+20231117,Weber St.,Gardner Webb,N,-1
+20231117,Liberty,Wichita St.,N,17
+20231117,San Diego St.,Saint Mary's,N,25
+20231117,Bellarmine,Bowling Green,A,18
+20231117,Cal Poly,St. Thomas,N,1
+20231117,South Alabama,Denver,H,7
+20231117,Oregon,Tennessee St.,H,25
+20231117,Valparaiso,Illinois,A,-23
+20231117,James Madison,Radford,H,3
+20231117,Sacramento St.,Tulane,A,-35
+20231117,Belmont,Arizona,A,-32
+20231117,Rider,Duquesne,A,-19
+20231117,Radford,James Madison,A,-3
+20231117,South Carolina,DePaul,N,5
+20231117,Abilene Christian,San Jose St.,N,6
+20231117,Grand Canyon,San Francisco,N,4
+20231117,Cal Baptist,Portland St.,H,-3
+20231117,UT Rio Grande Valley,Oklahoma,A,-24
+20231117,Utah Tech,Youngstown St.,A,-7
+20231117,DePaul,South Carolina,N,-5
+20231117,IUPUI,Elon,N,-14
+20231117,Florida,Florida St.,H,21
+20231117,Northern Arizona,Fort Wayne,N,-10
+20231117,Texas A&M,Oral Roberts,H,8
+20231117,UC Riverside,North Carolina,A,-25
+20231117,Gardner Webb,Weber St.,N,1
+20231117,Vermont,Saint Louis,N,10
+20231117,Wisconsin,Robert Morris,H,10
+20231117,Georgia St.,Northern Illinois,H,-6
+20231117,Maine,Presbyterian,N,14
+20231117,Texas St.,UTSA,H,10
+20231117,Duke,Bucknell,H,30
+20231117,Grambling St.,Delaware St.,N,-8
+20231117,Mississippi Valley S,TCU,A,-34
+20231117,Southern,Western Illinois,A,-8
+20231117,Michigan St.,Butler,H,20
+20231117,Iowa,Arkansas St.,H,14
+20231117,Jacksonville,Pittsburgh,A,-51
+20231117,Alabama St.,Memphis,A,-17
+20231117,East Tennessee St.,Davidson,H,2
+20231117,Fordham,Norfolk St.,N,13
+20231117,Le Moyne,San Diego,A,-9
+20231117,Tennessee Martin,Eastern Kentucky,A,6
+20231117,Kansas St.,Providence,N,3
+20231117,Duquesne,Rider,H,19
+20231117,Austin Peay,UTEP,A,-8
+20231117,Eastern Kentucky,Tennessee Martin,H,-6
+20231117,Air Force,William & Mary,H,9
+20231117,Davidson,East Tennessee St.,A,-2
+20231117,San Jose St.,Abilene Christian,N,-6
+20231117,Tennessee St.,Oregon,A,-25
+20231117,Illinois,Valparaiso,H,23
+20231117,Presbyterian,Maine,N,-14
+20231117,Northern Illinois,Georgia St.,A,6
+20231117,Colorado St.,UMKC,H,23
+20231117,Robert Morris,Wisconsin,A,-10
+20231117,Bowling Green,Bellarmine,H,-18
+20231117,St. John's,Dayton,N,-7
+20231117,Arizona,Belmont,H,32
+20231117,Villanova,Maryland,H,17
+20231117,St. Thomas,Cal Poly,N,-1
+20231117,Denver,South Alabama,A,-7
+20231117,Nebraska Omaha,Lindenwood,N,-2
+20231117,Memphis,Alabama St.,H,17
+20231117,South Dakota,VMI,N,4
+20231117,UMKC,Colorado St.,A,-23
+20231117,North Florida,Northwestern St.,H,6
+20231117,St. Bonaventure,Auburn,N,-17
+20231117,Lindenwood,Nebraska Omaha,N,2
+20231117,Charleston Southern,North Carolina St.,A,-34
+20231117,Youngstown St.,Utah Tech,H,7
+20231117,Providence,Kansas St.,N,-3
+20231117,Arkansas St.,Iowa,A,-14
+20231117,Oral Roberts,Texas A&M,A,-8
+20231117,Western Illinois,Southern,H,8
+20231117,Saint Joseph's,Texas A&M Commerce,H,-3
+20231117,Washington,Xavier,N,3
+20231117,Long Beach St.,Michigan,A,8
+20231117,North Carolina,UC Riverside,H,25
+20231117,UTSA,Texas St.,A,-10
+20231117,Kent St.,Hampton,N,38
+20231117,Maryland,Villanova,A,-17
+20231117,Dayton,St. John's,N,7
+20231117,UTEP,Austin Peay,H,8
+20231117,LSU,North Texas,N,4
+20231117,Stanford,Eastern Washington,H,25
+20231117,TCU,Mississippi Valley S,H,34
+20231117,Florida Gulf Coast,Missouri St.,N,-9
+20231117,Morehead St.,Penn St.,A,-23
+20231117,College of Charlesto,Wyoming,N,-7
+20231117,Elon,IUPUI,N,14
+20231117,Delaware St.,Grambling St.,N,8
+20231117,North Texas,LSU,N,-4
+20231118,Coppin St.,Eastern Illinois,N,-2
+20231118,Ball St.,Evansville,A,-24
+20231118,Presbyterian,Northwestern St.,N,3
+20231118,IUPUI,Winthrop,A,-13
+20231118,Fairfield,Queens,N,-6
+20231118,Detroit,Ohio,A,-19
+20231118,Elon,Holy Cross,N,14
+20231118,Pacific,Lamar,H,1
+20231118,Binghamton,Marist,H,23
+20231118,North Carolina Centr,Longwood,A,-7
+20231118,Florida Atlantic,Bryant,H,-9
+20231118,Navy,UC San Diego,A,-18
+20231118,Sacred Heart,Loyola MD,N,15
+20231118,Creighton,Texas Southern,H,32
+20231118,Ohio,Detroit,H,19
+20231118,Mount St. Mary's,Georgetown,A,-11
+20231118,Rhode Island,Northwestern,N,-11
+20231118,Boston College,Harvard,H,9
+20231118,San Jose St.,Norfolk St.,N,24
+20231118,Portland,Nevada,A,-25
+20231118,Santa Clara,Southeastern Louisia,H,2
+20231118,South Dakota,Fort Wayne,N,-12
+20231118,Howard,Rutgers,A,-22
+20231118,North Florida,Maine,H,9
+20231118,Colgate,Gardner Webb,N,7
+20231118,Loyola MD,Sacred Heart,N,-15
+20231118,Eastern Michigan,Cleveland St.,H,7
+20231118,New Orleans,Loyola Chicago,A,-3
+20231118,Southeastern Louisia,Santa Clara,A,-2
+20231118,Northwestern St.,Presbyterian,N,-3
+20231118,McNeese St.,Western Carolina,A,-2
+20231118,Cleveland St.,Eastern Michigan,A,-7
+20231118,Northern Arizona,VMI,N,9
+20231118,Yale,Weber St.,N,-10
+20231118,St. Thomas,Cal Baptist,A,-4
+20231118,Seton Hall,Wagner,H,21
+20231118,Nebraska,Oregon St.,N,21
+20231118,Lipscomb,Alabama A&M,H,25
+20231118,UC San Diego,Navy,H,18
+20231118,Texas Southern,Creighton,A,-32
+20231118,Florida Gulf Coast,Hampton,N,-7
+20231118,Weber St.,Yale,N,10
+20231118,Holy Cross,Elon,N,-14
+20231118,Columbia,Temple,A,5
+20231118,Marist,Binghamton,A,-23
+20231118,Gardner Webb,Colgate,N,-7
+20231118,Morgan St.,BYU,A,-43
+20231118,La Salle,Southern Indiana,H,1
+20231118,Wagner,Seton Hall,A,-21
+20231118,Rutgers,Howard,H,22
+20231118,North Alabama,Jacksonville St.,H,2
+20231118,Portland St.,Cal Poly,N,16
+20231118,USC Upstate,Minnesota,A,-14
+20231118,Washington St.,Mississippi St.,N,-12
+20231118,George Washington,New Hampshire,H,12
+20231118,Winthrop,IUPUI,H,13
+20231118,Cal Poly,Portland St.,N,-16
+20231118,Princeton,Monmouth,A,25
+20231118,New Hampshire,George Washington,A,-12
+20231118,VCU,Seattle,H,4
+20231118,Alabama A&M,Lipscomb,A,-25
+20231118,Arkansas Pine Bluff,Incarnate Word,H,-19
+20231118,Monmouth,Princeton,H,-25
+20231118,Nevada,Portland,H,25
+20231118,Loyola Chicago,New Orleans,H,3
+20231118,Cal Baptist,St. Thomas,H,4
+20231118,Maine,North Florida,A,-9
+20231118,Jacksonville St.,North Alabama,A,-2
+20231118,Seattle,VCU,A,-4
+20231118,Temple,Columbia,H,-5
+20231118,Little Rock,Northern Illinois,N,-5
+20231118,Evansville,Ball St.,H,24
+20231118,Bryant,Florida Atlantic,A,9
+20231118,Georgetown,Mount St. Mary's,H,11
+20231118,Lamar,Pacific,A,-1
+20231118,Minnesota,USC Upstate,H,14
+20231118,Northern Colorado,New Mexico St.,A,-5
+20231118,Longwood,North Carolina Centr,H,7
+20231118,Norfolk St.,San Jose St.,N,-24
+20231118,Mississippi St.,Washington St.,N,12
+20231118,Queens,Fairfield,N,6
+20231118,BYU,Morgan St.,H,43
+20231118,New Mexico St.,Northern Colorado,H,5
+20231118,Northern Illinois,Little Rock,N,5
+20231118,Fort Wayne,South Dakota,N,12
+20231118,Harvard,Boston College,A,-9
+20231118,Incarnate Word,Arkansas Pine Bluff,A,19
+20231118,Penn,Maryland Eastern Sho,A,-3
+20231118,Northwestern,Rhode Island,N,11
+20231118,Hampton,Florida Gulf Coast,N,7
+20231118,Oregon St.,Nebraska,N,-21
+20231118,Southern Indiana,La Salle,A,-1
+20231118,Western Carolina,McNeese St.,H,2
+20231118,VMI,Northern Arizona,N,-9
+20231118,Eastern Illinois,Coppin St.,N,2
+20231118,Maryland Eastern Sho,Penn,H,3
+20231119,SIU Edwardsville,South Alabama,A,-12
+20231119,Fordham,Abilene Christian,N,-14
+20231119,Charlotte,George Mason,N,5
+20231119,Cincinnati,Northern Kentucky,H,24
+20231119,Le Moyne,UC Santa Barbara,A,-24
+20231119,Oakland,Drake,N,-8
+20231119,Utah,St. John's,N,-9
+20231119,Lindenwood,William & Mary,N,11
+20231119,Winthrop,Elon,H,8
+20231119,South Alabama,SIU Edwardsville,H,12
+20231119,St. Thomas,Portland St.,N,6
+20231119,Air Force,Nebraska Omaha,H,2
+20231119,Wyoming,Furman,N,7
+20231119,Western Michigan,Ohio St.,A,-17
+20231119,Gardner Webb,Yale,N,-1
+20231119,Cal Poly,Cal Baptist,A,-9
+20231119,Chattanooga,Tennessee Tech,H,5
+20231119,Grambling St.,Iowa St.,A,-55
+20231119,Brown,USC,A,-11
+20231119,LSU,Wake Forest,N,6
+20231119,Colgate,Weber St.,N,2
+20231119,IUPUI,Holy Cross,N,-13
+20231119,College of Charlesto,Coastal Carolina,A,8
+20231119,USC,Brown,H,11
+20231119,Missouri,Jackson St.,H,-1
+20231119,San Francisco,DePaul,N,16
+20231119,Loyola Marymount,Stephen F. Austin,N,-10
+20231119,Saint Mary's,Xavier,N,-17
+20231119,Arizona,UT Arlington,H,45
+20231119,Ohio St.,Western Michigan,H,17
+20231119,Xavier,Saint Mary's,N,17
+20231119,Central Connecticut,Manhattan,H,-4
+20231119,Houston,Dayton,N,14
+20231119,East Carolina,Northeastern,H,-6
+20231119,Cornell,Cal St. Fullerton,N,18
+20231119,Queens,Drexel,A,-10
+20231119,Furman,Wyoming,N,-7
+20231119,Miami FL,Kansas St.,N,8
+20231119,Vermont,Liberty,N,-10
+20231119,Saint Louis,Wichita St.,N,-19
+20231119,San Diego St.,Washington,N,3
+20231119,Georgetown,American,H,5
+20231119,Wake Forest,LSU,N,-6
+20231119,FIU,Akron,N,-6
+20231119,Utah St.,Marshall,N,23
+20231119,South Carolina,Grand Canyon,N,7
+20231119,Northern Iowa,South Florida,A,-9
+20231119,Georgia,Providence,N,-7
+20231119,Prairie View A&M,Tennessee Martin,N,12
+20231119,Illinois,Southern,H,28
+20231119,Clemson,Boise St.,H,17
+20231119,Abilene Christian,Fordham,N,14
+20231119,Cal Baptist,Cal Poly,H,9
+20231119,Grand Canyon,South Carolina,N,-7
+20231119,St. John's,Utah,N,9
+20231119,Stephen F. Austin,Loyola Marymount,N,10
+20231119,UT Arlington,Arizona,A,-45
+20231119,Little Rock,Georgia St.,A,-11
+20231119,Tennessee Martin,Prairie View A&M,N,-12
+20231119,North Texas,Towson,N,26
+20231119,Iowa St.,Grambling St.,H,55
+20231119,Southern,Illinois,A,-28
+20231119,Utah Valley,Southern Miss,N,2
+20231119,Dayton,Houston,N,-14
+20231119,Kent St.,Missouri St.,N,-4
+20231119,Eastern Illinois,Miami OH,A,-12
+20231119,Coastal Carolina,College of Charlesto,H,-8
+20231119,Providence,Georgia,N,7
+20231119,Marshall,Utah St.,N,-23
+20231119,Georgia St.,Little Rock,H,11
+20231119,Northwestern,Mississippi St.,N,-9
+20231119,Kansas St.,Miami FL,N,-8
+20231119,Georgia Southern,Kennesaw St.,N,-4
+20231119,Yale,Gardner Webb,N,1
+20231119,Rhode Island,Washington St.,N,-21
+20231119,Weber St.,Colgate,N,-2
+20231119,UMBC,Loyola MD,H,15
+20231119,DePaul,San Francisco,N,-16
+20231119,Cal St. Fullerton,Cornell,N,-18
+20231119,Missouri St.,Kent St.,N,4
+20231119,UC Santa Barbara,Le Moyne,H,24
+20231119,Alcorn St.,Michigan St.,A,-32
+20231119,Jackson St.,Missouri,A,1
+20231119,Washington,San Diego St.,N,-3
+20231119,Tennessee Tech,Chattanooga,A,-5
+20231119,South Florida,Northern Iowa,H,9
+20231119,Elon,Winthrop,A,-8
+20231119,Miami OH,Eastern Illinois,H,12
+20231119,Texas,Louisville,N,1
+20231119,Towson,North Texas,N,-26
+20231119,Washington St.,Rhode Island,N,21
+20231119,American,Georgetown,A,-5
+20231119,Louisville,Texas,N,-1
+20231119,Northern Kentucky,Cincinnati,A,-24
+20231119,Connecticut,Indiana,N,20
+20231119,Michigan St.,Alcorn St.,H,32
+20231119,Virginia Tech,Wofford,H,22
+20231119,UCF,South Dakota St.,N,3
+20231119,Loyola MD,UMBC,A,-15
+20231119,Liberty,Vermont,N,10
+20231119,Indiana,Connecticut,N,-20
+20231119,Northeastern,East Carolina,A,6
+20231119,Kennesaw St.,Georgia Southern,N,4
+20231119,Manhattan,Central Connecticut,A,4
+20231119,George Mason,Charlotte,N,-5
+20231119,Albany,Quinnipiac,A,-3
+20231119,Portland St.,St. Thomas,N,-6
+20231119,Holy Cross,IUPUI,N,13
+20231119,Quinnipiac,Albany,H,3
+20231119,Drexel,Queens,H,10
+20231119,Boise St.,Clemson,A,-17
+20231119,Akron,FIU,N,6
+20231119,Wofford,Virginia Tech,A,-22
+20231119,Drake,Oakland,N,8
+20231119,Wichita St.,Saint Louis,N,19
+20231119,Southern Miss,Utah Valley,N,-2
+20231119,Nebraska Omaha,Air Force,A,-2
+20231119,William & Mary,Lindenwood,N,-11
+20231119,South Dakota St.,UCF,N,-3
+20231119,Mississippi St.,Northwestern,N,9
+20231120,Delaware St.,NJIT,A,-9
+20231120,East Carolina,Georgia Southern,H,18
+20231120,Saint Joseph's,Kentucky,A,-8
+20231120,Oregon,Florida A&M,A,13
+20231120,Marshall,FIU,N,11
+20231120,Bryant,Howard,H,6
+20231120,Tulane,Bradley,N,-3
+20231120,Central Michigan,Siena,N,14
+20231120,UCLA,Marquette,N,-2
+20231120,Tulsa,South Carolina St.,H,20
+20231120,California,UTEP,N,-3
+20231120,Cornell,Utah Valley,N,13
+20231120,Hofstra,Buffalo,N,34
+20231120,Buffalo,Hofstra,N,-34
+20231120,Florida St.,UNLV,N,8
+20231120,Bellarmine,Morehead St.,H,-13
+20231120,UTSA,Houston Christian,A,2
+20231120,Idaho St.,The Citadel,N,-1
+20231120,Oakland,Loyola Marymount,N,5
+20231120,New Orleans,Oklahoma St.,A,-28
+20231120,Bradley,Tulane,N,3
+20231120,Gonzaga,Purdue,N,-10
+20231120,Loyola Marymount,Oakland,N,-5
+20231120,Santa Clara,Mississippi Valley S,H,42
+20231120,San Diego,Navy,H,8
+20231120,Pacific,North Dakota,H,-2
+20231120,Texas A&M Commerce,Stonehill,H,11
+20231120,Marquette,UCLA,N,2
+20231120,Houston Christian,UTSA,H,-2
+20231120,Austin Peay,Tarleton St.,N,-7
+20231120,Syracuse,Tennessee,N,-17
+20231120,Utah St.,Akron,N,3
+20231120,UNLV,Florida St.,N,-8
+20231120,High Point,Iona,N,14
+20231120,Louisville,Indiana,N,-8
+20231120,Texas,Connecticut,N,-10
+20231120,The Citadel,Idaho St.,N,1
+20231120,Northeastern,Kennesaw St.,N,-2
+20231120,SMU,West Virginia,N,12
+20231120,Bethune Cookman,Charleston Southern,H,6
+20231120,FIU,Marshall,N,-11
+20231120,Utah Valley,Cornell,N,-13
+20231120,Southern Miss,Cal St. Fullerton,N,-7
+20231120,Stephen F. Austin,Drake,N,24
+20231120,UNC Wilmington,Murray St.,N,2
+20231120,Virginia,Wisconsin,N,-24
+20231120,Southeast Missouri S,Central Arkansas,H,2
+20231120,Tarleton St.,Austin Peay,N,7
+20231120,Siena,Central Michigan,N,-14
+20231120,UCF,Charlotte,N,3
+20231120,Wright St.,Louisiana Lafayette,N,6
+20231120,Stetson,Milwaukee,N,18
+20231120,Florida A&M,Oregon,H,-13
+20231120,Purdue,Gonzaga,N,10
+20231120,Milwaukee,Stetson,N,-18
+20231120,Norfolk St.,Florida Gulf Coast,N,3
+20231120,Mississippi Valley S,Santa Clara,A,-42
+20231120,Abilene Christian,Missouri St.,N,-18
+20231120,Hampton,San Jose St.,N,-19
+20231120,UMass Lowell,Saint Peter's,A,8
+20231120,Richmond,Colorado,N,-5
+20231120,George Mason,South Dakota St.,N,2
+20231120,Drake,Stephen F. Austin,N,-24
+20231120,Fordham,Kent St.,N,-7
+20231120,UTEP,California,N,3
+20231120,Southern Indiana,Bucknell,A,-11
+20231120,South Carolina St.,Tulsa,A,-20
+20231120,Central Arkansas,Southeast Missouri S,A,-2
+20231120,Troy,Sam Houston St.,H,-2
+20231120,Indiana,Louisville,N,8
+20231120,Cal St. Fullerton,Southern Miss,N,7
+20231120,West Virginia,SMU,N,-12
+20231120,Florida Gulf Coast,Norfolk St.,N,-3
+20231120,Bucknell,Southern Indiana,H,11
+20231120,Long Beach St.,Illinois St.,N,-9
+20231120,Sacramento St.,Cal St. Bakersfield,N,-4
+20231120,Kentucky,Saint Joseph's,H,8
+20231120,Tennessee,Syracuse,N,17
+20231120,Kennesaw St.,Northeastern,N,2
+20231120,Missouri St.,Abilene Christian,N,18
+20231120,Stony Brook,Rider,H,7
+20231120,NJIT,Delaware St.,H,9
+20231120,Cal St. Bakersfield,Sacramento St.,N,4
+20231120,Howard,Bryant,A,-6
+20231120,Colorado,Richmond,N,5
+20231120,Green Bay,Montana St.,A,1
+20231120,San Jose St.,Hampton,N,19
+20231120,Oklahoma St.,New Orleans,H,28
+20231120,Kent St.,Fordham,N,7
+20231120,Murray St.,UNC Wilmington,N,-2
+20231120,Morehead St.,Bellarmine,A,13
+20231120,Charleston Southern,Bethune Cookman,A,-6
+20231120,Sam Houston St.,Troy,A,2
+20231120,North Carolina Centr,Campbell,A,3
+20231120,Montana St.,Green Bay,H,-1
+20231120,Georgia Southern,East Carolina,A,-18
+20231120,Rider,Stony Brook,A,-7
+20231120,Campbell,North Carolina Centr,H,-3
+20231120,North Dakota,Pacific,A,2
+20231120,South Dakota St.,George Mason,N,-2
+20231120,Akron,Utah St.,N,-3
+20231120,Iona,High Point,N,-14
+20231120,Navy,San Diego,A,-8
+20231120,Saint Peter's,UMass Lowell,H,-8
+20231120,Stonehill,Texas A&M Commerce,A,-11
+20231120,Wisconsin,Virginia,N,24
+20231120,Charlotte,UCF,N,-3
+20231120,Connecticut,Texas,N,10
+20231120,Louisiana Lafayette,Wright St.,N,-6
+20231120,Illinois St.,Long Beach St.,N,9
+20231121,Eastern Kentucky,Prairie View A&M,H,-12
+20231121,New Mexico,Toledo,N,8
+20231121,Marquette,Kansas,N,14
+20231121,Kansas,Marquette,N,-14
+20231121,Valparaiso,Western Illinois,H,7
+20231121,Northern Arizona,Hawaii,A,-9
+20231121,USC Upstate,Ball St.,A,-17
+20231121,New Mexico St.,Fresno St.,N,-5
+20231121,Iona,Long Beach St.,N,-4
+20231121,James Madison,Southern Illinois,N,6
+20231121,Rice,Indiana St.,N,-15
+20231121,Illinois St.,High Point,N,-2
+20231121,Maryland,UMBC,H,24
+20231121,Gonzaga,Syracuse,N,19
+20231121,La Salle,Duke,A,-29
+20231121,Cal St. Northridge,Le Moyne,H,-10
+20231121,Colorado,Florida St.,N,-6
+20231121,UNLV,Richmond,N,-17
+20231121,Milwaukee,Siena,N,2
+20231121,Albany,Army,N,3
+20231121,Campbell,Idaho St.,H,-14
+20231121,McNeese St.,Texas St.,N,11
+20231121,Radford,Morgan St.,N,10
+20231121,Binghamton,Sacred Heart,A,-14
+20231121,UC Riverside,Green Bay,N,6
+20231121,Pepperdine,UC Irvine,N,-16
+20231121,Detroit,Eastern Michigan,H,-4
+20231121,Loyola Marymount,FIU,N,1
+20231121,Indiana St.,Rice,N,15
+20231121,Columbia,LIU Brooklyn,H,10
+20231121,Ball St.,USC Upstate,H,17
+20231121,Oakland,Marshall,N,7
+20231121,Davidson,Boston University,H,24
+20231121,Green Bay,UC Riverside,N,-6
+20231121,Drake,Akron,N,20
+20231121,Duke,La Salle,H,29
+20231121,Middle Tennessee,UAB,H,-1
+20231121,Sacred Heart,Binghamton,H,14
+20231121,Eastern Michigan,Detroit,A,4
+20231121,Stephen F. Austin,Utah St.,N,-30
+20231121,Southern Utah,Louisiana Tech,A,-14
+20231121,Texas Southern,Oral Roberts,A,-2
+20231121,Texas St.,McNeese St.,N,-11
+20231121,Northern Colorado,Chicago St.,N,1
+20231121,Alabama A&M,Auburn,A,-30
+20231121,Arkansas Pine Bluff,Minnesota,A,-19
+20231121,Toledo,New Mexico,N,-8
+20231121,Prairie View A&M,Eastern Kentucky,A,12
+20231121,East Carolina,Kennesaw St.,H,1
+20231121,Idaho St.,Campbell,A,14
+20231121,Alcorn St.,TCU,A,-19
+20231121,Louisiana Lafayette,Buffalo,N,8
+20231121,Long Beach St.,Iona,N,4
+20231121,Siena,Milwaukee,N,-2
+20231121,Minnesota,Arkansas Pine Bluff,H,19
+20231121,Army,Albany,N,-3
+20231121,Purdue,Tennessee,N,4
+20231121,Hawaii,Northern Arizona,H,9
+20231121,Boston University,Davidson,A,-24
+20231121,Fresno St.,New Mexico St.,N,5
+20231121,The Citadel,North Carolina Centr,N,6
+20231121,UNC Wilmington,Appalachian St.,N,-30
+20231121,Stetson,Central Michigan,N,10
+20231121,High Point,Illinois St.,N,2
+20231121,Marshall,Oakland,N,-7
+20231121,Morgan St.,Radford,N,-10
+20231121,Buffalo,Louisiana Lafayette,N,-8
+20231121,Western Illinois,Valparaiso,A,-7
+20231121,Syracuse,Gonzaga,N,-19
+20231121,Southern Illinois,James Madison,N,-6
+20231121,Le Moyne,Cal St. Northridge,A,10
+20231121,Akron,Drake,N,-20
+20231121,Tennessee,Purdue,N,-4
+20231121,UC Irvine,Pepperdine,N,16
+20231121,UMBC,Maryland,A,-24
+20231121,Auburn,Alabama A&M,H,30
+20231121,North Carolina Centr,The Citadel,N,-6
+20231121,Louisiana Tech,Southern Utah,H,14
+20231121,Florida St.,Colorado,N,6
+20231121,Marist,New Hampshire,A,-3
+20231121,TCU,Alcorn St.,H,19
+20231121,Wright St.,Hofstra,N,-9
+20231121,New Hampshire,Marist,H,3
+20231121,Central Michigan,Stetson,N,-10
+20231121,Hofstra,Wright St.,N,9
+20231121,Kennesaw St.,East Carolina,A,-1
+20231121,Northeastern,Georgia Southern,N,17
+20231121,Lehigh,Monmouth,A,-9
+20231121,Monmouth,Lehigh,H,9
+20231121,Georgia Southern,Northeastern,N,-17
+20231121,Utah St.,Stephen F. Austin,N,30
+20231121,Richmond,UNLV,N,17
+20231121,FIU,Loyola Marymount,N,-1
+20231121,LIU Brooklyn,Columbia,A,-10
+20231121,Oral Roberts,Texas Southern,H,2
+20231121,UAB,Middle Tennessee,A,1
+20231121,Appalachian St.,UNC Wilmington,N,30
+20231122,Little Rock,Georgia St.,H,-3
+20231122,Radford,Northern Colorado,N,11
+20231122,The Citadel,Campbell,A,-7
+20231122,Jacksonville St.,Incarnate Word,A,-1
+20231122,Michigan,Memphis,N,-4
+20231122,UCLA,Gonzaga,N,-4
+20231122,Georgia Tech,Cincinnati,A,-35
+20231122,North Alabama,Tennessee Martin,A,-2
+20231122,Alabama St.,Samford,A,-32
+20231122,UTEP,Bradley,N,-4
+20231122,Merrimack,North Carolina A&T,N,23
+20231122,South Florida,Maine,H,-11
+20231122,Wright St.,Illinois St.,N,25
+20231122,Sacramento St.,Austin Peay,N,-3
+20231122,Notre Dame,Maryland Eastern Sho,H,20
+20231122,Kansas St.,Central Arkansas,H,44
+20231122,Louisiana Tech,McNeese St.,H,9
+20231122,Colorado St.,Boston College,N,12
+20231122,Austin Peay,Sacramento St.,N,3
+20231122,Fairleigh Dickinson,Queens,A,-13
+20231122,Sam Houston St.,Grambling St.,N,18
+20231122,Maine,South Florida,A,11
+20231122,San Francisco,Fort Wayne,H,16
+20231122,Gonzaga,UCLA,N,4
+20231122,Pepperdine,Indiana St.,N,-8
+20231122,Hofstra,High Point,N,5
+20231122,Samford,Alabama St.,H,32
+20231122,Indiana St.,Pepperdine,N,8
+20231122,East Tennessee St.,Cleveland St.,A,-2
+20231122,Wisconsin,SMU,N,8
+20231122,Marquette,Purdue,N,-3
+20231122,Princeton,Old Dominion,A,20
+20231122,North Carolina,Northern Iowa,N,22
+20231122,Cincinnati,Georgia Tech,H,35
+20231122,Texas Tech,Villanova,N,-16
+20231122,Long Beach St.,Louisiana Lafayette,N,-10
+20231122,Massachusetts,Central Connecticut,H,29
+20231122,Fort Wayne,San Francisco,A,-16
+20231122,Fresno St.,James Madison,N,-31
+20231122,Tulane,California,N,3
+20231122,Buffalo,Iona,N,-25
+20231122,Northern Kentucky,Texas A&M Corpus Chr,H,15
+20231122,Southern Utah,Texas St.,N,7
+20231122,Central Arkansas,Kansas St.,A,-44
+20231122,Tennessee Tech,Presbyterian,A,4
+20231122,Appalachian St.,Murray St.,N,10
+20231122,Harvard,Colgate,A,6
+20231122,Iona,Buffalo,N,25
+20231122,West Virginia,Virginia,N,-2
+20231122,Missouri,South Carolina St.,H,23
+20231122,Tennessee Martin,North Alabama,H,2
+20231122,Tennessee,Kansas,N,-9
+20231122,SMU,Wisconsin,N,-8
+20231122,Florida,Pittsburgh,N,15
+20231122,Colgate,Harvard,H,-6
+20231122,California,Tulane,N,-3
+20231122,UC Irvine,Toledo,N,6
+20231122,Presbyterian,Tennessee Tech,H,-4
+20231122,Northern Iowa,North Carolina,N,-22
+20231122,Tarleton St.,Cal St. Bakersfield,N,19
+20231122,UT Arlington,Alcorn St.,H,13
+20231122,Rice,New Mexico,N,-34
+20231122,Illinois St.,Wright St.,N,-25
+20231122,North Carolina A&T,Merrimack,N,-23
+20231122,Central Connecticut,Massachusetts,A,-29
+20231122,New Mexico St.,Southern Illinois,N,-27
+20231122,St. Bonaventure,Bucknell,H,6
+20231122,Queens,Fairleigh Dickinson,H,13
+20231122,Alcorn St.,UT Arlington,A,-13
+20231122,Villanova,Texas Tech,N,16
+20231122,Texas St.,Southern Utah,N,-7
+20231122,Southern Miss,South Dakota St.,H,-11
+20231122,UC Riverside,Montana St.,A,-1
+20231122,Grambling St.,Sam Houston St.,N,-18
+20231122,Pittsburgh,Florida,N,-15
+20231122,High Point,Hofstra,N,-5
+20231122,Temple,Mississippi,H,-1
+20231122,Bucknell,St. Bonaventure,A,-6
+20231122,Purdue,Marquette,N,3
+20231122,Mississippi,Temple,A,1
+20231122,Seattle,Idaho,H,37
+20231122,Stanford,Arkansas,N,-3
+20231122,Loyola Chicago,Creighton,N,-23
+20231122,South Carolina St.,Missouri,A,-23
+20231122,Mount St. Mary's,American,A,-3
+20231122,Montana St.,UC Riverside,H,1
+20231122,Bradley,UTEP,N,4
+20231122,Texas A&M Corpus Chr,Northern Kentucky,A,-15
+20231122,McNeese St.,Louisiana Tech,A,-9
+20231122,Incarnate Word,Jacksonville St.,H,1
+20231122,Oregon St.,Baylor,N,-16
+20231122,Cal St. Bakersfield,Tarleton St.,N,-19
+20231122,Arkansas,Stanford,N,3
+20231122,Nebraska,Duquesne,H,10
+20231122,Creighton,Loyola Chicago,N,23
+20231122,Toledo,UC Irvine,N,-6
+20231122,VMI,Air Force,A,-10
+20231122,Louisiana Lafayette,Long Beach St.,N,10
+20231122,Georgia St.,Little Rock,A,3
+20231122,Memphis,Michigan,N,4
+20231122,Cleveland St.,East Tennessee St.,H,2
+20231122,Boston College,Colorado St.,N,-12
+20231122,Idaho,Seattle,A,-37
+20231122,Morgan St.,Chicago St.,N,-1
+20231122,Southern Illinois,New Mexico St.,N,27
+20231122,American,Mount St. Mary's,H,3
+20231122,Northern Colorado,Radford,N,-11
+20231122,Duquesne,Nebraska,A,-10
+20231122,South Dakota St.,Southern Miss,A,11
+20231122,Maryland Eastern Sho,Notre Dame,A,-20
+20231122,Baylor,Oregon St.,N,16
+20231122,Campbell,The Citadel,H,7
+20231122,Air Force,VMI,H,10
+20231122,James Madison,Fresno St.,N,31
+20231122,Old Dominion,Princeton,H,-20
+20231122,Virginia,West Virginia,N,2
+20231122,Kansas,Tennessee,N,9
+20231122,Murray St.,Appalachian St.,N,-10
+20231122,New Mexico,Rice,N,34
+20231123,Butler,Florida Atlantic,N,-5
+20231123,USC,Seton Hall,N,8
+20231123,Michigan,Stanford,N,5
+20231123,Boise St.,Virginia Tech,N,-7
+20231123,Memphis,Arkansas,N,5
+20231123,Texas Tech,Northern Iowa,N,2
+20231123,Creighton,Colorado St.,N,-21
+20231123,Villanova,North Carolina,N,2
+20231123,Vanderbilt,North Carolina St.,N,-6
+20231123,North Carolina St.,Vanderbilt,N,6
+20231123,Loyola Chicago,Boston College,N,3
+20231123,North Carolina,Villanova,N,-2
+20231123,Arkansas,Memphis,N,-5
+20231123,Arizona St.,BYU,N,-28
+20231123,Boston College,Loyola Chicago,N,-3
+20231123,Arizona,Michigan St.,N,6
+20231123,Seton Hall,USC,N,-8
+20231123,Virginia Tech,Boise St.,N,7
+20231123,Iowa,Oklahoma,N,-12
+20231123,BYU,Arizona St.,N,28
+20231123,Michigan St.,Arizona,N,-6
+20231123,Stanford,Michigan,N,-5
+20231123,Iowa St.,VCU,N,4
+20231123,Oklahoma,Iowa,N,12
+20231123,Florida Atlantic,Butler,N,5
+20231123,VCU,Iowa St.,N,-4
+20231123,Northern Iowa,Texas Tech,N,-2
+20231123,Colorado St.,Creighton,N,21
+20231123,Texas A&M,Penn St.,N,12
+20231123,Penn St.,Texas A&M,N,-12
+20231124,Delaware St.,Longwood,A,-2
+20231124,Tennessee St.,Mercer,N,-1
+20231124,LIU Brooklyn,Texas A&M Corpus Chr,N,15
+20231124,Wake Forest,Charleston Southern,H,15
+20231124,Delaware,Brown,N,8
+20231124,Michigan,Texas Tech,N,-16
+20231124,Florida Atlantic,Texas A&M,N,7
+20231124,BYU,North Carolina St.,N,9
+20231124,Alcorn St.,Clemson,A,-21
+20231124,Western Michigan,Southeastern Louisia,N,1
+20231124,Oklahoma,USC,N,2
+20231124,New Hampshire,Fairfield,A,3
+20231124,Lehigh,Providence,A,-14
+20231124,Western Kentucky,Bowling Green,N,7
+20231124,North Carolina St.,BYU,N,-9
+20231124,UNC Asheville,Lipscomb,N,-11
+20231124,Idaho,UC San Diego,N,3
+20231124,Evansville,Chattanooga,A,8
+20231124,Duke,Southern Indiana,H,18
+20231124,Nicholls St.,Mississippi St.,A,-13
+20231124,Rice,UC Irvine,N,-15
+20231124,Houston Christian,Oklahoma St.,A,-27
+20231124,Lafayette,Penn,A,-2
+20231124,San Diego,Arkansas St.,N,14
+20231124,Saint Mary's,Davidson,H,34
+20231124,Pacific,Le Moyne,H,2
+20231124,Pepperdine,New Mexico,N,-19
+20231124,Santa Clara,Oregon,N,6
+20231124,Penn,Lafayette,H,2
+20231124,Penn St.,Butler,N,-10
+20231124,Texas A&M Corpus Chr,LIU Brooklyn,N,-15
+20231124,Iowa St.,Virginia Tech,N,-9
+20231124,Jacksonville,Robert Morris,A,9
+20231124,George Washington,Ohio,N,5
+20231124,Pittsburgh,Oregon St.,N,25
+20231124,Southeastern Louisia,Western Michigan,N,-1
+20231124,Charleston Southern,Wake Forest,A,-15
+20231124,Xavier,Bryant,H,25
+20231124,Bryant,Xavier,A,-25
+20231124,Lamar,Bethune Cookman,N,18
+20231124,Middle Tennessee,Illinois Chicago,N,-30
+20231124,Jacksonville St.,UTSA,A,15
+20231124,Lipscomb,UNC Asheville,N,11
+20231124,Oregon,Santa Clara,N,-6
+20231124,Troy,Grambling St.,H,13
+20231124,North Carolina,Arkansas,N,15
+20231124,Arkansas,North Carolina,N,-15
+20231124,Texas A&M,Florida Atlantic,N,-7
+20231124,Florida,Baylor,N,-4
+20231124,Mississippi St.,Nicholls St.,H,13
+20231124,LSU,North Florida,H,12
+20231124,Youngstown St.,Dayton,A,-8
+20231124,East Tennessee St.,Alabama A&M,N,11
+20231124,Georgia,Winthrop,H,9
+20231124,Providence,Lehigh,H,14
+20231124,Longwood,Delaware St.,H,2
+20231124,Clemson,Alcorn St.,H,21
+20231124,Merrimack,Samford,A,-8
+20231124,North Florida,LSU,A,-12
+20231124,Connecticut,Manhattan,H,30
+20231124,Montana,Houston,A,-35
+20231124,Utah Tech,Washington St.,A,-40
+20231124,UT Rio Grande Valley,Hawaii,N,-19
+20231124,Alabama St.,North Carolina A&T,N,15
+20231124,Chattanooga,Evansville,H,-8
+20231124,Bethune Cookman,Lamar,N,-18
+20231124,Virginia Tech,Iowa St.,N,9
+20231124,Dayton,Youngstown St.,H,8
+20231124,Vanderbilt,Arizona St.,N,-15
+20231124,Hawaii,UT Rio Grande Valley,N,19
+20231124,Grambling St.,Troy,A,-13
+20231124,Alabama A&M,East Tennessee St.,N,-11
+20231124,UC Irvine,Rice,N,15
+20231124,New Mexico,Pepperdine,N,19
+20231124,Texas Tech,Michigan,N,16
+20231124,Stanford,Northern Iowa,N,-22
+20231124,Cal St. Northridge,Mississippi Valley S,H,36
+20231124,Mississippi Valley S,Cal St. Northridge,A,-36
+20231124,Arkansas Pine Bluff,Ball St.,A,-18
+20231124,Southern Indiana,Duke,A,-18
+20231124,Northern Iowa,Stanford,N,22
+20231124,Wofford,Canisius,N,-9
+20231124,Alabama,Ohio St.,N,-11
+20231124,Fairfield,New Hampshire,H,-3
+20231124,Iowa,Seton Hall,N,13
+20231124,Arizona St.,Vanderbilt,N,15
+20231124,Oklahoma St.,Houston Christian,H,27
+20231124,Illinois,Western Illinois,H,32
+20231124,Toledo,Indiana St.,N,-2
+20231124,Manhattan,Connecticut,A,-30
+20231124,Bowling Green,Western Kentucky,N,-7
+20231124,Ohio,George Washington,N,-5
+20231124,Ball St.,Arkansas Pine Bluff,H,18
+20231124,Samford,Merrimack,H,8
+20231124,North Carolina A&T,Alabama St.,N,-15
+20231124,VCU,Boise St.,N,-4
+20231124,Belmont,Monmouth,N,-9
+20231124,Butler,Penn St.,N,10
+20231124,Western Illinois,Illinois,A,-32
+20231124,Marshall,Kentucky,A,-36
+20231124,UMKC,UNC Greensboro,N,-12
+20231124,Canisius,Wofford,N,9
+20231124,Monmouth,Belmont,N,9
+20231124,Houston,Montana,H,35
+20231124,Mercer,Tennessee St.,N,1
+20231124,Arkansas St.,San Diego,N,-14
+20231124,Baylor,Florida,N,4
+20231124,UNC Greensboro,UMKC,N,12
+20231124,Davidson,Saint Mary's,A,-34
+20231124,UTSA,Jacksonville St.,H,-15
+20231124,Seton Hall,Iowa,N,-13
+20231124,Robert Morris,Jacksonville,H,-9
+20231124,Washington St.,Utah Tech,H,40
+20231124,USC,Oklahoma,N,-2
+20231124,Memphis,Villanova,N,-16
+20231124,Oregon St.,Pittsburgh,N,-25
+20231124,UC San Diego,Idaho,N,-3
+20231124,Illinois Chicago,Middle Tennessee,N,30
+20231124,Winthrop,Georgia,A,-9
+20231124,Kentucky,Marshall,H,36
+20231124,Ohio St.,Alabama,N,11
+20231124,Indiana St.,Toledo,N,2
+20231124,Villanova,Memphis,N,16
+20231124,Boise St.,VCU,N,4
+20231124,Brown,Delaware,N,-8
+20231124,Le Moyne,Pacific,A,-2
+20231125,Southern,Valparaiso,A,-12
+20231125,North Carolina A&T,Samford,A,-18
+20231125,Maine,Columbia,A,-19
+20231125,Evansville,Southeast Missouri S,N,19
+20231125,UTEP,Loyola Marymount,A,-20
+20231125,Saint Louis,Dartmouth,H,1
+20231125,UTSA,Incarnate Word,H,10
+20231125,Binghamton,Army,H,7
+20231125,Drake,Texas Southern,H,6
+20231125,Little Rock,Tulsa,H,2
+20231125,NJIT,Wagner,A,-13
+20231125,Maryland Eastern Sho,Liberty,A,-37
+20231125,Dartmouth,Saint Louis,A,-1
+20231125,Valparaiso,Southern,H,12
+20231125,Brown,UMKC,N,10
+20231125,Ohio,Middle Tennessee,N,12
+20231125,George Washington,Illinois Chicago,N,-10
+20231125,DePaul,Northern Illinois,H,-10
+20231125,Wichita St.,Norfolk St.,H,13
+20231125,Tulsa,Little Rock,A,-2
+20231125,San Diego,Hawaii,N,-11
+20231125,Santa Clara,Ohio St.,N,-30
+20231125,Loyola Marymount,UTEP,H,20
+20231125,Western Michigan,Mercer,N,6
+20231125,SIU Edwardsville,Detroit,H,14
+20231125,Northeastern,Princeton,A,-14
+20231125,Samford,North Carolina A&T,H,18
+20231125,Longwood,Lamar,H,11
+20231125,Howard,Mount St. Mary's,A,4
+20231125,Wagner,NJIT,H,13
+20231125,Monmouth,Lafayette,N,10
+20231125,Tennessee St.,Southeastern Louisia,N,14
+20231125,Mercer,Western Michigan,N,-6
+20231125,Illinois Chicago,George Washington,N,10
+20231125,UAB,Furman,H,6
+20231125,Middle Tennessee,Ohio,N,-12
+20231125,Missouri St.,South Carolina St.,H,18
+20231125,Columbia,Maine,H,19
+20231125,Central Arkansas,Eastern Michigan,H,-3
+20231125,LIU Brooklyn,Northern Kentucky,A,-8
+20231125,Belmont,Penn,A,5
+20231125,Norfolk St.,Wichita St.,A,-13
+20231125,Northern Kentucky,LIU Brooklyn,H,8
+20231125,Bowling Green,Lipscomb,N,21
+20231125,Liberty,Maryland Eastern Sho,H,37
+20231125,UT Arlington,Texas St.,H,-7
+20231125,Grand Canyon,North Dakota St.,H,15
+20231125,UT Rio Grande Valley,Arkansas St.,N,-17
+20231125,California,San Diego St.,N,-9
+20231125,Lipscomb,Bowling Green,N,-21
+20231125,Eastern Michigan,Central Arkansas,A,3
+20231125,Princeton,Northeastern,H,14
+20231125,St. John's,Holy Cross,H,46
+20231125,Northern Illinois,DePaul,A,10
+20231125,Lafayette,Monmouth,N,-10
+20231125,Texas St.,UT Arlington,A,7
+20231125,Merrimack,Alabama St.,N,-6
+20231125,Arkansas St.,UT Rio Grande Valley,N,17
+20231125,Jackson St.,Georgetown,A,-7
+20231125,Mount St. Mary's,Howard,H,-4
+20231125,St. Bonaventure,Miami OH,H,30
+20231125,William & Mary,UMBC,H,15
+20231125,North Dakota,New Orleans,N,2
+20231125,Alabama St.,Merrimack,N,6
+20231125,UMKC,Brown,N,-10
+20231125,North Dakota St.,Grand Canyon,A,-15
+20231125,St. Thomas,Green Bay,A,-13
+20231125,Georgetown,Jackson St.,H,7
+20231125,Florida Gulf Coast,UNC Wilmington,H,-16
+20231125,Miami OH,St. Bonaventure,A,-30
+20231125,Detroit,SIU Edwardsville,A,-14
+20231125,Green Bay,St. Thomas,H,13
+20231125,San Diego St.,California,N,9
+20231125,George Mason,East Carolina,H,22
+20231125,Bradley,Vermont,H,9
+20231125,Tennessee Martin,Chicago St.,A,23
+20231125,Niagara,St. Francis PA,A,8
+20231125,Georgia St.,Charlotte,A,-8
+20231125,Southern Miss,Milwaukee,A,6
+20231125,Jacksonville,Fairleigh Dickinson,N,1
+20231125,South Alabama,Maryland,A,-13
+20231125,New Orleans,North Dakota,N,-2
+20231125,Southeastern Louisia,Tennessee St.,N,-14
+20231125,Missouri,Loyola MD,H,8
+20231125,Texas Southern,Drake,A,-6
+20231125,Oregon,Alabama,N,-8
+20231125,Bethune Cookman,Delaware St.,N,-8
+20231125,UNC Wilmington,Florida Gulf Coast,A,16
+20231125,Penn,Belmont,H,-5
+20231125,Furman,UAB,A,-6
+20231125,Hawaii,San Diego,N,11
+20231125,Queens,Richmond,A,-29
+20231125,UMBC,William & Mary,A,-15
+20231125,South Carolina St.,Missouri St.,A,-18
+20231125,Marist,Bucknell,H,24
+20231125,Delaware,UNC Greensboro,N,-11
+20231125,Holy Cross,St. John's,A,-46
+20231125,Charlotte,Georgia St.,H,8
+20231125,Lamar,Longwood,A,-11
+20231125,Incarnate Word,UTSA,A,-10
+20231125,Alabama,Oregon,N,8
+20231125,Loyola MD,Missouri,A,-8
+20231125,Army,Binghamton,A,-7
+20231125,UNC Asheville,Wofford,N,3
+20231125,Wofford,UNC Asheville,N,-3
+20231125,East Carolina,George Mason,A,-22
+20231125,Richmond,Queens,H,29
+20231125,Western Kentucky,Canisius,N,-8
+20231125,Bucknell,Marist,A,-24
+20231125,Alabama A&M,Cleveland St.,A,-27
+20231125,Milwaukee,Southern Miss,H,-6
+20231125,Cleveland St.,Alabama A&M,H,27
+20231125,Fairleigh Dickinson,Jacksonville,N,-1
+20231125,St. Francis PA,Niagara,H,-8
+20231125,UNC Greensboro,Delaware,N,11
+20231125,Vermont,Bradley,A,-9
+20231125,Delaware St.,Bethune Cookman,N,8
+20231125,Southeast Missouri S,Evansville,N,-19
+20231125,Ohio St.,Santa Clara,N,30
+20231125,Canisius,Western Kentucky,N,8
+20231125,Maryland,South Alabama,H,13
+20231126,Bowling Green,Canisius,N,4
+20231126,New Orleans,Central Arkansas,A,5
+20231126,Old Dominion,Drexel,H,7
+20231126,Incarnate Word,Jacksonville St.,N,-2
+20231126,Virginia Tech,Florida Atlantic,N,-34
+20231126,Western Carolina,North Alabama,H,18
+20231126,Bethune Cookman,Longwood,A,-21
+20231126,Mississippi Valley S,Pacific,A,-3
+20231126,SMU,Louisiana Monroe,H,13
+20231126,Montana St.,Long Beach St.,H,-6
+20231126,Long Beach St.,Montana St.,A,6
+20231126,Delaware St.,Lamar,N,-3
+20231126,Air Force,South Dakota,A,1
+20231126,Texas A&M Commerce,Denver,H,-10
+20231126,Jacksonville St.,Incarnate Word,N,2
+20231126,Middle Tennessee,UMKC,N,4
+20231126,Fairleigh Dickinson,Robert Morris,A,-11
+20231126,Nebraska,Cal St. Fullerton,H,13
+20231126,San Francisco,Minnesota,N,18
+20231126,Boise St.,Butler,N,-14
+20231126,Pacific,Mississippi Valley S,H,3
+20231126,Lamar,Delaware St.,N,3
+20231126,UNC Asheville,Western Kentucky,N,10
+20231126,Eastern Michigan,North Dakota,N,-2
+20231126,VCU,Penn St.,N,12
+20231126,North Carolina Centr,Coastal Carolina,A,12
+20231126,Albany,Siena,A,35
+20231126,Saint Joseph's,Sacred Heart,H,9
+20231126,Louisville,New Mexico St.,H,6
+20231126,Penn St.,VCU,N,-12
+20231126,Yale,Rhode Island,A,-4
+20231126,Drexel,Old Dominion,A,-7
+20231126,Monmouth,Penn,A,-15
+20231126,George Washington,Delaware,N,10
+20231126,North Alabama,Western Carolina,A,-18
+20231126,Coastal Carolina,North Carolina Centr,H,-12
+20231126,Morgan St.,Towson,A,-9
+20231126,Central Arkansas,New Orleans,H,-5
+20231126,Ohio,Brown,N,5
+20231126,Longwood,Bethune Cookman,H,21
+20231126,UMKC,Middle Tennessee,N,-4
+20231126,UNC Greensboro,Illinois Chicago,N,1
+20231126,Cal St. Fullerton,Nebraska,A,-13
+20231126,Southeast Missouri S,Chattanooga,A,-16
+20231126,Lafayette,Belmont,N,-10
+20231126,Chattanooga,Southeast Missouri S,H,16
+20231126,Texas,Wyoming,H,23
+20231126,Siena,Albany,H,-35
+20231126,UC San Diego,Seattle,A,-12
+20231126,Lipscomb,Wofford,N,7
+20231126,Austin Peay,Appalachian St.,A,-20
+20231126,Illinois Chicago,UNC Greensboro,N,-1
+20231126,Butler,Boise St.,N,14
+20231126,FIU,Kennesaw St.,H,7
+20231126,La Salle,Coppin St.,H,19
+20231126,College of Charlesto,Kent St.,A,6
+20231126,Quinnipiac,Stonehill,H,11
+20231126,Coppin St.,La Salle,A,-19
+20231126,Sacred Heart,Saint Joseph's,A,-9
+20231126,Texas A&M,Iowa St.,N,4
+20231126,UC Davis,Sacramento St.,H,-6
+20231126,Minnesota,San Francisco,N,-18
+20231126,Penn,Monmouth,H,15
+20231126,Sacramento St.,UC Davis,A,6
+20231126,Wyoming,Texas,A,-23
+20231126,Florida Atlantic,Virginia Tech,N,34
+20231126,Bellarmine,West Virginia,A,-4
+20231126,Seattle,UC San Diego,H,12
+20231126,UCF,Stetson,H,-3
+20231126,Belmont,Lafayette,N,10
+20231126,Towson,Morgan St.,H,9
+20231126,Indiana,Harvard,H,13
+20231126,Harvard,Indiana,A,-13
+20231126,Western Kentucky,UNC Asheville,N,-10
+20231126,Kennesaw St.,FIU,A,-7
+20231126,Stetson,UCF,A,3
+20231126,Rhode Island,Yale,H,4
+20231126,Brown,Ohio,N,-5
+20231126,Canisius,Bowling Green,N,-4
+20231126,Colorado,Iona,H,17
+20231126,Wofford,Lipscomb,N,-7
+20231126,Delaware,George Washington,N,-10
+20231126,Kent St.,College of Charlesto,H,-6
+20231126,Iowa St.,Texas A&M,N,-4
+20231126,Iona,Colorado,A,-17
+20231126,West Virginia,Bellarmine,H,4
+20231126,Louisiana Monroe,SMU,A,-13
+20231126,New Mexico St.,Louisville,A,-6
+20231126,North Dakota,Eastern Michigan,N,2
+20231126,Denver,Texas A&M Commerce,A,10
+20231126,Appalachian St.,Austin Peay,H,20
+20231126,South Dakota,Air Force,H,-1
+20231126,Stonehill,Quinnipiac,A,-11
+20231126,Robert Morris,Fairleigh Dickinson,H,11
+20231127,Saint Mary's,Utah,H,-7
+20231127,Saint Peter's,Rutgers,A,-31
+20231127,Northern Illinois,Northwestern,A,-22
+20231127,Presbyterian,Elon,A,-3
+20231127,Manhattan,Fordham,A,-32
+20231127,Fresno St.,UC Santa Barbara,H,-4
+20231127,Wisconsin,Western Illinois,H,22
+20231127,Connecticut,New Hampshire,H,20
+20231127,Houston Christian,TCU,A,-37
+20231127,Lindenwood,Utah Tech,H,-7
+20231127,Xavier,Oakland,H,-2
+20231127,Fordham,Manhattan,H,32
+20231127,UC Santa Barbara,Fresno St.,A,4
+20231127,Eastern Washington,Washington St.,A,-10
+20231127,Troy,Eastern Kentucky,A,-1
+20231127,Washington St.,Eastern Washington,H,10
+20231127,San Jose St.,North Dakota St.,H,13
+20231127,Utah Tech,Lindenwood,A,7
+20231127,Western Illinois,Wisconsin,A,-22
+20231127,Eastern Kentucky,Troy,H,1
+20231127,New Hampshire,Connecticut,A,-20
+20231127,Oakland,Xavier,A,2
+20231127,Rutgers,Saint Peter's,H,31
+20231127,UMBC,Hampton,A,4
+20231127,Hampton,UMBC,H,-4
+20231127,Northwestern,Northern Illinois,H,22
+20231127,TCU,Houston Christian,H,37
+20231127,Elon,Presbyterian,H,3
+20231127,Utah,Saint Mary's,A,7
+20231127,North Dakota St.,San Jose St.,A,-13
+20231128,Kansas St.,Oral Roberts,H,10
+20231128,Gonzaga,Cal St. Bakersfield,H,16
+20231128,Pepperdine,Idaho St.,H,15
+20231128,Portland,Portland St.,A,-1
+20231128,Northwestern St.,Louisiana Monroe,A,-4
+20231128,Charleston Southern,The Citadel,A,-29
+20231128,Rider,Maryland,A,-27
+20231128,Furman,South Carolina St.,H,8
+20231128,South Carolina,Notre Dame,H,12
+20231128,The Citadel,Charleston Southern,H,29
+20231128,Nicholls St.,Baylor,A,-38
+20231128,Baylor,Nicholls St.,H,38
+20231128,Kentucky,Miami FL,H,22
+20231128,Missouri,Pittsburgh,A,7
+20231128,Notre Dame,South Carolina,A,-12
+20231128,Norfolk St.,William & Mary,H,34
+20231128,William & Mary,Norfolk St.,A,-34
+20231128,Saint Louis,Utah St.,H,-5
+20231128,Oral Roberts,Kansas St.,A,-10
+20231128,Ball St.,Little Rock,A,-26
+20231128,Kansas,Eastern Illinois,H,8
+20231128,Loyola Chicago,Chicago St.,H,9
+20231128,Cal St. Bakersfield,Gonzaga,A,-16
+20231128,Western Carolina,Tennessee Tech,A,4
+20231128,Louisiana Monroe,Northwestern St.,H,4
+20231128,Marquette,Southern,H,37
+20231128,Tennessee Tech,Western Carolina,H,-4
+20231128,UAB,McNeese St.,H,-21
+20231128,Michigan St.,Georgia Southern,H,31
+20231128,Portland St.,Portland,H,1
+20231128,Little Rock,Ball St.,H,26
+20231128,LSU,Syracuse,A,-23
+20231128,Idaho St.,Pepperdine,A,-15
+20231128,Indiana St.,Southern Illinois,H,29
+20231128,Clemson,Alabama,A,8
+20231128,Washington,UC San Diego,H,27
+20231128,Mississippi St.,Georgia Tech,A,-8
+20231128,Miami FL,Kentucky,A,-22
+20231128,Akron,UNLV,A,-2
+20231128,South Carolina St.,Furman,A,-8
+20231128,UC San Diego,Washington,A,-27
+20231128,Utah St.,Saint Louis,A,5
+20231128,Syracuse,LSU,H,23
+20231128,Southern Illinois,Indiana St.,A,-29
+20231128,Cincinnati,Howard,A,5
+20231128,Maryland,Rider,H,27
+20231128,North Carolina St.,Mississippi,A,-20
+20231128,Wagner,Providence,A,-34
+20231128,Pittsburgh,Missouri,H,-7
+20231128,Arkansas St.,Jackson St.,H,-4
+20231128,Alabama,Clemson,H,-8
+20231128,Mississippi,North Carolina St.,H,20
+20231128,Purdue,Texas Southern,H,32
+20231128,Eastern Illinois,Kansas,A,-8
+20231128,Providence,Wagner,H,34
+20231128,Texas Southern,Purdue,A,-32
+20231128,Southern,Marquette,A,-37
+20231128,McNeese St.,UAB,A,21
+20231128,Howard,Cincinnati,H,-5
+20231128,Georgia Tech,Mississippi St.,H,8
+20231128,Jackson St.,Arkansas St.,A,4
+20231128,Georgia Southern,Michigan St.,A,-31
+20231128,UNLV,Akron,H,2
+20231129,Lehigh,St. Francis PA,H,-1
+20231129,Utah Valley,Seattle,H,6
+20231129,San Diego,Northern Colorado,H,2
+20231129,Florida St.,Georgia,H,-2
+20231129,Seattle,Utah Valley,A,-6
+20231129,UT Rio Grande Valley,Grand Canyon,H,-10
+20231129,Grand Canyon,UT Rio Grande Valley,A,10
+20231129,Cal Baptist,Southern Utah,A,25
+20231129,Southern Utah,Cal Baptist,H,-25
+20231129,Green Bay,Fort Wayne,A,-4
+20231129,Abilene Christian,UT Arlington,A,-15
+20231129,Central Michigan,Ohio St.,A,-27
+20231129,Valparaiso,Drake,H,-18
+20231129,Northern Kentucky,Robert Morris,H,18
+20231129,USC,Eastern Washington,H,28
+20231129,UT Arlington,Abilene Christian,H,15
+20231129,Maine,Holy Cross,A,15
+20231129,North Florida,Iowa,A,-25
+20231129,Colorado St.,Colorado,H,5
+20231129,Columbia,Loyola MD,H,12
+20231129,Nevada,Montana,H,11
+20231129,Louisville,Bellarmine,H,5
+20231129,Morehead St.,Austin Peay,A,11
+20231129,Tulane,Prairie View A&M,H,21
+20231129,Georgetown,Merrimack,H,2
+20231129,Cornell,Monmouth,H,4
+20231129,Vermont,Dartmouth,H,11
+20231129,NJIT,George Mason,A,-18
+20231129,Louisiana Tech,New Mexico,A,-9
+20231129,Lipscomb,Chattanooga,H,14
+20231129,Loyola Marymount,Central Arkansas,H,27
+20231129,Pacific,Cal St. Northridge,H,-11
+20231129,Navy,VMI,H,20
+20231129,Morgan St.,High Point,A,-18
+20231129,Duke,Arkansas,A,-5
+20231129,Drake,Valparaiso,A,18
+20231129,New Mexico,Louisiana Tech,H,9
+20231129,Idaho,Denver,H,-2
+20231129,Northern Iowa,Belmont,H,-20
+20231129,Austin Peay,Morehead St.,H,-11
+20231129,Lafayette,Drexel,H,-21
+20231129,American,Harvard,A,-5
+20231129,Murray St.,Bradley,H,7
+20231129,Army,Central Connecticut,H,-28
+20231129,Colorado,Colorado St.,A,-5
+20231129,Boston University,Albany,A,-14
+20231129,Coastal Carolina,USC Upstate,H,2
+20231129,Holy Cross,Maine,H,-15
+20231129,La Salle,Temple,A,-7
+20231129,Bucknell,Princeton,H,-14
+20231129,Villanova,Saint Joseph's,H,-13
+20231129,Texas A&M Corpus Chr,UTEP,A,4
+20231129,Boston College,Vanderbilt,A,18
+20231129,Davidson,Charlotte,A,4
+20231129,Northern Colorado,San Diego,A,-2
+20231129,Queens,Gardner Webb,H,3
+20231129,Auburn,Virginia Tech,H,17
+20231129,Loyola MD,Columbia,A,-12
+20231129,Arkansas,Duke,H,5
+20231129,Florida,Wake Forest,A,-11
+20231129,Georgia,Florida St.,A,2
+20231129,Tennessee St.,Alabama A&M,A,-2
+20231129,Denver,Idaho,A,2
+20231129,Dayton,SMU,A,2
+20231129,Jacksonville,Campbell,H,14
+20231129,Stephen F. Austin,Tarleton St.,H,-2
+20231129,St. Francis PA,Lehigh,A,1
+20231129,Northeastern,Seton Hall,A,-13
+20231129,Binghamton,Colgate,A,-35
+20231129,Seton Hall,Northeastern,H,13
+20231129,Iona,Marist,H,-4
+20231129,Central Arkansas,Loyola Marymount,A,-27
+20231129,FIU,Florida Gulf Coast,H,-3
+20231129,Eastern Washington,USC,A,-28
+20231129,Saint Joseph's,Villanova,A,13
+20231129,Old Dominion,Radford,H,1
+20231129,Vanderbilt,Boston College,H,-18
+20231129,UC Irvine,Duquesne,A,-4
+20231129,Iowa,North Florida,H,25
+20231129,Buffalo,James Madison,A,-15
+20231129,Alabama A&M,Tennessee St.,H,2
+20231129,Florida Gulf Coast,FIU,A,3
+20231129,Cleveland St.,Youngstown St.,A,-25
+20231129,Belmont,Northern Iowa,A,20
+20231129,UC Santa Barbara,Northern Arizona,H,11
+20231129,Sam Houston St.,Arizona St.,A,-17
+20231129,James Madison,Buffalo,H,15
+20231129,Merrimack,Georgetown,A,-2
+20231129,Marist,Iona,A,4
+20231129,UMass Lowell,Stonehill,A,6
+20231129,VMI,Navy,A,-20
+20231129,Cal Poly,San Jose St.,H,4
+20231129,Fort Wayne,Green Bay,H,4
+20231129,George Mason,NJIT,H,18
+20231129,Princeton,Bucknell,A,14
+20231129,Tennessee,North Carolina,A,-8
+20231129,IUPUI,Wright St.,A,-29
+20231129,Richmond,Wichita St.,A,-12
+20231129,Texas A&M,Virginia,A,-12
+20231129,Yale,Stony Brook,H,8
+20231129,Appalachian St.,East Tennessee St.,H,11
+20231129,San Jose St.,Cal Poly,A,-4
+20231129,Virginia,Texas A&M,H,12
+20231129,North Carolina,Tennessee,H,8
+20231129,Tarleton St.,Stephen F. Austin,A,2
+20231129,Wake Forest,Florida,H,11
+20231129,Chattanooga,Lipscomb,A,-14
+20231129,East Tennessee St.,Appalachian St.,A,-11
+20231129,High Point,Morgan St.,H,18
+20231129,Youngstown St.,Cleveland St.,H,25
+20231129,Central Connecticut,Army,A,28
+20231129,Monmouth,Cornell,A,-4
+20231129,Stony Brook,Yale,A,-8
+20231129,UTEP,Texas A&M Corpus Chr,H,-4
+20231129,Wright St.,IUPUI,H,29
+20231129,Temple,La Salle,H,7
+20231129,Detroit,Oakland,H,-15
+20231129,Oakland,Detroit,A,15
+20231129,Prairie View A&M,Tulane,A,-21
+20231129,Duquesne,UC Irvine,H,4
+20231129,USC Upstate,Coastal Carolina,A,-2
+20231129,Bellarmine,Louisville,A,-5
+20231129,Northern Arizona,UC Santa Barbara,A,-11
+20231129,Wichita St.,Richmond,H,12
+20231129,Drexel,Lafayette,A,21
+20231129,Gardner Webb,Queens,A,-3
+20231129,Virginia Tech,Auburn,A,-17
+20231129,Dartmouth,Vermont,A,-11
+20231129,Harvard,American,H,5
+20231129,Radford,Old Dominion,A,-1
+20231129,Albany,Boston University,H,14
+20231129,Montana,Nevada,A,-11
+20231129,Charlotte,Davidson,H,-4
+20231129,Robert Morris,Northern Kentucky,A,-18
+20231129,Evansville,Missouri St.,A,-12
+20231129,Arizona St.,Sam Houston St.,H,17
+20231129,Stonehill,UMass Lowell,H,-6
+20231129,Missouri St.,Evansville,H,12
+20231129,Bradley,Murray St.,A,-7
+20231129,Campbell,Jacksonville,A,-14
+20231129,Ohio St.,Central Michigan,H,27
+20231129,SMU,Dayton,H,-2
+20231129,Colgate,Binghamton,H,35
+20231129,Cal St. Northridge,Pacific,A,11
+20231130,East Carolina,UNC Wilmington,H,8
+20231130,Liberty,Florida Atlantic,A,-25
+20231130,Oklahoma,Arkansas Pine Bluff,H,21
+20231130,Rice,Tennessee Martin,H,20
+20231130,Delaware St.,Chicago St.,A,7
+20231130,UNC Wilmington,East Carolina,A,-8
+20231130,UMKC,Southeast Missouri S,H,30
+20231130,Creighton,Oklahoma St.,A,14
+20231130,UMBC,Coppin St.,A,-19
+20231130,Oregon St.,UC Davis,H,12
+20231130,Hawaii,Utah,N,-13
+20231130,North Alabama,Tennessee Tech,H,15
+20231130,Florida Atlantic,Liberty,H,25
+20231130,Fairleigh Dickinson,Fordham,A,-28
+20231130,Lamar,UTSA,A,-3
+20231130,UC Davis,Oregon St.,A,-12
+20231130,Illinois Chicago,Illinois St.,H,-5
+20231130,Sacred Heart,New Hampshire,H,-6
+20231130,Butler,Texas Tech,H,8
+20231130,Samford,Louisiana Lafayette,H,23
+20231130,UC Riverside,UCLA,A,-1
+20231130,Tennessee Martin,Rice,A,-20
+20231130,UTSA,Lamar,H,3
+20231130,South Florida,Hofstra,A,-19
+20231130,UCLA,UC Riverside,H,1
+20231130,Arkansas Pine Bluff,Oklahoma,A,-21
+20231130,Southeast Missouri S,UMKC,A,-30
+20231130,Tennessee Tech,North Alabama,A,-15
+20231130,Louisiana Lafayette,Samford,A,-23
+20231130,South Alabama,Jacksonville St.,A,-18
+20231130,Texas St.,Texas,A,-19
+20231130,Jacksonville St.,South Alabama,H,18
+20231130,New Hampshire,Sacred Heart,A,6
+20231130,Illinois St.,Illinois Chicago,A,5
+20231130,Texas,Texas St.,H,19
+20231130,New Orleans,Minnesota,A,-33
+20231130,Texas Tech,Butler,A,-8
+20231130,Utah,Hawaii,N,13
+20231130,Hofstra,South Florida,H,19
+20231130,Minnesota,New Orleans,H,33
+20231130,Coppin St.,UMBC,H,19
+20231130,Oklahoma St.,Creighton,H,-14
+20231130,Fordham,Fairleigh Dickinson,H,28
+20231201,Saint Mary's,Boise St.,N,-3
+20231201,Fairfield,Iona,H,-11
+20231201,Norfolk St.,VCU,A,3
+20231201,College of Charlesto,Liberty,N,9
+20231201,Niagara,Saint Peter's,H,-5
+20231201,Incarnate Word,Bethune Cookman,A,-14
+20231201,Connecticut,Kansas,A,-4
+20231201,Liberty,College of Charlesto,N,-9
+20231201,Indiana,Maryland,H,12
+20231201,Purdue,Northwestern,A,-4
+20231201,VCU,Norfolk St.,H,-3
+20231201,Georgia,Mercer,H,11
+20231201,Houston,Xavier,A,6
+20231201,Boise St.,Saint Mary's,N,3
+20231201,Southern Miss,UAB,A,3
+20231201,UC San Diego,San Diego St.,H,-1
+20231201,Bethune Cookman,Incarnate Word,H,14
+20231201,San Diego St.,UC San Diego,A,1
+20231201,Saint Peter's,Niagara,A,5
+20231201,Canisius,Quinnipiac,H,20
+20231201,Southeastern Louisia,LSU,A,-7
+20231201,BYU,Fresno St.,N,29
+20231201,St. Thomas,Western Michigan,A,14
+20231201,Kansas,Connecticut,H,4
+20231201,Wyoming,Portland,A,-11
+20231201,LSU,Southeastern Louisia,H,7
+20231201,Siena,Rider,H,2
+20231201,Portland,Wyoming,H,11
+20231201,South Dakota St.,Towson,N,13
+20231201,North Dakota,Cal St. Fullerton,A,-10
+20231201,SIU Edwardsville,Troy,A,-23
+20231201,West Virginia,St. John's,H,-6
+20231201,Xavier,Houston,H,-6
+20231201,Troy,SIU Edwardsville,H,23
+20231201,Rider,Siena,A,-2
+20231201,Northwestern,Purdue,H,4
+20231201,Maryland,Indiana,A,-12
+20231201,Western Michigan,St. Thomas,H,-14
+20231201,Brown,Bryant,H,-3
+20231201,Manhattan,Mount St. Mary's,H,1
+20231201,St. John's,West Virginia,A,6
+20231201,Quinnipiac,Canisius,A,-20
+20231201,Iowa St.,DePaul,A,19
+20231201,George Washington,South Carolina,A,-22
+20231201,Mount St. Mary's,Manhattan,A,-1
+20231201,Mercer,Georgia,A,-11
+20231201,Cal St. Fullerton,North Dakota,H,10
+20231201,Arkansas St.,Little Rock,A,-11
+20231201,DePaul,Iowa St.,H,-19
+20231201,UAB,Southern Miss,H,-3
+20231201,Towson,South Dakota St.,N,-13
+20231201,Bryant,Brown,A,3
+20231201,Little Rock,Arkansas St.,H,11
+20231201,Fresno St.,BYU,N,-29
+20231201,Iona,Fairfield,A,11
+20231201,South Carolina,George Washington,H,22
+20231202,Miami FL,Notre Dame,H,13
+20231202,Colgate,Arizona,A,-27
+20231202,Illinois,Rutgers,A,18
+20231202,Temple,Saint Joseph's,N,-9
+20231202,UMass Lowell,Merrimack,A,-6
+20231202,Florida Atlantic,College of Charlesto,H,16
+20231202,Winthrop,Coastal Carolina,A,3
+20231202,LIU Brooklyn,FIU,A,-15
+20231202,High Point,North Florida,A,7
+20231202,Idaho,Cal Poly,H,15
+20231202,Richmond,William & Mary,H,19
+20231202,South Carolina St.,Charleston Southern,A,-2
+20231202,McNeese St.,Tennessee Martin,H,11
+20231202,FIU,LIU Brooklyn,H,15
+20231202,Nicholls St.,Louisiana Tech,A,-13
+20231202,Houston Christian,Rice,A,-9
+20231202,Syracuse,Virginia,A,-22
+20231202,Bowling Green,Southern Indiana,A,2
+20231202,Sacred Heart,Boston University,H,-21
+20231202,Georgia Southern,Jacksonville,H,-2
+20231202,Georgia St.,Kennesaw St.,A,-11
+20231202,Cornell,Lafayette,A,8
+20231202,Evansville,Northern Iowa,H,2
+20231202,TCU,Georgetown,A,1
+20231202,Merrimack,UMass Lowell,H,6
+20231202,Bucknell,Penn St.,A,9
+20231202,Wisconsin,Marquette,H,11
+20231202,Northwestern St.,Baylor,A,-51
+20231202,NJIT,Fairleigh Dickinson,H,-3
+20231202,Gonzaga,USC,N,13
+20231202,Rhode Island,Providence,A,-15
+20231202,Loyola Marymount,Nevada,A,-14
+20231202,Pacific,Northern Arizona,A,-20
+20231202,Santa Clara,California,A,-15
+20231202,UCF,Lipscomb,H,15
+20231202,Youngstown St.,Robert Morris,A,14
+20231202,North Carolina,Florida St.,H,8
+20231202,Sacramento St.,Long Beach St.,A,-10
+20231202,Princeton,Furman,H,1
+20231202,Colorado St.,Washington,N,5
+20231202,North Alabama,Kansas St.,A,-1
+20231202,Wagner,Stony Brook,A,1
+20231202,Southern Indiana,Bowling Green,H,-2
+20231202,San Jose St.,Montana,A,-17
+20231202,Cleveland St.,Detroit,H,11
+20231202,North Carolina A&T,The Citadel,H,-17
+20231202,Cal Poly,Idaho,A,-15
+20231202,North Carolina St.,Boston College,A,6
+20231202,Arizona,Colgate,H,27
+20231202,College of Charlesto,Florida Atlantic,A,-16
+20231202,Tennessee Martin,McNeese St.,A,-11
+20231202,Penn St.,Bucknell,H,-9
+20231202,Baylor,Northwestern St.,H,51
+20231202,Holy Cross,Central Connecticut,A,-11
+20231202,Middle Tennessee,Wofford,H,-10
+20231202,Marshall,Miami OH,H,-5
+20231202,Mississippi,Memphis,H,3
+20231202,Virginia,Syracuse,H,22
+20231202,North Carolina Centr,USC Upstate,H,-3
+20231202,Gardner Webb,Western Carolina,H,5
+20231202,UMBC,Lehigh,H,5
+20231202,Binghamton,Stonehill,A,15
+20231202,Providence,Rhode Island,H,15
+20231202,Stephen F. Austin,Abilene Christian,A,5
+20231202,Abilene Christian,Stephen F. Austin,H,-5
+20231202,Mississippi Valley S,North Texas,A,-31
+20231202,Southern Utah,Seattle,A,-10
+20231202,VMI,Presbyterian,H,-4
+20231202,Penn,La Salle,N,-1
+20231202,Notre Dame,Miami FL,A,-13
+20231202,Robert Morris,Youngstown St.,H,-14
+20231202,Memphis,Mississippi,A,-3
+20231202,Milwaukee,Green Bay,A,-12
+20231202,California,Santa Clara,H,15
+20231202,Stony Brook,Wagner,H,-1
+20231202,Green Bay,Milwaukee,H,12
+20231202,UC Irvine,Utah St.,A,-10
+20231202,Vermont,Yale,H,1
+20231202,Jacksonville,Georgia Southern,A,2
+20231202,Fairleigh Dickinson,NJIT,A,3
+20231202,Southern Illinois,Saint Louis,H,39
+20231202,New Mexico,New Mexico St.,H,44
+20231202,Loyola Chicago,Harvard,H,22
+20231202,Louisiana Tech,Nicholls St.,H,13
+20231202,St. Francis PA,American,A,2
+20231202,Montana,San Jose St.,H,17
+20231202,Drake,Missouri St.,H,17
+20231202,Delaware St.,Loyola MD,A,6
+20231202,Kennesaw St.,Georgia St.,H,11
+20231202,New Mexico St.,New Mexico,A,-44
+20231202,Grand Canyon,UT Arlington,H,7
+20231202,UT Arlington,Grand Canyon,A,-7
+20231202,Tarleton St.,UT Rio Grande Valley,H,2
+20231202,UT Rio Grande Valley,Tarleton St.,A,-2
+20231202,Lipscomb,UCF,A,-15
+20231202,Rutgers,Illinois,H,-18
+20231202,Massachusetts,South Florida,H,10
+20231202,Washington St.,Portland St.,H,10
+20231202,Coastal Carolina,Winthrop,H,-3
+20231202,Oakland,Fort Wayne,H,-21
+20231202,Bradley,Indiana St.,H,-8
+20231202,Grambling St.,Dayton,A,-30
+20231202,The Citadel,North Carolina A&T,A,17
+20231202,Alabama A&M,Vanderbilt,A,-19
+20231202,George Mason,Toledo,A,9
+20231202,Saint Louis,Southern Illinois,A,-39
+20231202,Northern Arizona,Pacific,H,20
+20231202,IUPUI,Northern Kentucky,H,-16
+20231202,Boston College,North Carolina St.,H,-6
+20231202,William & Mary,Richmond,A,-19
+20231202,Presbyterian,VMI,A,4
+20231202,Marquette,Wisconsin,A,-11
+20231202,Rice,Houston Christian,H,9
+20231202,Cal St. Northridge,Northern Colorado,A,-4
+20231202,Stonehill,Binghamton,H,-15
+20231202,Wofford,Middle Tennessee,A,10
+20231202,Furman,Princeton,A,-1
+20231202,Western Carolina,Gardner Webb,A,-5
+20231202,Seattle,Southern Utah,H,10
+20231202,USC,Gonzaga,N,-13
+20231202,Utah Valley,Utah Tech,A,-12
+20231202,Utah Tech,Utah Valley,H,12
+20231202,Harvard,Loyola Chicago,A,-22
+20231202,Ball St.,Bellarmine,H,9
+20231202,Wright St.,Davidson,A,-9
+20231202,Kentucky,UNC Wilmington,H,-7
+20231202,Northeastern,Old Dominion,H,13
+20231202,Toledo,George Mason,H,-9
+20231202,Vanderbilt,Alabama A&M,H,19
+20231202,Old Dominion,Northeastern,A,-13
+20231202,Portland St.,Washington St.,A,-10
+20231202,Lindenwood,Idaho St.,A,-6
+20231202,Davidson,Wright St.,H,9
+20231202,Northern Kentucky,IUPUI,A,16
+20231202,Northern Iowa,Evansville,A,-2
+20231202,USC Upstate,North Carolina Centr,A,3
+20231202,Long Beach St.,Sacramento St.,H,10
+20231202,Idaho St.,Lindenwood,H,6
+20231202,Yale,Vermont,A,-1
+20231202,Fort Wayne,Oakland,A,21
+20231202,Indiana St.,Bradley,A,8
+20231202,UNC Wilmington,Kentucky,A,7
+20231202,Dayton,Grambling St.,H,30
+20231202,Missouri St.,Drake,A,-17
+20231202,Villanova,Drexel,N,-2
+20231202,Delaware,Ohio,A,-1
+20231202,Oregon,Michigan,H,3
+20231202,Saint Joseph's,Temple,N,9
+20231202,Drexel,Villanova,N,2
+20231202,Northern Colorado,Cal St. Northridge,H,4
+20231202,Albany,Dartmouth,H,5
+20231202,Washington,Colorado St.,N,-5
+20231202,Oral Roberts,Tulsa,H,9
+20231202,Florida St.,North Carolina,A,-8
+20231202,Nevada,Loyola Marymount,H,14
+20231202,Utah St.,UC Irvine,H,10
+20231202,Ohio,Delaware,H,1
+20231202,St. Bonaventure,Buffalo,A,15
+20231202,Belmont,Valparaiso,H,9
+20231202,Dartmouth,Albany,A,-5
+20231202,Buffalo,St. Bonaventure,H,-15
+20231202,North Florida,High Point,H,-7
+20231202,Michigan,Oregon,A,-3
+20231202,Valparaiso,Belmont,A,-9
+20231202,South Florida,Massachusetts,A,-10
+20231202,Kansas St.,North Alabama,H,1
+20231202,Tulsa,Oral Roberts,A,-9
+20231202,Detroit,Cleveland St.,A,-11
+20231202,Tennessee St.,Austin Peay,H,4
+20231202,Georgetown,TCU,H,-1
+20231202,Central Connecticut,Holy Cross,H,11
+20231202,Lafayette,Cornell,H,-8
+20231202,Boston University,Sacred Heart,A,21
+20231202,Charleston Southern,South Carolina St.,H,2
+20231202,Lehigh,UMBC,A,-5
+20231202,Georgia Tech,Duke,H,4
+20231202,North Texas,Mississippi Valley S,H,31
+20231202,Duke,Georgia Tech,A,-4
+20231202,Loyola MD,Delaware St.,H,-6
+20231202,Miami OH,Marshall,A,5
+20231202,La Salle,Penn,N,1
+20231202,Bellarmine,Ball St.,A,-9
+20231202,American,St. Francis PA,H,-2
+20231202,Austin Peay,Tennessee St.,A,-4
+20231203,San Francisco,Arizona St.,A,-11
+20231203,San Diego,Stanford,A,-24
+20231203,Pepperdine,Colorado,A,-25
+20231203,Portland,Air Force,H,-22
+20231203,Mississippi St.,Southern,H,-1
+20231203,Clemson,Pittsburgh,A,9
+20231203,Louisville,Virginia Tech,A,-7
+20231203,Longwood,Morgan St.,A,34
+20231203,Niagara,Quinnipiac,H,-7
+20231203,Auburn,Appalachian St.,A,-5
+20231203,Southern,Mississippi St.,A,1
+20231203,South Dakota,Western Illinois,A,2
+20231203,North Dakota,UC Riverside,A,-6
+20231203,Air Force,Portland,A,22
+20231203,Eastern Kentucky,Western Kentucky,A,-10
+20231203,Sam Houston St.,Lamar,H,20
+20231203,Ohio St.,Minnesota,H,10
+20231203,Jacksonville St.,East Tennessee St.,H,-2
+20231203,East Tennessee St.,Jacksonville St.,A,2
+20231203,Murray St.,Illinois St.,A,-4
+20231203,Central Arkansas,Hawaii,A,-19
+20231203,Cincinnati,Florida Gulf Coast,H,37
+20231203,Pittsburgh,Clemson,H,-9
+20231203,Virginia Tech,Louisville,H,7
+20231203,Elon,Radford,A,-10
+20231203,Fordham,Tulane,H,-8
+20231203,Lamar,Sam Houston St.,A,-20
+20231203,Texas A&M Commerce,SMU,A,-43
+20231203,Rider,Fairfield,H,-7
+20231203,Coppin St.,Navy,A,-23
+20231203,Stetson,Chicago St.,A,-23
+20231203,Chattanooga,Morehead St.,A,-7
+20231203,UC Riverside,North Dakota,H,6
+20231203,Columbia,New Hampshire,A,-9
+20231203,Quinnipiac,Niagara,A,7
+20231203,Arizona St.,San Francisco,H,11
+20231203,Morgan St.,Longwood,H,-34
+20231203,Siena,Mount St. Mary's,A,-32
+20231203,Appalachian St.,Auburn,H,5
+20231203,Creighton,Nebraska,A,29
+20231203,Illinois St.,Murray St.,H,4
+20231203,Radford,Elon,H,10
+20231203,Minnesota,Ohio St.,A,-10
+20231203,SMU,Texas A&M Commerce,H,43
+20231203,Brown,Maine,A,-11
+20231203,Wichita St.,Missouri,A,-10
+20231203,Canisius,Saint Peter's,H,-2
+20231203,Western Illinois,South Dakota,H,-2
+20231203,Fairfield,Rider,A,7
+20231203,Manhattan,Marist,A,-14
+20231203,Nebraska,Creighton,H,-29
+20231203,Marist,Manhattan,H,14
+20231203,Stanford,San Diego,H,24
+20231203,Saint Peter's,Canisius,A,2
+20231203,New Hampshire,Columbia,H,9
+20231203,Navy,Coppin St.,H,23
+20231203,Florida Gulf Coast,Cincinnati,A,-37
+20231203,Mount St. Mary's,Siena,H,32
+20231203,Colorado,Pepperdine,H,25
+20231203,Missouri,Wichita St.,H,10
+20231203,Hawaii,Central Arkansas,H,19
+20231203,Morehead St.,Chattanooga,H,7
+20231203,Western Kentucky,Eastern Kentucky,H,10
+20231203,Tulane,Fordham,A,8
+20231203,Maine,Brown,H,11
+20231204,San Jose St.,North Dakota St.,A,-5
+20231204,Purdue,Iowa,H,19
+20231204,Cal Poly,Oregon St.,A,-7
+20231204,Alabama,Arkansas St.,H,24
+20231204,Iowa,Purdue,A,-19
+20231204,Arkansas St.,Alabama,A,-24
+20231204,Maryland Eastern Sho,East Carolina,A,-11
+20231204,East Carolina,Maryland Eastern Sho,H,11
+20231204,Oregon St.,Cal Poly,H,7
+20231204,North Dakota St.,San Jose St.,H,5
+20231204,Furman,Arkansas,A,-14
+20231204,Arkansas,Furman,H,14
+20231205,Gonzaga,Arkansas Pine Bluff,H,40
+20231205,Saint Mary's,Cleveland St.,H,13
+20231205,Pacific,Idaho,A,-30
+20231205,Connecticut,North Carolina,N,11
+20231205,Bradley,Akron,A,-15
+20231205,Buffalo,Butler,A,-13
+20231205,Kennesaw St.,UNC Asheville,H,3
+20231205,Seton Hall,Baylor,A,-18
+20231205,Michigan,Indiana,H,-3
+20231205,Syracuse,Cornell,H,11
+20231205,Mississippi Valley S,Liberty,A,-35
+20231205,High Point,Western Carolina,H,26
+20231205,Indiana,Michigan,A,3
+20231205,Illinois,Florida Atlantic,N,9
+20231205,Louisiana Tech,Stephen F. Austin,A,7
+20231205,Princeton,Drexel,H,11
+20231205,Michigan St.,Wisconsin,H,-13
+20231205,Middle Tennessee,Missouri St.,H,4
+20231205,Montana St.,Washington,A,-24
+20231205,Evansville,BYU,A,-41
+20231205,Mississippi,Mount St. Mary's,H,9
+20231205,Washington,Montana St.,H,24
+20231205,Liberty,Mississippi Valley S,H,35
+20231205,Idaho St.,Fresno St.,A,-12
+20231205,Wisconsin,Michigan St.,A,13
+20231205,Stetson,Charlotte,A,-23
+20231205,Merrimack,Florida,A,-20
+20231205,Cornell,Syracuse,A,-11
+20231205,Lafayette,Columbia,A,-11
+20231205,Oklahoma St.,Southern Illinois,A,-2
+20231205,UNC Asheville,Kennesaw St.,A,-3
+20231205,North Carolina Centr,Virginia,A,-30
+20231205,Notre Dame,Western Michigan,H,21
+20231205,Tulsa,Loyola Chicago,H,11
+20231205,Cleveland St.,Saint Mary's,A,-13
+20231205,South Dakota St.,Kent St.,H,-9
+20231205,North Carolina,Connecticut,N,-11
+20231205,Boston College,Central Connecticut,H,14
+20231205,Central Connecticut,Boston College,A,-14
+20231205,North Texas,Boise St.,A,-5
+20231205,Columbia,Lafayette,H,11
+20231205,Navy,George Washington,A,-2
+20231205,Weber St.,Utah Valley,A,-16
+20231205,UMKC,Kansas,A,-19
+20231205,Missouri St.,Middle Tennessee,A,-4
+20231205,Florida Atlantic,Illinois,N,-9
+20231205,Charlotte,Stetson,H,23
+20231205,Western Carolina,High Point,A,-26
+20231205,Loyola Chicago,Tulsa,A,-11
+20231205,Virginia,North Carolina Centr,H,30
+20231205,Drexel,Princeton,A,-11
+20231205,Butler,Buffalo,H,13
+20231205,Idaho,Pacific,H,30
+20231205,Utah,Southern Utah,H,2
+20231205,Providence,Oklahoma,A,-21
+20231205,San Diego St.,Grand Canyon,A,-6
+20231205,Mount St. Mary's,Mississippi,A,-9
+20231205,Utah Valley,Weber St.,H,16
+20231205,Southern Utah,Utah,A,-2
+20231205,Grand Canyon,San Diego St.,H,6
+20231205,Stephen F. Austin,Louisiana Tech,H,-7
+20231205,Northern Illinois,Indiana St.,H,-23
+20231205,Villanova,Kansas St.,A,-1
+20231205,Le Moyne,Army,A,-17
+20231205,Kansas St.,Villanova,H,1
+20231205,Southern Illinois,Oklahoma St.,H,2
+20231205,Delaware,Xavier,A,7
+20231205,George Mason,Tennessee,A,-21
+20231205,Baylor,Seton Hall,H,18
+20231205,Georgia Tech,Georgia,A,-14
+20231205,Queens,Winthrop,A,-6
+20231205,BYU,Evansville,H,41
+20231205,Kent St.,South Dakota St.,A,9
+20231205,Winthrop,Queens,H,6
+20231205,Akron,Bradley,H,15
+20231205,Tennessee,George Mason,H,21
+20231205,George Washington,Navy,H,2
+20231205,Fresno St.,Idaho St.,H,12
+20231205,Georgia,Georgia Tech,H,14
+20231205,Army,Le Moyne,H,17
+20231205,Xavier,Delaware,H,-7
+20231205,Arkansas Pine Bluff,Gonzaga,A,-40
+20231205,Florida,Merrimack,H,20
+20231205,Boise St.,North Texas,H,5
+20231205,Western Michigan,Notre Dame,A,-21
+20231205,Kansas,UMKC,H,19
+20231205,Oklahoma,Providence,H,21
+20231205,Indiana St.,Northern Illinois,A,23
+20231206,Colorado St.,Denver,H,10
+20231206,South Alabama,Mercer,A,21
+20231206,UC Davis,Nevada,A,-12
+20231206,Loyola MD,La Salle,A,-1
+20231206,Denver,Colorado St.,A,-10
+20231206,Davidson,Campbell,H,12
+20231206,Northern Kentucky,Illinois St.,A,-3
+20231206,Niagara,St. Bonaventure,H,-34
+20231206,Ball St.,Detroit,A,3
+20231206,LIU Brooklyn,Miami FL,A,-48
+20231206,Arizona St.,SMU,H,2
+20231206,St. Thomas,Milwaukee,H,4
+20231206,Hofstra,Iona,A,5
+20231206,Massachusetts,Towson,A,-10
+20231206,Central Michigan,Valparaiso,H,4
+20231206,Jacksonville,UCF,A,-42
+20231206,Fairfield,Yale,A,4
+20231206,DePaul,Texas A&M,A,-25
+20231206,Ohio St.,Miami OH,H,20
+20231206,Northern Iowa,Richmond,H,5
+20231206,Bryant,Siena,A,16
+20231206,Wagner,Coppin St.,A,3
+20231206,St. John's,Sacred Heart,H,35
+20231206,Miami FL,LIU Brooklyn,H,48
+20231206,Lipscomb,Belmont,A,-1
+20231206,Texas,Marquette,A,-21
+20231206,New Mexico,UC Santa Barbara,H,23
+20231206,Robert Morris,Canisius,A,-7
+20231206,Illinois St.,Northern Kentucky,H,3
+20231206,Canisius,Robert Morris,H,7
+20231206,Nebraska Omaha,Texas Tech,A,-29
+20231206,West Virginia,Pittsburgh,H,-17
+20231206,Wofford,Gardner Webb,A,15
+20231206,Texas A&M Corpus Chr,UT Rio Grande Valley,H,-2
+20231206,Mercer,South Alabama,H,-21
+20231206,Marquette,Texas,H,21
+20231206,Penn St.,Maryland,A,-6
+20231206,Fort Wayne,Southern Indiana,A,13
+20231206,Toledo,Oakland,A,1
+20231206,Fordham,NJIT,H,-3
+20231206,VCU,Memphis,H,-5
+20231206,Northeastern,Vermont,H,-2
+20231206,Maine,Boston University,A,9
+20231206,Pepperdine,Cal St. Fullerton,H,-5
+20231206,San Diego,Utah St.,A,-27
+20231206,San Francisco,Vanderbilt,A,13
+20231206,Marshall,Duquesne,H,-13
+20231206,Coppin St.,Wagner,H,-3
+20231206,Siena,Bryant,H,-16
+20231206,La Salle,Loyola MD,H,1
+20231206,Brown,Rhode Island,A,3
+20231206,SIU Edwardsville,Green Bay,H,9
+20231206,Abilene Christian,Northern Arizona,H,-2
+20231206,Minnesota,Nebraska,H,11
+20231206,New Hampshire,Dartmouth,A,-12
+20231206,Drake,Saint Louis,H,6
+20231206,Southern Indiana,Fort Wayne,H,-13
+20231206,Green Bay,SIU Edwardsville,A,-9
+20231206,Oakland,Toledo,H,-1
+20231206,Maryland Eastern Sho,North Carolina St.,A,-32
+20231206,Presbyterian,Florida A&M,H,-5
+20231206,Belmont,Lipscomb,H,1
+20231206,UT Rio Grande Valley,Texas A&M Corpus Chr,A,2
+20231206,Cal Baptist,Utah Tech,H,-3
+20231206,Utah Tech,Cal Baptist,A,3
+20231206,Vermont,Northeastern,A,2
+20231206,Nebraska,Minnesota,A,-11
+20231206,Rhode Island,Brown,H,-3
+20231206,UC Riverside,Washington St.,A,-37
+20231206,Old Dominion,William & Mary,A,-5
+20231206,UC Santa Barbara,New Mexico,A,-23
+20231206,SMU,Arizona St.,A,-2
+20231206,American,Saint Joseph's,A,-16
+20231206,South Carolina,Clemson,A,-5
+20231206,Vanderbilt,San Francisco,H,-13
+20231206,Texas A&M,DePaul,H,25
+20231206,Boston University,Maine,H,-9
+20231206,Morgan St.,UMBC,H,12
+20231206,Campbell,Davidson,A,-12
+20231206,Stony Brook,Stonehill,H,18
+20231206,Detroit,Ball St.,H,-3
+20231206,Stonehill,Stony Brook,A,-18
+20231206,Utah St.,San Diego,H,27
+20231206,UMBC,Morgan St.,A,-12
+20231206,Clemson,South Carolina,H,5
+20231206,Richmond,Northern Iowa,A,-5
+20231206,Miami OH,Ohio St.,A,-20
+20231206,Rice,Houston,A,-36
+20231206,Youngstown St.,Ohio,A,6
+20231206,Pittsburgh,West Virginia,A,17
+20231206,Milwaukee,St. Thomas,A,-4
+20231206,North Carolina St.,Maryland Eastern Sho,H,32
+20231206,Gardner Webb,Wofford,H,-15
+20231206,Iona,Hofstra,H,-5
+20231206,NJIT,Fordham,A,3
+20231206,Valparaiso,Central Michigan,A,-4
+20231206,Towson,Massachusetts,H,10
+20231206,Florida A&M,Presbyterian,A,5
+20231206,Dartmouth,New Hampshire,H,12
+20231206,Houston,Rice,H,36
+20231206,Saint Louis,Drake,A,-6
+20231206,Nevada,UC Davis,H,12
+20231206,Texas Tech,Nebraska Omaha,H,29
+20231206,Yale,Fairfield,H,-4
+20231206,St. Bonaventure,Niagara,A,34
+20231206,UCF,Jacksonville,H,42
+20231206,William & Mary,Old Dominion,H,5
+20231206,Maryland,Penn St.,H,6
+20231206,Saint Joseph's,American,H,16
+20231206,Sacred Heart,St. John's,A,-35
+20231206,Wake Forest,Rutgers,H,19
+20231206,Memphis,VCU,A,5
+20231206,Duquesne,Marshall,A,13
+20231206,Northern Arizona,Abilene Christian,A,2
+20231206,Ohio,Youngstown St.,H,-6
+20231206,Rutgers,Wake Forest,A,-19
+20231206,Washington St.,UC Riverside,H,37
+20231206,Cal St. Fullerton,Pepperdine,A,5
+20231207,North Dakota St.,Portland,H,11
+20231207,Little Rock,Central Arkansas,A,-4
+20231207,IUPUI,Eastern Illinois,A,-17
+20231207,Eastern Illinois,IUPUI,H,17
+20231207,UNC Greensboro,Eastern Kentucky,H,2
+20231207,Eastern Kentucky,UNC Greensboro,A,-2
+20231207,Iowa,Iowa St.,A,-25
+20231207,Portland,North Dakota St.,A,-11
+20231207,Iowa St.,Iowa,H,25
+20231207,Central Arkansas,Little Rock,H,4
+20231208,Eastern Michigan,Oakland,H,-14
+20231208,Holy Cross,Boston College,A,-31
+20231208,Oakland,Eastern Michigan,A,14
+20231208,Stonehill,Rider,A,-17
+20231208,Duquesne,Saint Peter's,H,9
+20231208,Fairleigh Dickinson,Manhattan,A,5
+20231208,North Carolina A&T,High Point,A,-13
+20231208,Boston College,Holy Cross,H,31
+20231208,Jacksonville St.,Illinois Chicago,H,-6
+20231208,High Point,North Carolina A&T,H,13
+20231208,Rider,Stonehill,H,17
+20231208,Harvard,Army,H,6
+20231208,Navy,Quinnipiac,A,-3
+20231208,Quinnipiac,Navy,H,3
+20231208,Army,Harvard,A,-6
+20231208,Illinois Chicago,Jacksonville St.,A,6
+20231208,Manhattan,Fairleigh Dickinson,H,-5
+20231208,Saint Peter's,Duquesne,A,-9
+20231209,Buffalo,Western Kentucky,H,-17
+20231209,Villanova,UCLA,H,9
+20231209,Purdue,Alabama,N,6
+20231209,UNLV,Loyola Marymount,H,-3
+20231209,Austin Peay,Murray St.,H,4
+20231209,Canisius,Pittsburgh,A,-11
+20231209,Western Carolina,UNC Asheville,H,15
+20231209,New Mexico,Santa Clara,N,17
+20231209,Radford,North Carolina Centr,H,8
+20231209,Western Illinois,Green Bay,A,9
+20231209,Central Connecticut,Maine,A,-13
+20231209,Marquette,Notre Dame,H,19
+20231209,Mercer,Georgia St.,H,4
+20231209,Kansas St.,LSU,A,15
+20231209,Valparaiso,Virginia Tech,A,-21
+20231209,Toledo,Northern Iowa,H,4
+20231209,Penn St.,Ohio St.,H,3
+20231209,Wichita St.,South Dakota St.,N,-10
+20231209,VMI,American,H,-8
+20231209,Dayton,Troy,H,12
+20231209,Northern Arizona,Incarnate Word,A,1
+20231209,East Carolina,South Carolina,H,-6
+20231209,Green Bay,Western Illinois,H,-9
+20231209,Oregon St.,Utah Valley,H,3
+20231209,Houston Christian,Texas,A,-27
+20231209,Cal St. Fullerton,Sacramento St.,A,2
+20231209,LSU,Kansas St.,H,-15
+20231209,Le Moyne,Binghamton,A,-12
+20231209,Cal St. Bakersfield,South Dakota,A,-5
+20231209,Coppin St.,George Washington,A,-31
+20231209,Houston,Jackson St.,H,34
+20231209,Idaho St.,Southern Utah,A,-8
+20231209,San Diego,Arizona St.,H,5
+20231209,Gonzaga,Washington,A,-5
+20231209,Loyola Marymount,UNLV,A,3
+20231209,Santa Clara,New Mexico,N,-17
+20231209,Pacific,Fresno St.,A,-33
+20231209,Portland,North Dakota,A,11
+20231209,Saint Mary's,Colorado St.,A,3
+20231209,Pepperdine,UC San Diego,H,6
+20231209,Air Force,Eastern Washington,H,-5
+20231209,California,Butler,A,-7
+20231209,UCLA,Villanova,A,-9
+20231209,UC Davis,Milwaukee,H,-2
+20231209,Massachusetts,UMass Lowell,H,14
+20231209,Ohio,Marshall,H,-5
+20231209,San Diego St.,UC Irvine,H,1
+20231209,UC San Diego,Pepperdine,A,-6
+20231209,Florida Gulf Coast,Minnesota,A,-20
+20231209,Northern Iowa,Toledo,A,-4
+20231209,Delaware St.,Longwood,H,-1
+20231209,Ohio St.,Penn St.,A,-3
+20231209,Kansas,Missouri,H,9
+20231209,Kent St.,Cleveland St.,H,6
+20231209,Cal Poly,Weber St.,A,-28
+20231209,Vermont,Colgate,H,-6
+20231209,North Florida,Georgia Southern,H,8
+20231209,Texas,Houston Christian,H,27
+20231209,Arizona,Wisconsin,H,25
+20231209,Towson,UMBC,A,16
+20231209,Wisconsin,Arizona,A,-25
+20231209,Eastern Washington,Air Force,A,5
+20231209,Illinois St.,Norfolk St.,H,-6
+20231209,Tennessee,Illinois,H,7
+20231209,North Dakota,Portland,H,-11
+20231209,UAB,Arkansas St.,A,-19
+20231209,Colgate,Vermont,A,6
+20231209,Utah,BYU,H,4
+20231209,NJIT,Wake Forest,A,-24
+20231209,Butler,California,H,7
+20231209,American,VMI,A,8
+20231209,Davidson,Miami OH,H,18
+20231209,UTEP,Oregon,A,-22
+20231209,Idaho,Utah Tech,A,1
+20231209,Oregon,UTEP,H,22
+20231209,Georgetown,Syracuse,H,-12
+20231209,Drexel,West Virginia,A,-6
+20231209,James Madison,Old Dominion,A,15
+20231209,Arizona St.,San Diego,A,-5
+20231209,UMBC,Towson,H,-16
+20231209,DePaul,Louisville,H,7
+20231209,UC Irvine,San Diego St.,A,-1
+20231209,Illinois,Tennessee,A,-7
+20231209,Marshall,Ohio,A,5
+20231209,UMass Lowell,Massachusetts,A,-14
+20231209,Loyola MD,Mount St. Mary's,H,-13
+20231209,Central Michigan,Creighton,A,-45
+20231209,Saint Louis,Hofstra,H,3
+20231209,Cincinnati,Xavier,A,-5
+20231209,Indiana St.,Southern Indiana,H,44
+20231209,Duke,Charlotte,H,24
+20231209,Missouri St.,Sam Houston St.,H,9
+20231209,Clemson,TCU,N,8
+20231209,St. Bonaventure,Siena,H,33
+20231209,Liberty,Grand Canyon,H,-5
+20231209,Louisville,DePaul,A,-7
+20231209,Georgia Southern,North Florida,A,-8
+20231209,Notre Dame,Marquette,A,-19
+20231209,Southern Miss,Northwestern St.,H,9
+20231209,Southern Indiana,Indiana St.,A,-44
+20231209,Fresno St.,Pacific,H,33
+20231209,Hofstra,Saint Louis,A,-3
+20231209,Rutgers,Seton Hall,A,7
+20231209,Cleveland St.,Kent St.,A,-6
+20231209,Western Michigan,Youngstown St.,H,-4
+20231209,Milwaukee,UC Davis,A,2
+20231209,Dartmouth,Marist,H,-10
+20231209,Southern,Southeastern Louisia,H,25
+20231209,Louisiana Tech,Louisiana Lafayette,H,5
+20231209,Alabama A&M,Georgia Tech,A,-21
+20231209,Arkansas Pine Bluff,Connecticut,A,-38
+20231209,Bethune Cookman,South Carolina St.,A,9
+20231209,Northern Kentucky,Akron,H,-1
+20231209,Minnesota,Florida Gulf Coast,H,20
+20231209,Xavier,Cincinnati,H,5
+20231209,Connecticut,Arkansas Pine Bluff,H,38
+20231209,Akron,Northern Kentucky,A,1
+20231209,Fairfield,Sacred Heart,A,10
+20231209,Old Dominion,James Madison,H,-15
+20231209,Wofford,Coastal Carolina,A,8
+20231209,Binghamton,Le Moyne,H,12
+20231209,UNC Asheville,Western Carolina,A,-15
+20231209,Arkansas,Oklahoma,N,-9
+20231209,Alabama,Purdue,N,-6
+20231209,Seton Hall,Rutgers,H,-7
+20231209,Georgia Tech,Alabama A&M,H,21
+20231209,South Florida,Florida St.,N,16
+20231209,Northern Illinois,Monmouth,A,-3
+20231209,Kennesaw St.,USC Upstate,A,7
+20231209,Jackson St.,Houston,A,-34
+20231209,Pittsburgh,Canisius,H,11
+20231209,Norfolk St.,Illinois St.,A,6
+20231209,Richmond,Florida,N,-11
+20231209,Utah Valley,Oregon St.,A,-3
+20231209,Stephen F. Austin,Wyoming,A,-8
+20231209,Utah Tech,Idaho,H,-1
+20231209,Southern Utah,Idaho St.,H,8
+20231209,West Virginia,Drexel,H,6
+20231209,Grand Canyon,Liberty,A,5
+20231209,Washington,Gonzaga,H,5
+20231209,South Carolina St.,Bethune Cookman,H,-9
+20231209,Mount St. Mary's,Loyola MD,A,13
+20231209,Drake,Nevada,N,19
+20231209,Weber St.,Cal Poly,H,28
+20231209,Marist,Dartmouth,A,10
+20231209,La Salle,Lafayette,A,16
+20231209,Middle Tennessee,Belmont,H,-10
+20231209,BYU,Utah,A,-4
+20231209,San Jose St.,New Orleans,H,5
+20231209,Maine,Central Connecticut,H,13
+20231209,Sacramento St.,Cal St. Fullerton,H,-2
+20231209,George Washington,Coppin St.,H,31
+20231209,Troy,Dayton,A,-12
+20231209,Sacred Heart,Fairfield,H,-10
+20231209,TCU,Clemson,N,-8
+20231209,Murray St.,Austin Peay,A,-4
+20231209,Missouri,Kansas,A,-9
+20231209,Mississippi St.,Tulane,N,30
+20231209,Louisiana Lafayette,Louisiana Tech,A,-5
+20231209,Southeast Missouri S,Fort Wayne,A,-9
+20231209,Youngstown St.,Western Michigan,A,4
+20231209,New Orleans,San Jose St.,A,-5
+20231209,Incarnate Word,Northern Arizona,H,-1
+20231209,Northwestern St.,Southern Miss,A,-9
+20231209,Southeastern Louisia,Southern,A,-25
+20231209,Charlotte,Duke,A,-24
+20231209,North Carolina Centr,Radford,A,-8
+20231209,Virginia Tech,Valparaiso,H,21
+20231209,Sam Houston St.,Missouri St.,A,-9
+20231209,Oklahoma,Arkansas,N,9
+20231209,Indiana,Auburn,N,-28
+20231209,Longwood,Delaware St.,A,1
+20231209,Wyoming,Stephen F. Austin,H,8
+20231209,Texas A&M Corpus Chr,Nebraska Omaha,H,4
+20231209,Arkansas St.,UAB,H,19
+20231209,Florida,Richmond,N,11
+20231209,Penn,Kentucky,N,-15
+20231209,Auburn,Indiana,N,28
+20231209,Western Kentucky,Buffalo,A,17
+20231209,Belmont,Middle Tennessee,A,10
+20231209,Fort Wayne,Southeast Missouri S,H,9
+20231209,Florida St.,South Florida,N,-16
+20231209,Tulane,Mississippi St.,N,-30
+20231209,Kentucky,Penn,N,15
+20231209,South Dakota,Cal St. Bakersfield,H,5
+20231209,Nebraska Omaha,Texas A&M Corpus Chr,A,-4
+20231209,South Dakota St.,Wichita St.,N,10
+20231209,UMKC,Lindenwood,A,5
+20231209,Syracuse,Georgetown,A,12
+20231209,Colorado St.,Saint Mary's,H,-3
+20231209,USC Upstate,Kennesaw St.,H,-7
+20231209,Stony Brook,Bryant,H,11
+20231209,Lafayette,La Salle,H,-16
+20231209,South Carolina,East Carolina,A,6
+20231209,Coastal Carolina,Wofford,H,-8
+20231209,Georgia St.,Mercer,A,-4
+20231209,Lindenwood,UMKC,H,-5
+20231209,Nevada,Drake,N,-19
+20231209,Monmouth,Northern Illinois,H,3
+20231209,Siena,St. Bonaventure,A,-33
+20231209,Miami OH,Davidson,A,-18
+20231209,Bryant,Stony Brook,A,-11
+20231209,Wake Forest,NJIT,H,24
+20231209,Creighton,Central Michigan,H,45
+20231210,Memphis,Texas A&M,A,6
+20231210,Nebraska,Michigan St.,H,7
+20231210,Miami FL,Colorado,N,-27
+20231210,Lipscomb,Tennessee St.,H,7
+20231210,Boston College,St. John's,N,6
+20231210,College of Charlesto,Rhode Island,H,15
+20231210,Fordham,North Texas,N,1
+20231210,St. John's,Boston College,N,-6
+20231210,Mississippi,UCF,A,2
+20231210,Eastern Illinois,Central Arkansas,H,-3
+20231210,Iona,St. Francis PA,H,7
+20231210,SIU Edwardsville,Ball St.,A,-12
+20231210,Elon,UNC Greensboro,A,-9
+20231210,Central Arkansas,Eastern Illinois,A,3
+20231210,St. Francis PA,Iona,A,-7
+20231210,Albany,Temple,N,-5
+20231210,Iowa St.,Prairie View A&M,H,51
+20231210,Alcorn St.,VCU,A,-28
+20231210,Providence,Brown,H,20
+20231210,Saint Joseph's,Princeton,H,4
+20231210,Tennessee St.,Lipscomb,A,-7
+20231210,Washington St.,Grambling St.,H,18
+20231210,Temple,Albany,N,5
+20231210,Texas A&M,Memphis,H,-6
+20231210,Oklahoma St.,Tulsa,N,15
+20231210,Detroit,Northwestern,A,-32
+20231210,Morehead St.,North Alabama,A,9
+20231210,Northwestern,Detroit,H,32
+20231210,St. Thomas,Chicago St.,A,16
+20231210,VCU,Alcorn St.,H,28
+20231210,Tulsa,Oklahoma St.,N,-15
+20231210,Ball St.,SIU Edwardsville,H,12
+20231210,North Alabama,Morehead St.,H,-9
+20231210,Little Rock,Winthrop,H,-17
+20231210,Long Beach St.,USC,A,5
+20231210,Brown,Providence,A,-20
+20231210,UNC Greensboro,Elon,H,9
+20231210,North Texas,Fordham,N,-1
+20231210,Tennessee Tech,East Tennessee St.,A,-1
+20231210,Boston University,Wagner,A,14
+20231210,Rhode Island,College of Charlesto,A,-15
+20231210,Michigan St.,Nebraska,A,-7
+20231210,Iowa,Michigan,H,-10
+20231210,Princeton,Saint Joseph's,A,-4
+20231210,East Tennessee St.,Tennessee Tech,H,1
+20231210,Colorado,Miami FL,N,27
+20231210,Grambling St.,Washington St.,A,-18
+20231210,Prairie View A&M,Iowa St.,A,-51
+20231210,Michigan,Iowa,A,10
+20231210,Wagner,Boston University,H,-14
+20231210,USC,Long Beach St.,H,-5
+20231210,UCF,Mississippi,H,-2
+20231210,Winthrop,Little Rock,A,17
+20231211,San Francisco,New Orleans,H,13
+20231211,Gonzaga,Mississippi Valley S,H,38
+20231211,Howard,Penn,A,-10
+20231211,South Carolina St.,Jacksonville,H,1
+20231211,Delaware,Robert Morris,A,4
+20231211,Texas A&M Commerce,Northern Colorado,H,2
+20231211,Mississippi Valley S,Gonzaga,A,-38
+20231211,Yale,Quinnipiac,A,7
+20231211,Cal St. Northridge,Utah Tech,H,5
+20231211,Northern Colorado,Texas A&M Commerce,A,-2
+20231211,New Hampshire,Stonehill,H,13
+20231211,Columbia,Fairleigh Dickinson,A,4
+20231211,Jacksonville,South Carolina St.,A,-1
+20231211,Robert Morris,Delaware,H,-4
+20231211,Samford,Alabama A&M,H,27
+20231211,Stonehill,New Hampshire,A,-13
+20231211,Penn,Howard,H,10
+20231211,Fairleigh Dickinson,Columbia,H,-4
+20231211,Alabama A&M,Samford,A,-27
+20231211,New Orleans,San Francisco,A,-13
+20231211,Utah Tech,Cal St. Northridge,A,-5
+20231211,Quinnipiac,Yale,H,-7
+20231212,Austin Peay,Southern Illinois,A,2
+20231212,Illinois Chicago,Green Bay,H,-2
+20231212,IUPUI,Minnesota,A,-36
+20231212,Northwestern St.,Boise St.,A,-41
+20231212,Northern Iowa,Prairie View A&M,H,19
+20231212,Monmouth,Seton Hall,A,-9
+20231212,Cincinnati,Bryant,H,32
+20231212,Boise St.,Northwestern St.,H,41
+20231212,Arkansas Pine Bluff,South Florida,A,-18
+20231212,Maryland,Alcorn St.,H,40
+20231212,Oral Roberts,Texas Tech,A,-6
+20231212,VMI,Radford,A,-17
+20231212,Minnesota,IUPUI,H,36
+20231212,Duke,Hofstra,H,21
+20231212,Western Kentucky,Wright St.,A,7
+20231212,Saint Peter's,UMBC,H,6
+20231212,Prairie View A&M,Northern Iowa,A,-19
+20231212,Hofstra,Duke,A,-21
+20231212,Louisiana Tech,Southeastern Louisia,H,29
+20231212,Texas Tech,Oral Roberts,H,6
+20231212,Oregon,Cal Baptist,H,21
+20231212,Cal Baptist,Oregon,A,-21
+20231212,Georgia Southern,Tennessee,A,-18
+20231212,North Carolina St.,Tennessee Martin,H,14
+20231212,Sam Houston St.,Louisiana Monroe,H,1
+20231212,South Florida,Arkansas Pine Bluff,H,18
+20231212,Seton Hall,Monmouth,H,9
+20231212,Wright St.,Western Kentucky,H,-7
+20231212,Georgetown,Coppin St.,H,17
+20231212,Coppin St.,Georgetown,A,-17
+20231212,Green Bay,Illinois Chicago,A,2
+20231212,North Carolina A&T,North Carolina Centr,H,-5
+20231212,Tennessee,Georgia Southern,H,18
+20231212,UMass Lowell,LIU Brooklyn,H,13
+20231212,LIU Brooklyn,UMass Lowell,A,-13
+20231212,UMBC,Saint Peter's,A,-6
+20231212,Bryant,Cincinnati,A,-32
+20231212,Southern Illinois,Austin Peay,H,-2
+20231212,Radford,VMI,H,17
+20231212,Tennessee Martin,North Carolina St.,A,-14
+20231212,Louisiana Monroe,Sam Houston St.,A,-1
+20231212,North Carolina Centr,North Carolina A&T,A,5
+20231212,Southeastern Louisia,Louisiana Tech,A,-29
+20231212,Alcorn St.,Maryland,A,-40
+20231213,San Francisco,Seattle,H,3
+20231213,Alabama St.,LSU,A,-18
+20231213,Santa Clara,Utah St.,H,-2
+20231213,BYU,Denver,H,16
+20231213,Utah St.,Santa Clara,A,2
+20231213,Murray St.,Mississippi St.,A,-4
+20231213,Eastern Kentucky,Louisiana Lafayette,A,-11
+20231213,Arkansas St.,Louisville,A,12
+20231213,UNLV,Creighton,H,15
+20231213,Stony Brook,Norfolk St.,H,6
+20231213,Tennessee St.,Liberty,A,-22
+20231213,Little Rock,UTSA,H,9
+20231213,Denver,BYU,A,-16
+20231213,Creighton,UNLV,A,-15
+20231213,Liberty,Tennessee St.,H,22
+20231213,Weber St.,Nevada,A,-17
+20231213,Nevada,Weber St.,H,17
+20231213,UNC Asheville,Auburn,N,-25
+20231213,UTSA,Little Rock,A,-9
+20231213,Southern Miss,McNeese St.,A,-19
+20231213,Florida Atlantic,FIU,H,34
+20231213,Seattle,San Francisco,A,-3
+20231213,FIU,Florida Atlantic,A,-34
+20231213,Northwestern,Chicago St.,H,-2
+20231213,Louisiana Lafayette,Eastern Kentucky,H,11
+20231213,McNeese St.,Southern Miss,H,19
+20231213,Dartmouth,Boston University,H,7
+20231213,Boston University,Dartmouth,A,-7
+20231213,Queens,Appalachian St.,H,-12
+20231213,Longwood,Milwaukee,A,13
+20231213,Marshall,Toledo,A,-1
+20231213,Norfolk St.,Stony Brook,A,-6
+20231213,Auburn,UNC Asheville,N,25
+20231213,North Alabama,Charleston Southern,A,12
+20231213,Mississippi St.,Murray St.,H,4
+20231213,Alabama A&M,UAB,H,-11
+20231213,Milwaukee,Longwood,H,-13
+20231213,UAB,Alabama A&M,A,11
+20231213,Incarnate Word,Rice,A,-23
+20231213,Louisville,Arkansas St.,H,-12
+20231213,Toledo,Marshall,H,1
+20231213,Appalachian St.,Queens,A,12
+20231213,LSU,Alabama St.,H,18
+20231213,Charleston Southern,North Alabama,H,-12
+20231213,Rice,Incarnate Word,H,23
+20231214,Jacksonville St.,Wisconsin,A,-15
+20231214,The Citadel,College of Charlesto,A,-15
+20231214,East Carolina,Florida,N,-5
+20231214,Florida,East Carolina,N,5
+20231214,Drake,Grambling St.,H,12
+20231214,Furman,Tulane,A,-7
+20231214,St. Thomas,Marquette,A,-5
+20231214,Louisiana Monroe,Lamar,A,-24
+20231214,Grambling St.,Drake,A,-12
+20231214,Wisconsin,Jacksonville St.,H,15
+20231214,Tulane,Furman,H,7
+20231214,Lamar,Louisiana Monroe,H,24
+20231214,College of Charlesto,The Citadel,H,15
+20231214,Marquette,St. Thomas,H,5
+20231215,Cleveland St.,Bradley,A,7
+20231215,Cal St. Bakersfield,Fresno St.,A,-3
+20231215,Connecticut,Gonzaga,N,13
+20231215,Northern Colorado,Colorado,A,-22
+20231215,Colorado,Northern Colorado,H,22
+20231215,Fresno St.,Cal St. Bakersfield,H,3
+20231215,Mount St. Mary's,St. Francis PA,A,7
+20231215,Texas St.,Sam Houston St.,A,13
+20231215,Portland St.,San Diego,A,-4
+20231215,St. Francis PA,Mount St. Mary's,H,-7
+20231215,Bradley,Cleveland St.,H,-7
+20231215,UT Rio Grande Valley,Texas A&M Corpus Chr,H,-10
+20231215,New Mexico St.,New Mexico,H,-1
+20231215,Texas A&M Corpus Chr,UT Rio Grande Valley,A,10
+20231215,New Mexico,New Mexico St.,A,1
+20231215,San Diego,Portland St.,H,4
+20231215,Gonzaga,Connecticut,N,-13
+20231215,Sam Houston St.,Texas St.,H,-13
+20231216,Hampton,James Madison,H,-17
+20231216,SMU,Florida St.,A,11
+20231216,Pittsburgh,South Carolina St.,H,36
+20231216,Dartmouth,Le Moyne,A,-26
+20231216,Iona,Saint Joseph's,N,-25
+20231216,Gardner Webb,Appalachian St.,N,-21
+20231216,Charleston Southern,South Carolina,A,-4
+20231216,Xavier,Winthrop,H,16
+20231216,Weber St.,Wyoming,A,13
+20231216,Northern Arizona,Southern Utah,H,2
+20231216,North Carolina St.,Tennessee,N,-9
+20231216,Northeastern,Virginia,A,-2
+20231216,UC Riverside,Cal Baptist,H,-1
+20231216,Louisiana Tech,Saint Louis,A,-1
+20231216,Kennesaw St.,Presbyterian,A,10
+20231216,Radford,Bucknell,A,7
+20231216,Mercer,Florida Gulf Coast,H,5
+20231216,Texas Tech,Vanderbilt,N,22
+20231216,Jackson St.,Howard,N,7
+20231216,Alabama A&M,Chattanooga,H,-16
+20231216,Clemson,Memphis,A,-2
+20231216,VCU,Temple,H,9
+20231216,UT Arlington,Air Force,N,3
+20231216,Cal Baptist,UC Riverside,A,1
+20231216,Grand Canyon,Portland,N,28
+20231216,Utah Tech,North Dakota,H,-17
+20231216,Southern Utah,Northern Arizona,A,-2
+20231216,Utah Valley,Utah,A,-14
+20231216,Texas Southern,North Carolina A&T,N,-6
+20231216,DePaul,Northwestern,H,-10
+20231216,Florida St.,SMU,H,-11
+20231216,UMKC,Bowling Green,A,-10
+20231216,Portland,Grand Canyon,N,-28
+20231216,Loyola Marymount,UC Santa Barbara,N,-9
+20231216,Saint Mary's,UNLV,N,2
+20231216,San Francisco,Utah St.,N,-1
+20231216,Santa Clara,Washington St.,N,8
+20231216,Lipscomb,Arkansas,A,-3
+20231216,Northwestern,DePaul,A,10
+20231216,George Mason,Loyola MD,H,8
+20231216,Samford,Belmont,H,6
+20231216,James Madison,Hampton,A,17
+20231216,Vanderbilt,Texas Tech,N,-22
+20231216,Arizona St.,TCU,N,-20
+20231216,Niagara,NJIT,H,8
+20231216,Fort Wayne,Bethune Cookman,H,23
+20231216,UCLA,Ohio St.,N,-7
+20231216,Florida A&M,Iowa,N,-36
+20231216,Oklahoma,Green Bay,H,34
+20231216,Rice,Northwestern St.,A,25
+20231216,UNC Greensboro,Marshall,A,-7
+20231216,California,Mississippi,N,-10
+20231216,Wyoming,Weber St.,H,-13
+20231216,Central Connecticut,UMass Lowell,A,3
+20231216,Lindenwood,IUPUI,A,6
+20231216,Chattanooga,Alabama A&M,A,16
+20231216,TCU,Arizona St.,N,20
+20231216,Western Michigan,Illinois Chicago,A,-21
+20231216,Tulsa,Missouri St.,H,1
+20231216,Georgia St.,BYU,A,-32
+20231216,Florida Gulf Coast,Mercer,A,-5
+20231216,Pacific,UC Davis,H,-21
+20231216,Eastern Michigan,Michigan,A,-17
+20231216,Mississippi,California,N,10
+20231216,Loyola MD,George Mason,A,-8
+20231216,Austin Peay,Western Kentucky,A,-1
+20231216,Georgia Tech,Penn St.,N,1
+20231216,Indiana St.,Ball St.,N,11
+20231216,St. John's,Fordham,H,22
+20231216,Indiana,Kansas,H,-4
+20231216,UNC Wilmington,Georgia Southern,A,5
+20231216,Norfolk St.,Hofstra,A,-16
+20231216,Providence,Sacred Heart,H,14
+20231216,Appalachian St.,Gardner Webb,N,21
+20231216,Presbyterian,Kennesaw St.,H,-10
+20231216,UC Irvine,South Dakota,H,43
+20231216,Towson,Bryant,N,-8
+20231216,Ohio St.,UCLA,N,7
+20231216,Richmond,Charlotte,H,8
+20231216,Utah St.,San Francisco,N,1
+20231216,Saint Joseph's,Iona,N,25
+20231216,Green Bay,Oklahoma,A,-34
+20231216,UNLV,Saint Mary's,N,-2
+20231216,Temple,VCU,A,-9
+20231216,Bryant,Towson,N,8
+20231216,Charlotte,Richmond,A,-8
+20231216,Murray St.,Southeastern Louisia,H,-6
+20231216,South Carolina St.,Pittsburgh,A,-36
+20231216,Massachusetts,West Virginia,N,8
+20231216,Bucknell,Radford,H,-7
+20231216,North Carolina,Kentucky,N,-4
+20231216,Air Force,UT Arlington,N,-3
+20231216,Georgia Southern,UNC Wilmington,H,-5
+20231216,Houston,Texas A&M,N,4
+20231216,Kansas,Indiana,A,4
+20231216,Michigan,Eastern Michigan,H,17
+20231216,Tennessee Tech,North Alabama,H,3
+20231216,Monmouth,Rider,H,6
+20231216,Iowa,Florida A&M,N,36
+20231216,Winthrop,Xavier,A,-16
+20231216,Western Carolina,USC Upstate,A,17
+20231216,Vermont,Virginia Tech,A,-22
+20231216,Sacred Heart,Providence,A,-14
+20231216,North Carolina A&T,Texas Southern,N,6
+20231216,UMass Lowell,Central Connecticut,H,-3
+20231216,Miami FL,La Salle,H,7
+20231216,Penn St.,Georgia Tech,N,-1
+20231216,Southern,Tulane,A,-24
+20231216,Bethune Cookman,Fort Wayne,A,-23
+20231216,UC Davis,Pacific,A,21
+20231216,North Dakota,Utah Tech,A,17
+20231216,South Dakota,UC Irvine,A,-43
+20231216,Washington St.,Santa Clara,N,-8
+20231216,Fordham,St. John's,A,-22
+20231216,North Alabama,Tennessee Tech,A,-3
+20231216,Virginia Tech,Vermont,H,22
+20231216,High Point,Georgia,A,-8
+20231216,Illinois Chicago,Western Michigan,H,21
+20231216,Ball St.,Indiana St.,N,-11
+20231216,Rider,Monmouth,A,-6
+20231216,USC Upstate,Western Carolina,H,-17
+20231216,Rutgers,LIU Brooklyn,H,22
+20231216,Bellarmine,Evansville,H,-9
+20231216,Western Kentucky,Austin Peay,H,1
+20231216,Creighton,Alabama,H,3
+20231216,NJIT,Niagara,A,-8
+20231216,Loyola Chicago,South Florida,A,-13
+20231216,LIU Brooklyn,Rutgers,A,-22
+20231216,Howard,Jackson St.,N,-7
+20231216,LSU,Texas,N,-11
+20231216,Marshall,UNC Greensboro,H,7
+20231216,Delaware,Rhode Island,N,11
+20231216,La Salle,Miami FL,A,-7
+20231216,Saint Louis,Louisiana Tech,H,1
+20231216,Rhode Island,Delaware,N,-11
+20231216,Virginia,Northeastern,H,2
+20231216,Notre Dame,Georgetown,H,-4
+20231216,Florida Atlantic,St. Bonaventure,N,10
+20231216,UC Santa Barbara,Loyola Marymount,N,9
+20231216,Texas,LSU,N,11
+20231216,Southern Illinois,Wichita St.,A,-1
+20231216,Kentucky,North Carolina,N,4
+20231216,Texas A&M,Houston,N,-4
+20231216,Georgia,High Point,H,8
+20231216,South Carolina,Charleston Southern,H,4
+20231216,Memphis,Clemson,H,2
+20231216,Dayton,Cincinnati,N,14
+20231216,Purdue,Arizona,N,8
+20231216,Tennessee,North Carolina St.,N,9
+20231216,Missouri St.,Tulsa,A,-1
+20231216,Drexel,Albany,H,19
+20231216,Utah,Utah Valley,H,14
+20231216,St. Bonaventure,Florida Atlantic,N,-10
+20231216,BYU,Georgia St.,H,32
+20231216,Cincinnati,Dayton,N,-14
+20231216,Baylor,Michigan St.,N,-24
+20231216,Bowling Green,UMKC,H,10
+20231216,Michigan St.,Baylor,N,24
+20231216,South Florida,Loyola Chicago,H,13
+20231216,Belmont,Samford,A,-6
+20231216,Southeastern Louisia,Murray St.,A,6
+20231216,Northwestern St.,Rice,H,-25
+20231216,Albany,Drexel,A,-19
+20231216,Evansville,Bellarmine,A,9
+20231216,Arizona,Purdue,N,-8
+20231216,West Virginia,Massachusetts,N,-8
+20231216,Le Moyne,Dartmouth,H,26
+20231216,Tulane,Southern,H,24
+20231216,Alabama,Creighton,A,-3
+20231216,Wichita St.,Southern Illinois,H,1
+20231216,Valparaiso,Chicago St.,H,-1
+20231216,Hofstra,Norfolk St.,H,16
+20231216,Arkansas,Lipscomb,H,3
+20231216,IUPUI,Lindenwood,H,-6
+20231216,Georgetown,Notre Dame,A,4
+20231217,Pepperdine,Louisville,A,-22
+20231217,VMI,Longwood,A,-19
+20231217,Cal St. Fullerton,Boise St.,A,-23
+20231217,Wagner,Fairfield,A,-12
+20231217,Washington,Seattle,A,1
+20231217,North Dakota St.,Illinois St.,A,-10
+20231217,Oral Roberts,Oklahoma St.,A,-21
+20231217,Nebraska Omaha,Stetson,H,8
+20231217,Oregon St.,UTSA,H,1
+20231217,UTEP,Abilene Christian,A,-6
+20231217,Stetson,Nebraska Omaha,A,-8
+20231217,Illinois St.,North Dakota St.,H,10
+20231217,Eastern Kentucky,Northern Kentucky,H,-10
+20231217,Oregon,Syracuse,N,-20
+20231217,Colgate,Illinois,A,-17
+20231217,North Texas,Mississippi St.,N,-18
+20231217,Alcorn St.,Northern Iowa,A,-18
+20231217,San Jose St.,Montana,H,-11
+20231217,Northern Kentucky,Eastern Kentucky,A,10
+20231217,Jackson St.,North Carolina A&T,N,8
+20231217,Illinois,Colgate,H,17
+20231217,Nevada,Hawaii,A,6
+20231217,Louisiana Lafayette,McNeese St.,A,-2
+20231217,Florida A&M,Iowa St.,A,-38
+20231217,Montana,San Jose St.,A,11
+20231217,Syracuse,Oregon,N,20
+20231217,Auburn,USC,H,16
+20231217,Boise St.,Cal St. Fullerton,H,23
+20231217,Missouri,Seton Hall,N,-6
+20231217,Abilene Christian,UTEP,H,6
+20231217,Seattle,Washington,H,-1
+20231217,Kansas St.,Nebraska,H,-16
+20231217,Stony Brook,Army,A,4
+20231217,Texas Southern,Howard,N,1
+20231217,Seton Hall,Missouri,N,6
+20231217,UTSA,Oregon St.,A,-1
+20231217,Idaho,Stanford,A,-18
+20231217,McNeese St.,Louisiana Lafayette,H,2
+20231217,Longwood,VMI,H,19
+20231217,USC,Auburn,A,-16
+20231217,Fairfield,Wagner,H,12
+20231217,Nebraska,Kansas St.,A,16
+20231217,Oklahoma St.,Oral Roberts,H,21
+20231217,Mississippi St.,North Texas,N,18
+20231217,Stanford,Idaho,H,18
+20231217,Iowa St.,Florida A&M,H,38
+20231217,Army,Stony Brook,H,-4
+20231217,Hawaii,Nevada,H,-6
+20231217,Louisville,Pepperdine,H,22
+20231217,Howard,Texas Southern,N,-1
+20231217,North Carolina A&T,Jackson St.,N,-8
+20231217,Northern Iowa,Alcorn St.,H,18
+20231218,Oakland,Michigan St.,A,-17
+20231218,UC San Diego,Sacramento St.,A,31
+20231218,Little Rock,Murray St.,H,14
+20231218,Cal Poly,Eastern Washington,H,-9
+20231218,Quinnipiac,Holy Cross,A,20
+20231218,UNC Asheville,South Carolina St.,H,4
+20231218,Jacksonville St.,Tarleton St.,A,3
+20231218,Morgan St.,Campbell,A,-7
+20231218,Coastal Carolina,College of Charlesto,A,-3
+20231218,Maryland Eastern Sho,Marist,A,-24
+20231218,Jacksonville,Louisiana Monroe,H,10
+20231218,Louisiana Monroe,Jacksonville,A,-10
+20231218,Wake Forest,Delaware St.,H,29
+20231218,UCF,Maine,H,23
+20231218,Detroit,Loyola Marymount,A,-20
+20231218,Duquesne,Bradley,N,2
+20231218,Delaware St.,Wake Forest,A,-29
+20231218,Michigan St.,Oakland,H,17
+20231218,College of Charlesto,Coastal Carolina,H,3
+20231218,Tarleton St.,Jacksonville St.,H,-3
+20231218,Maine,UCF,A,-23
+20231218,UT Rio Grande Valley,Chicago St.,A,-10
+20231218,South Carolina St.,UNC Asheville,A,-4
+20231218,Bradley,Duquesne,N,-2
+20231218,Murray St.,Little Rock,A,-14
+20231218,Tennessee Martin,Evansville,A,-7
+20231218,Campbell,Morgan St.,H,7
+20231218,Portland St.,Fresno St.,A,3
+20231218,Marist,Maryland Eastern Sho,H,24
+20231218,Lamar,Southern Miss,H,-3
+20231218,Fresno St.,Portland St.,H,-3
+20231218,Southern Miss,Lamar,A,3
+20231218,Sacramento St.,UC San Diego,H,-31
+20231218,Holy Cross,Quinnipiac,H,-20
+20231218,Eastern Washington,Cal Poly,A,9
+20231218,Evansville,Tennessee Martin,H,7
+20231218,Loyola Marymount,Detroit,H,20
+20231219,Georgia Southern,Florida Gulf Coast,N,-11
+20231219,Maryland,Nicholls St.,H,6
+20231219,Gardner Webb,Chattanooga,A,-3
+20231219,Cornell,Siena,A,21
+20231219,Indiana,Morehead St.,H,1
+20231219,North Florida,Florida St.,A,-16
+20231219,Albany,Sacred Heart,H,14
+20231219,North Dakota St.,Southern Illinois,A,-13
+20231219,James Madison,Coppin St.,H,39
+20231219,Vanderbilt,Western Carolina,H,-1
+20231219,The Citadel,Notre Dame,A,20
+20231219,Southern Utah,Montana St.,A,-1
+20231219,Stephen F. Austin,New Mexico St.,H,3
+20231219,Mississippi,Troy,H,21
+20231219,Charleston Southern,Loyola Chicago,A,-13
+20231219,Troy,Mississippi,A,-21
+20231219,Binghamton,Niagara,H,5
+20231219,Southern Illinois,North Dakota St.,H,13
+20231219,Notre Dame,The Citadel,H,-20
+20231219,Cal St. Northridge,UCLA,A,4
+20231219,Florida Gulf Coast,Georgia Southern,N,11
+20231219,Michigan,Florida,N,-5
+20231219,FIU,Stetson,H,-12
+20231219,High Point,UNC Greensboro,H,11
+20231219,Indiana St.,Tennessee St.,H,21
+20231219,Providence,Marquette,H,15
+20231219,Montana St.,Southern Utah,H,1
+20231219,Florida,Michigan,N,5
+20231219,Merrimack,Cincinnati,A,-16
+20231219,Miami OH,Wright St.,A,-10
+20231219,Cal Baptist,Western Kentucky,H,-3
+20231219,Western Kentucky,Cal Baptist,A,3
+20231219,Middle Tennessee,Saint Mary's,A,-37
+20231219,Cal St. Bakersfield,South Dakota,H,20
+20231219,South Dakota,Cal St. Bakersfield,A,-20
+20231219,Central Connecticut,Northeastern,H,-5
+20231219,Georgetown,Butler,A,-10
+20231219,Coppin St.,James Madison,A,-39
+20231219,Florida St.,North Florida,H,16
+20231219,Missouri St.,Lindenwood,H,22
+20231219,Winthrop,South Carolina,A,-10
+20231219,Butler,Georgetown,H,10
+20231219,Loyola Chicago,Charleston Southern,H,13
+20231219,Presbyterian,Furman,A,-15
+20231219,UCLA,Cal St. Northridge,H,-4
+20231219,Niagara,Binghamton,A,-5
+20231219,Sacred Heart,Albany,A,-14
+20231219,Chattanooga,Gardner Webb,H,3
+20231219,Houston Christian,SMU,A,-36
+20231219,New Mexico St.,Stephen F. Austin,A,-3
+20231219,Saint Mary's,Middle Tennessee,H,37
+20231219,Alabama St.,USC,H,-20
+20231219,Siena,Cornell,H,-21
+20231219,Morehead St.,Indiana,A,-1
+20231219,Queens,Mercer,A,-19
+20231219,Valparaiso,Samford,H,-18
+20231219,Lindenwood,Missouri St.,A,-22
+20231219,Samford,Valparaiso,A,18
+20231219,Furman,Presbyterian,H,15
+20231219,Cincinnati,Merrimack,H,16
+20231219,Memphis,Virginia,H,23
+20231219,Montana,UC Davis,A,12
+20231219,Alcorn St.,Drake,A,-37
+20231219,Wright St.,Miami OH,H,10
+20231219,Drake,Alcorn St.,H,37
+20231219,Northeastern,Central Connecticut,A,5
+20231219,SMU,Houston Christian,H,36
+20231219,Stetson,FIU,A,12
+20231219,Hampton,Bowling Green,A,-10
+20231219,Virginia,Memphis,A,-23
+20231219,UC Davis,Montana,H,-12
+20231219,USC,Alabama St.,A,20
+20231219,Mississippi Valley S,Tulsa,A,-29
+20231219,Nicholls St.,Maryland,A,-6
+20231219,Western Carolina,Vanderbilt,A,1
+20231219,UNC Greensboro,High Point,A,-11
+20231219,Bowling Green,Hampton,H,10
+20231219,Marquette,Providence,A,-15
+20231219,Tulsa,Mississippi Valley S,H,29
+20231219,Mercer,Queens,H,19
+20231219,South Carolina,Winthrop,H,10
+20231219,Tennessee St.,Indiana St.,A,-21
+20231220,San Francisco,Northern Arizona,H,40
+20231220,Pacific,Cal St. Fullerton,A,-11
+20231220,Santa Clara,San Jose St.,A,-3
+20231220,Gonzaga,Jackson St.,H,24
+20231220,Oakland,Dayton,A,-24
+20231220,Grambling St.,Southeastern Louisia,A,-1
+20231220,North Dakota,Nebraska,A,-8
+20231220,Radford,West Virginia,A,1
+20231220,Liberty,Utah Valley,A,16
+20231220,Pittsburgh,Fort Wayne,H,14
+20231220,Duke,Baylor,N,8
+20231220,East Tennessee St.,UMKC,H,13
+20231220,Longwood,North Carolina Centr,A,-9
+20231220,Saint Louis,North Carolina St.,A,-12
+20231220,Tennessee Tech,Evansville,A,-31
+20231220,Dayton,Oakland,H,24
+20231220,Nebraska,North Dakota,H,8
+20231220,Bethune Cookman,Chicago St.,A,-1
+20231220,East Carolina,Delaware St.,H,29
+20231220,Baylor,Duke,N,-8
+20231220,Oklahoma St.,Wofford,H,6
+20231220,UMKC,East Tennessee St.,A,-13
+20231220,South Dakota St.,Wyoming,N,-13
+20231220,Creighton,Villanova,H,-2
+20231220,San Jose St.,Santa Clara,H,3
+20231220,Evansville,Tennessee Tech,H,31
+20231220,Belmont,Arkansas St.,H,4
+20231220,North Carolina St.,Saint Louis,H,12
+20231220,Robert Morris,St. Francis PA,A,2
+20231220,Connecticut,Seton Hall,A,-15
+20231220,Bellarmine,Utah,A,-42
+20231220,UC San Diego,California,A,-4
+20231220,Delaware St.,East Carolina,A,-29
+20231220,Louisiana Tech,Seattle,A,-6
+20231220,Howard,UC Santa Barbara,A,-13
+20231220,UC Irvine,New Mexico,A,-13
+20231220,Rider,Delaware,A,3
+20231220,Sam Houston St.,Grand Canyon,A,-12
+20231220,St. John's,Xavier,H,15
+20231220,Delaware,Rider,H,-3
+20231220,Toledo,Vermont,H,-26
+20231220,Arkansas St.,Belmont,A,-4
+20231220,Alabama,Arizona,N,-13
+20231220,Georgia,Mount St. Mary's,H,12
+20231220,Jackson St.,Gonzaga,A,-24
+20231220,Fort Wayne,Pittsburgh,A,-14
+20231220,Xavier,St. John's,A,-15
+20231220,California,UC San Diego,H,4
+20231220,West Virginia,Radford,H,-1
+20231220,Norfolk St.,UTEP,A,-2
+20231220,Southeastern Louisia,Grambling St.,H,1
+20231220,Wofford,Oklahoma St.,A,-6
+20231220,Cal St. Fullerton,Pacific,H,11
+20231220,New Mexico,UC Irvine,H,13
+20231220,Utah,Bellarmine,H,42
+20231220,UTEP,Norfolk St.,H,2
+20231220,Seattle,Louisiana Tech,H,6
+20231220,Utah Valley,Liberty,H,-16
+20231220,Grand Canyon,Sam Houston St.,H,12
+20231220,Seton Hall,Connecticut,H,15
+20231220,North Carolina,Oklahoma,N,12
+20231220,Wyoming,South Dakota St.,N,13
+20231220,St. Francis PA,Robert Morris,H,-2
+20231220,Mount St. Mary's,Georgia,A,-12
+20231220,North Carolina Centr,Longwood,H,9
+20231220,Central Arkansas,Western Illinois,H,-11
+20231220,Northwestern,Arizona St.,N,19
+20231220,UMBC,Iowa,A,-22
+20231220,Arizona St.,Northwestern,N,-19
+20231220,Iowa,UMBC,H,22
+20231220,Prairie View A&M,Rice,A,-26
+20231220,Villanova,Creighton,A,2
+20231220,Arizona,Alabama,N,13
+20231220,UC Santa Barbara,Howard,H,13
+20231220,Rice,Prairie View A&M,H,26
+20231220,Vermont,Toledo,A,26
+20231220,Western Illinois,Central Arkansas,A,11
+20231220,Northern Arizona,San Francisco,A,-40
+20231220,Oklahoma,North Carolina,N,-12
+20231221,Saint Mary's,Northern Kentucky,H,36
+20231221,Portland,Hawaii,A,-13
+20231221,San Diego,South Dakota,H,3
+20231221,Pepperdine,William & Mary,H,12
+20231221,Idaho St.,Oregon St.,A,-19
+20231221,Arkansas,Abilene Christian,H,10
+20231221,New Orleans,Ohio St.,A,-42
+20231221,Iona,Colgate,H,20
+20231221,Saint Joseph's,College of Charlesto,A,-7
+20231221,Cleveland St.,Western Michigan,H,13
+20231221,Jacksonville St.,Little Rock,A,30
+20231221,North Alabama,Indiana,A,-17
+20231221,Lamar,LSU,A,-21
+20231221,Alabama A&M,South Alabama,A,-16
+20231221,Miami FL,Stonehill,H,38
+20231221,Central Michigan,Detroit,H,12
+20231221,Youngstown St.,Navy,H,10
+20231221,Navy,Youngstown St.,A,-10
+20231221,Penn St.,Le Moyne,H,17
+20231221,American,Virginia Tech,A,-22
+20231221,Harvard,Holy Cross,H,2
+20231221,Utah Tech,Colorado,A,-27
+20231221,Incarnate Word,Illinois Chicago,A,1
+20231221,South Dakota St.,Norfolk St.,N,-19
+20231221,San Diego St.,Stanford,H,14
+20231221,Eastern Washington,Washington,A,-7
+20231221,Maine,FIU,A,-8
+20231221,Colgate,Iona,A,-20
+20231221,UT Arlington,Texas Tech,A,-11
+20231221,Tarleton St.,Tennessee,A,-19
+20231221,Abilene Christian,Arkansas,A,-10
+20231221,Lehigh,Boston College,A,-16
+20231221,Holy Cross,Harvard,A,-2
+20231221,Kentucky,Louisville,A,19
+20231221,Troy,Eastern Kentucky,H,7
+20231221,Niagara,Syracuse,A,-12
+20231221,Wichita St.,Kansas St.,N,-9
+20231221,Boston College,Lehigh,H,16
+20231221,Air Force,Northern Colorado,H,-4
+20231221,Western Michigan,Cleveland St.,A,-13
+20231221,Syracuse,Niagara,H,12
+20231221,Oregon St.,Idaho St.,H,19
+20231221,Eastern Kentucky,Troy,A,-7
+20231221,Washington St.,Boise St.,N,5
+20231221,Hawaii,Portland,H,13
+20231221,Sacred Heart,Dartmouth,H,10
+20231221,Louisville,Kentucky,H,-19
+20231221,Michigan St.,Stony Brook,H,44
+20231221,Northern Illinois,Northern Iowa,H,-13
+20231221,Old Dominion,TCU,N,-24
+20231221,Eastern Illinois,Iowa St.,A,-32
+20231221,Hofstra,UNLV,A,-18
+20231221,Florida A&M,UCF,A,-13
+20231221,Southeast Missouri S,Illinois St.,A,-21
+20231221,Massachusetts,Georgia Tech,N,-3
+20231221,Texas St.,Houston,A,-35
+20231221,Hampton,Eastern Michigan,A,-3
+20231221,Washington,Eastern Washington,H,7
+20231221,Gardner Webb,Akron,A,-4
+20231221,LSU,Lamar,H,21
+20231221,Coastal Carolina,North Carolina A&T,H,-3
+20231221,Boise St.,Washington St.,N,-5
+20231221,Oregon,Kent St.,H,14
+20231221,Iowa St.,Eastern Illinois,H,32
+20231221,Cal Poly,Nebraska Omaha,H,13
+20231221,Minnesota,Ball St.,H,17
+20231221,South Alabama,Alabama A&M,H,16
+20231221,Illinois Chicago,Incarnate Word,H,-1
+20231221,Bradley,SIU Edwardsville,H,11
+20231221,Illinois St.,Southeast Missouri S,H,21
+20231221,Idaho,UC Riverside,A,-15
+20231221,Tennessee,Tarleton St.,H,19
+20231221,UNLV,Hofstra,H,18
+20231221,Fordham,Central Connecticut,H,-2
+20231221,Texas Tech,UT Arlington,H,11
+20231221,Colorado,Utah Tech,H,27
+20231221,North Carolina A&T,Coastal Carolina,A,3
+20231221,Marshall,UNC Wilmington,H,-9
+20231221,UNC Wilmington,Marshall,A,9
+20231221,Akron,Gardner Webb,H,4
+20231221,New Hampshire,Rhode Island,A,10
+20231221,Northern Colorado,Air Force,A,4
+20231221,Ohio St.,New Orleans,H,42
+20231221,Dartmouth,Sacred Heart,A,-10
+20231221,Davidson,USC Upstate,H,3
+20231221,Stony Brook,Michigan St.,A,-44
+20231221,UTSA,Army,H,-10
+20231221,Purdue,Jacksonville,H,43
+20231221,Appalachian St.,UNC Asheville,N,-13
+20231221,UTEP,Wyoming,H,11
+20231221,Nevada,Temple,N,24
+20231221,Indiana,North Alabama,H,17
+20231221,Ball St.,Minnesota,A,-17
+20231221,Temple,Nevada,N,-24
+20231221,SIU Edwardsville,Bradley,A,-11
+20231221,Houston,Texas St.,H,35
+20231221,Quinnipiac,Lafayette,A,18
+20231221,Stanford,San Diego St.,A,-14
+20231221,Fairleigh Dickinson,Fairfield,H,-23
+20231221,Monmouth,Manhattan,H,6
+20231221,Presbyterian,Wake Forest,A,-23
+20231221,Nebraska Omaha,Cal Poly,A,-13
+20231221,FIU,Maine,H,8
+20231221,Buffalo,Richmond,A,-6
+20231221,South Dakota,San Diego,A,-3
+20231221,Central Connecticut,Fordham,A,2
+20231221,Fairfield,Fairleigh Dickinson,A,23
+20231221,Lafayette,Quinnipiac,H,-18
+20231221,Kent St.,Oregon,A,-14
+20231221,Wake Forest,Presbyterian,H,23
+20231221,Little Rock,Jacksonville St.,H,-30
+20231221,Northern Iowa,Northern Illinois,A,13
+20231221,Jacksonville,Purdue,A,-43
+20231221,TCU,Old Dominion,N,24
+20231221,Le Moyne,Penn St.,A,-17
+20231221,UNC Asheville,Appalachian St.,N,13
+20231221,UC Riverside,Idaho,H,15
+20231221,Texas Southern,Samford,H,-22
+20231221,William & Mary,Pepperdine,A,-12
+20231221,Manhattan,Monmouth,A,-6
+20231221,Wyoming,UTEP,A,-11
+20231221,Rhode Island,New Hampshire,H,-10
+20231221,Army,UTSA,A,10
+20231221,Stonehill,Miami FL,A,-38
+20231221,Kansas St.,Wichita St.,N,9
+20231221,UCF,Florida A&M,H,13
+20231221,Virginia Tech,American,H,22
+20231221,USC Upstate,Davidson,A,-3
+20231221,Detroit,Central Michigan,A,-12
+20231221,Northern Kentucky,Saint Mary's,A,-36
+20231221,Alcorn St.,George Washington,A,-4
+20231221,College of Charlesto,Saint Joseph's,H,7
+20231221,Eastern Michigan,Hampton,H,3
+20231221,George Washington,Alcorn St.,H,4
+20231221,Georgia Tech,Massachusetts,N,3
+20231221,Norfolk St.,South Dakota St.,N,19
+20231221,Samford,Texas Southern,A,22
+20231221,Richmond,Buffalo,H,6
+20231222,Louisiana Lafayette,Rice,A,17
+20231222,Loyola Marymount,Colorado St.,H,-9
+20231222,Drake,UAB,A,-1
+20231222,Marquette,Georgetown,H,30
+20231222,Utah St.,East Tennessee St.,H,15
+20231222,Colorado St.,Loyola Marymount,A,9
+20231222,Towson,Nicholls St.,H,10
+20231222,Mississippi Valley S,Baylor,A,-59
+20231222,New Mexico St.,Tulsa,A,-6
+20231222,Southern Illinois,Southern Indiana,H,31
+20231222,Milwaukee,Chattanooga,H,2
+20231222,UCLA,Maryland,H,-9
+20231222,Cornell,Robert Morris,A,5
+20231222,Bryant,Drexel,H,18
+20231222,Miami OH,Vermont,H,1
+20231222,UMass Lowell,Boston University,A,8
+20231222,Middle Tennessee,Southern Utah,A,-6
+20231222,Tulsa,New Mexico St.,H,6
+20231222,St. Bonaventure,Binghamton,H,26
+20231222,Vermont,Miami OH,A,-1
+20231222,Houston Christian,Texas A&M,A,-27
+20231222,BYU,Bellarmine,H,42
+20231222,South Carolina,Elon,H,27
+20231222,Murray St.,SMU,H,-27
+20231222,Alabama St.,Auburn,A,-20
+20231222,Nevada,TCU,N,13
+20231222,Binghamton,St. Bonaventure,A,-26
+20231222,UAB,Drake,H,1
+20231222,Albany,South Florida,A,-16
+20231222,Cincinnati,Stetson,H,8
+20231222,Winthrop,Florida St.,A,-6
+20231222,VCU,Maryland Eastern Sho,H,24
+20231222,Montana St.,Cal St. Northridge,A,-12
+20231222,Marist,Notre Dame,A,-4
+20231222,Florida St.,Winthrop,H,6
+20231222,Temple,Old Dominion,N,-15
+20231222,James Madison,Morgan St.,A,14
+20231222,Merrimack,Bucknell,H,16
+20231222,Robert Morris,Cornell,H,-5
+20231222,Brown,Siena,H,4
+20231222,Massachusetts,Portland,N,22
+20231222,George Mason,Tulane,A,3
+20231222,Rice,Louisiana Lafayette,H,-17
+20231222,Elon,South Carolina,A,-27
+20231222,Queens,Clemson,A,-30
+20231222,Old Dominion,Temple,N,15
+20231222,Kansas,Yale,H,15
+20231222,Drexel,Bryant,A,-18
+20231222,Boston University,UMass Lowell,H,-8
+20231222,Siena,Brown,A,-4
+20231222,Bellarmine,BYU,A,-42
+20231222,Tulane,George Mason,H,-3
+20231222,Ohio,Austin Peay,A,-4
+20231222,Illinois,Missouri,N,24
+20231222,Clemson,Queens,H,30
+20231222,Texas A&M,Houston Christian,H,27
+20231222,Canisius,High Point,A,-8
+20231222,Missouri,Illinois,N,-24
+20231222,Morgan St.,James Madison,H,-14
+20231222,Georgetown,Marquette,A,-30
+20231222,Texas,Texas A&M Corpus Chr,H,16
+20231222,East Tennessee St.,Utah St.,A,-15
+20231222,Georgia,North Florida,H,18
+20231222,Cal St. Northridge,Montana St.,H,12
+20231222,Portland,Massachusetts,N,-22
+20231222,San Francisco,Fresno St.,H,20
+20231222,Maryland Eastern Sho,VCU,A,-24
+20231222,TCU,Nevada,N,-13
+20231222,Southern Utah,Middle Tennessee,H,6
+20231222,Texas A&M Corpus Chr,Texas,A,-16
+20231222,Nicholls St.,Towson,A,-10
+20231222,Maryland,UCLA,A,9
+20231222,Notre Dame,Marist,H,4
+20231222,Grambling St.,Florida,A,-39
+20231222,North Florida,Georgia,A,-18
+20231222,Auburn,Alabama St.,H,20
+20231222,Hawaii,Georgia Tech,H,-5
+20231222,Southern Indiana,Southern Illinois,A,-31
+20231222,South Florida,Albany,H,16
+20231222,High Point,Canisius,H,8
+20231222,Stetson,Cincinnati,A,-8
+20231222,SMU,Murray St.,A,27
+20231222,Georgia Tech,Hawaii,A,5
+20231222,Yale,Kansas,A,-15
+20231222,Fresno St.,San Francisco,A,-20
+20231222,Austin Peay,Ohio,H,4
+20231222,Chattanooga,Milwaukee,A,-2
+20231222,Baylor,Mississippi Valley S,H,59
+20231222,Bucknell,Merrimack,A,-16
+20231222,Wisconsin,Chicago St.,H,27
+20231222,Florida,Grambling St.,H,39
+20231223,Santa Clara,Duquesne,N,8
+20231223,Saint Mary's,Missouri St.,H,-5
+20231223,Eastern Kentucky,Alabama,A,-44
+20231223,Villanova,DePaul,A,36
+20231223,Missouri St.,Saint Mary's,A,5
+20231223,Rutgers,Mississippi St.,N,-10
+20231223,LIU Brooklyn,Mount St. Mary's,A,-28
+20231223,Detroit,North Carolina St.,A,-17
+20231223,Southern Miss,Mississippi,N,-17
+20231223,Toledo,West Virginia,A,-10
+20231223,Arizona,Florida Atlantic,N,-1
+20231223,Kennesaw St.,UNC Asheville,A,-9
+20231223,Memphis,Vanderbilt,H,2
+20231223,Penn,Rider,A,4
+20231223,Butler,Providence,A,-10
+20231223,North Carolina St.,Detroit,H,17
+20231223,St. John's,Connecticut,A,-4
+20231223,Xavier,Seton Hall,H,20
+20231223,Mississippi,Southern Miss,N,17
+20231223,Florida Atlantic,Arizona,N,1
+20231223,UT Arlington,North Texas,A,-26
+20231223,UNC Asheville,Kennesaw St.,H,9
+20231223,Duquesne,Santa Clara,N,-8
+20231223,Providence,Butler,H,10
+20231223,North Texas,UT Arlington,H,26
+20231223,Vanderbilt,Memphis,A,-2
+20231223,Mount St. Mary's,LIU Brooklyn,H,28
+20231223,West Virginia,Toledo,H,10
+20231223,Alabama,Eastern Kentucky,H,44
+20231223,Connecticut,St. John's,H,4
+20231223,Rider,Penn,H,-4
+20231223,DePaul,Villanova,H,-36
+20231223,Seton Hall,Xavier,A,-20
+20231223,Mississippi St.,Rutgers,N,10
+20231224,TCU,Hawaii,A,14
+20231224,Georgia Tech,Nevada,N,-8
+20231224,Temple,Portland,N,1
+20231224,Nevada,Georgia Tech,N,8
+20231224,Portland,Temple,N,-1
+20231224,Hawaii,TCU,H,-14
+20231224,Massachusetts,Old Dominion,N,22
+20231224,Old Dominion,Massachusetts,N,-22
+20231227,Virginia,Morgan St.,H,35
+20231227,Morgan St.,Virginia,A,-35
+20231227,Cal Baptist,Chicago St.,H,12
+20231228,Cal St. Bakersfield,UC San Diego,A,-12
+20231228,Oregon,USC,H,8
+20231228,Cal Poly,Cal St. Northridge,H,-10
+20231228,Central Arkansas,Oklahoma,A,-16
+20231228,Cal St. Northridge,Cal Poly,A,10
+20231228,Eastern Washington,Portland St.,H,34
+20231228,UCLA,Oregon St.,A,7
+20231228,Oklahoma,Central Arkansas,H,16
+20231228,Cal St. Fullerton,Long Beach St.,H,-10
+20231228,Idaho,Sacramento St.,H,3
+20231228,Cleveland St.,Oakland,H,8
+20231228,Texas Tech,Sam Houston St.,H,36
+20231228,Idaho St.,Montana St.,H,-8
+20231228,Weber St.,Montana,H,30
+20231228,Tennessee St.,Tennessee Martin,H,-16
+20231228,UTSA,Prairie View A&M,H,14
+20231228,Coppin St.,Maryland,A,-22
+20231228,UC Davis,UC Santa Barbara,H,14
+20231228,Long Beach St.,Cal St. Fullerton,A,10
+20231228,Tennessee Martin,Tennessee St.,A,16
+20231228,USC,Oregon,A,-8
+20231228,UC San Diego,Cal St. Bakersfield,H,12
+20231228,Albany,LIU Brooklyn,A,17
+20231228,Montana,Weber St.,A,-30
+20231228,UC Santa Barbara,UC Davis,A,-14
+20231228,Tennessee Tech,Little Rock,H,-6
+20231228,UC Riverside,UC Irvine,A,-7
+20231228,Portland St.,Eastern Washington,A,-34
+20231228,Oregon St.,UCLA,H,-7
+20231228,Sacramento St.,Idaho,A,-3
+20231228,Sam Houston St.,Texas Tech,A,-36
+20231228,Prairie View A&M,UTSA,A,-14
+20231228,Little Rock,Tennessee Tech,A,6
+20231228,Oakland,Cleveland St.,A,-8
+20231228,UC Irvine,UC Riverside,H,7
+20231228,Maryland,Coppin St.,H,22
+20231228,Montana St.,Idaho St.,A,8
+20231228,LIU Brooklyn,Albany,H,-17
+20231229,Elon,Valparaiso,H,4
+20231229,IUPUI,Detroit,H,12
+20231229,Rider,Penn St.,A,-27
+20231229,Penn St.,Rider,H,27
+20231229,Wright St.,Green Bay,A,-11
+20231229,Green Bay,Wright St.,H,11
+20231229,Valparaiso,Elon,A,-4
+20231229,Detroit,IUPUI,A,-12
